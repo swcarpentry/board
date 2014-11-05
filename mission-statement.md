@@ -11,8 +11,7 @@ rules for such organizations.
 Our long-term goal is to ensure that every researchers learns the
 skills that SC teaches early in their career, whether through us or
 because what we teach has become part of the standard curriculum for
-their discipline.  In the medium term, we want to run 500 workshops
-to train 20,000 people a year by 2018.  What's more, we want to:
+their discipline.  What's more, we want to:
 
 * partner with a steadily growing group of like-minded organizations
   who can provide or help support core staff, coordinate training, act
@@ -22,11 +21,11 @@ to train 20,000 people a year by 2018.  What's more, we want to:
 * foster sibling organizations to cater to the needs of other learning
   communities;
 
-* have at least 5% of learners become instructors, so that we can
-  continue to grow;
+* have a significant fraction of learners become instructors, so that
+  we can continue to grow;
 
-* have at least 10% instructors regularly contribute to our teaching
-  materials, so that they can also continue to grow;
+* have a significant fraction of instructors regularly contribute to
+  our teaching materials, so that they can also continue to grow;
 
 * be financially self-sustaining;
 
