@@ -8,7 +8,7 @@ Internal Revenue Code as a tax-exempt 501(c)(3) scientific and
 educational public charity, and conducts its business according to the
 rules for such organizations.
 
-Our long-term goal is to ensure that every researchers learns the
+Our long-term goal is to ensure that every researcher learns the
 skills that SC teaches early in their career, whether through us or
 because what we teach has become part of the standard curriculum for
 their discipline.  What's more, we want to:
