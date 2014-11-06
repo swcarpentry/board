@@ -9,7 +9,7 @@ educational public charity, and conducts its business according to the
 rules for such organizations.
 
 Our long-term goal is to ensure that every researcher learns the
-skills that SC teaches early in their career, whether through us or
+skills that Software Carpentry teaches early in their career, whether through us or
 because what we teach has become part of the standard curriculum for
 their discipline.  What's more, we want to:
 
@@ -35,7 +35,7 @@ their discipline.  What's more, we want to:
 
 * most importantly, have a significant, demonstrable impact on the
   quality of scientific research, on the productivity of the average
-  researcher, and on the adoption of open science.
+  researcher, and on the adoption of reproducible and open science.
 
 In aid of these goals, the SCF:
 
