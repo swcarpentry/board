@@ -1,5 +1,5 @@
-Software Carpentry Interim Board Chair Responsibilities
-=======================================================
+Interim Board Chair Responsibilities
+====================================
 
 1. Organize/schedule meetings at the agreed-upon frequency.
 2. Ensure that an agenda is planned and circulated in a timely fashion for board meetings (with input from board members and SCF staff)

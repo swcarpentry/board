@@ -1,5 +1,5 @@
-Software Carpentry Executive Director: Job Description
-======================================================
+Executive Director Responsibilities
+===================================
 
 The Executive Director is the key management leader of Software
 Carpentry. The Executive Director works with the board to oversee the

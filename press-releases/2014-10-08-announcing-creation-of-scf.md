@@ -7,16 +7,16 @@ direction, manage finances, and hold its intellectual property.
 In order to work through the details, we have assembled an interim
 board drawn from a wide cross-section of our community:
 
-- Jenny Bryan (University of British Columbia, Canada)
-- Neil Chue Hong (University of Edinburgh / Software Sustainability Institute, UK)
-- Carole Goble (University of Manchester / ELIXIR UK)
-- Josh Greenberg (Sloan Foundation, USA, non-voting)
-- Katy Huff (University of California Berkeley, USA)
-- Damien Irving (University of Melbourne / Research Platforms, Australia)
-- Adam Stone (Lawrence Berkeley National Laboratory, USA)
-- Tracy Teal (Michigan State / Data Carpentry, USA)
-- Kaitlin Thaney (Mozilla Science Lab, USA)
-- Greg Wilson (Software Carpentry, Canada)
+*   Jenny Bryan (University of British Columbia, Canada)
+*   Neil Chue Hong (University of Edinburgh / Software Sustainability Institute, UK)
+*   Carole Goble (University of Manchester / ELIXIR UK)
+*   Josh Greenberg (Sloan Foundation, USA, non-voting)
+*   Katy Huff (University of California Berkeley, USA)
+*   Damien Irving (University of Melbourne / Research Platforms, Australia)
+*   Adam Stone (Lawrence Berkeley National Laboratory, USA)
+*   Tracy Teal (Michigan State / Data Carpentry, USA)
+*   Kaitlin Thaney (Mozilla Science Lab, USA)
+*   Greg Wilson (Software Carpentry, Canada)
 
 This group's mandate is to draft the SCF's initial bylaws and get the
 foundation legal standing, then arrange the transition to the first
