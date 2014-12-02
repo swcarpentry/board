@@ -12,7 +12,7 @@ Overall Operation
 Management
 ----------
 
-*   [Interim Steering Committee Chair Responsibilities](board-chair.md)
+*   [Interim Steering Committee Chair Responsibilities](steering-committee-chair.md)
 *   [Executive Director Responsibilities](executive-director.md)
 *   [Issue Escalation](issue-escalation.md)
 *   [Pursuit of Funding](pursuit-of-funding.md)
