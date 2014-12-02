@@ -62,11 +62,12 @@ Operations
     workshops in return for staff time, or may elect to pay an annual
     fee.
 
-6.  The board may reduce or waive workshop fees at its discretion.  In
-    particular, Software Carpentry strives to be a global project and
-    support a diverse set of organizations; any potential host that
-    wishes to offer a workshop that would aid these goals is urged to
-    contact the SCF to discuss waivers and other arrangements.
+6.  The Steering Committee may reduce or waive workshop fees at its
+    discretion.  In particular, Software Carpentry strives to be a
+    global project and support a diverse set of organizations; any
+    potential host that wishes to offer a workshop that would aid
+    these goals is urged to contact the SCF to discuss waivers and
+    other arrangements.
 
 7.  All requests for workshops, no matter who receives them or how,
     are pooled in a central location that all coordinators can access.
@@ -75,9 +76,9 @@ Operations
     communicate with the host using either an organizational email
     address or a software-carpentry.org email address, whichever the
     organization prefers.  All conversations must be recorded in a
-    shared central location approved by the Board (so that we don't
-    have to dig around in people's private mail archives two years
-    from now for conversations).
+    shared central location approved by the Steering Committee (so
+    that we don't have to dig around in people's private mail archives
+    two years from now for conversations).
 
 9.  All records of individuals' participation in workshops and
     training must be similarly recorded in a shared central location
@@ -86,4 +87,5 @@ Operations
     may not contact workshop participants about other activities
     without their explicit prior consent), and are expected to
     coordinate their use of that information with other organizational
-    members of the SCF through the SCF Board and Executive Director.
+    members of the SCF through the SCF Steering Committee and
+    Executive Director.

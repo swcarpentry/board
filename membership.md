@@ -46,7 +46,7 @@ organizational membership:
 
     c.  Provides at least 20 person-days of staff time or US$10,000 to
         the SCF annually for activities agreed upon with the SCF
-        board.
+        Steering Committee.
 
     d.  May advertise its status as an SCF Partner.
 
@@ -73,7 +73,7 @@ organizational membership:
 
 2.  An *Affiliate* is a university, research lab, corporation,
     non-profit, or other organization that is building a longer-term
-    relationship with SCF.  An Affiliate:
+    relationship with the SCF.  An Affiliate:
 
     a.  Has at least 2 qualified instructors associated with it.
 
@@ -83,8 +83,9 @@ organizational membership:
     c.  May advertise its status as an SCF Affiliate.
 
     d.  May elect to provide at least 10 person-days of staff time or
-        US$5000 annually for activities agreed upon with the SCF board
-        in lieu of paying workshop administration fees.
+        US$5000 annually for activities agreed upon with the SCF
+        Steering Committee in lieu of paying workshop administration
+        fees.
 
     In return, the SCF:
 

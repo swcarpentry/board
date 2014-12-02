@@ -2,26 +2,28 @@ Executive Director Responsibilities
 ===================================
 
 The Executive Director is the key management leader of Software
-Carpentry. The Executive Director works with the board to oversee the
-administration, programs and strategic plan of the organization. Other
-key duties include fundraising, marketing, and community outreach. The
-position reports directly to the Board of Directors.
+Carpentry. The Executive Director works with the Steering Committee to
+oversee the administration, programs and strategic plan of the
+organization. Other key duties include fundraising, marketing, and
+community outreach. The position reports directly to the Steering
+Committee.
  
 General Responsibilities
 ------------------------
 
-1) Board Governance
+1) Steering Committee Governance
 
-Works with board in order to fulfill the organization mission.
+Works with the Steering Committee in order to fulfill the organization
+mission.
 
 * Responsible for leading Software Carpentry in a manner that supports
-  and guides the organization's mission as defined by the Board of
-  Directors.
+  and guides the organization's mission as defined by the Steering
+  Committee.
 
-* Responsible for communicating effectively with the Board and
-  providing, in a timely and accurate manner, all information
-  necessary for the Board to function properly and to make informed
-  decisions.
+* Responsible for communicating effectively with the Steering
+  Committee and providing, in a timely and accurate manner, all
+  information necessary for the Steering Committee to function
+  properly and to make informed decisions.
 
 * Follow and uphold all Software Carpentry bylaws
 
@@ -31,9 +33,9 @@ Develops resources sufficient to ensure the financial health of the
 organization.
 
 * Responsible for the fiscal integrity of Software Carpentry, to
-  include submission to the Board of a proposed annual budget and
-  monthly financial statements, which accurately reflect the financial
-  condition of the organization.
+  include submission to the Steering Committee of a proposed annual
+  budget and monthly financial statements, which accurately reflect
+  the financial condition of the organization.
 
 * Responsible for fiscal management that generally anticipates
   operating within the approved budget, ensures maximum resource
@@ -45,15 +47,15 @@ organization.
 
 3) Organization Mission and Strategy
 
-Works with board and staff to ensure that the mission is fulfilled
-through programs, strategic planning and community outreach.
+Works with Steering Committee and staff to ensure that the mission is
+fulfilled through programs, strategic planning and community outreach.
 
 * Responsible for implementation of Software Carpentry's programs that
   carry out the organization's mission.
 
-* Responsible for working with the board on strategic planning to
-  ensure that Software Carpentry can successfully fulfill its Mission
-  into the future.
+* Responsible for working with the Steering Committee on strategic
+  planning to ensure that Software Carpentry can successfully fulfill
+  its Mission into the future.
 
 * Responsible for the enhancement of Software Carpentry's image by
   being active and visible in the community and by working closely
@@ -72,7 +74,7 @@ operations of the organization are appropriate.
 
 * Responsible for signing all notes, agreements, and other instruments
   made and entered into and on behalf of the organization. All
-  agreements will only be made with board approval.
+  agreements will only be made with Steering Committee approval.
 
 Professional Qualifications
 ---------------------------
@@ -91,13 +93,13 @@ Professional Qualifications
   program development and task facilitation
 
 * Ability to convey a vision of Software Carpentry's strategic future
-  to staff, board, volunteers and donors
+  to staff, Steering Committee, volunteers and donors
 
 * Knowledge of fundraising strategies and donor relations unique to
   the academic and nonprofit sector
 
-* Skills to collaborate with and motivate board members and other
-  volunteers
+* Skills to collaborate with and motivate Steering Committee members
+  and other volunteers
 
 * Strong written and oral communication skills
 
@@ -110,8 +112,8 @@ Professional Qualifications
 Actual Job Responsibilities
 ---------------------------
 
-* Planning and operation of annual budget to provide for board
-  approval
+* Planning and operation of annual budget to provide for Steering
+  Committee approval
 
 * Establishing employment, administrative and volunteer policies and
   procedures for all functions and for the day-to-day operation of the
@@ -124,7 +126,7 @@ Actual Job Responsibilities
   internationally and utilize those relationships to strategically
   enhance Software Carpentry's Mission.
 
-* Report to and work closely with the Board of Directors to seek their
+* Report to and work closely with the Steering Committee to seek their
   approval of and involvement in policy decisions, fundraising and to
   increase the overall visibility of the Foundation.
 
@@ -133,10 +135,11 @@ Actual Job Responsibilities
 * Coordinate the development of Software Carpentry resources,
   particularly workshop materials.
 
-* Participate in Board and committee meetings.
+* Participate in Steering Committee and sub-committee meetings.
 
 * Oversee marketing and other communications efforts.
 
-* Review contracts or agreements and provide to the board for approval.
+* Review contracts or agreements and provide to the Steering Committee
+  for approval.
 
-* Other duties as assigned by the Board of Directors.
+* Other duties as assigned by the Steering Committee.
