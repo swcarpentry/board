@@ -54,7 +54,7 @@ Operations
     to the SCF.  (So for a one-off, SCF gets US$1000 and the partner
     organization gets to decide what to do with the remaining US$250.
     For a batch of three, SCF gets US$1500 and the partner gets to
-    decide whether to keep the other US$2250 or give some or all of it
+    decide whether to keep the other US$1250 or give some or all of it
     to SCF.)
 
 5.  Workshop fees may be waived for internal workshops run by
