@@ -1,5 +1,5 @@
-Workshop Revenue and Operations
-===============================
+Workshop Fees and Operations
+============================
 
 Terminology
 -----------
