@@ -1,5 +1,4 @@
-Executive Director Responsibilities
-===================================
+# Executive Director Responsibilities
 
 The Executive Director is the key management leader of Software
 Carpentry. The Executive Director works with the Steering Committee to
@@ -8,10 +7,9 @@ organization. Other key duties include fundraising, marketing, and
 community outreach. The position reports directly to the Steering
 Committee.
  
-General Responsibilities
-------------------------
+## General Responsibilities
 
-1) Steering Committee Governance
+### 1) Steering Committee Governance
 
 Works with the Steering Committee in order to fulfill the organization
 mission.
@@ -27,7 +25,7 @@ mission.
 
 * Follow and uphold all Software Carpentry bylaws
 
-2) Financial Performance and Viability
+### 2) Financial Performance and Viability
 
 Develops resources sufficient to ensure the financial health of the
 organization.
@@ -45,7 +43,7 @@ organization.
 * Responsible for fundraising and developing other resources necessary
   to support Software Carpentry's mission.
 
-3) Organization Mission and Strategy
+### 3) Organization Mission and Strategy
 
 Works with Steering Committee and staff to ensure that the mission is
 fulfilled through programs, strategic planning and community outreach.
@@ -61,7 +59,7 @@ fulfilled through programs, strategic planning and community outreach.
   being active and visible in the community and by working closely
   with other professional, civic and private organizations.
 
-4) Organization Operations
+### 4) Organization Operations
 
 Oversees and implements appropriate resources to ensure that the
 operations of the organization are appropriate.
@@ -76,8 +74,7 @@ operations of the organization are appropriate.
   made and entered into and on behalf of the organization. All
   agreements will only be made with Steering Committee approval.
 
-Professional Qualifications
----------------------------
+## Professional Qualifications
 
 * Transparent and high integrity leadership
 
@@ -109,8 +106,7 @@ Professional Qualifications
 
 * Strong public speaking ability
 
-Actual Job Responsibilities
----------------------------
+## Actual Job Responsibilities
 
 * Planning and operation of annual budget to provide for Steering
   Committee approval
