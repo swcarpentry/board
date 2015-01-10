@@ -177,7 +177,7 @@ Carpentry Foundation.
 - organizing and overseeing evaluation and assessment
 - organizing and overseeing mentorship activities
 - fund-raising, writing grant proposals, forming collaborations, encouraging 
-  community members to write grant proposals, et.
+  community members to write grant proposals, etc.
 - writing blog posts, emails, and other updates to communicate Committee 
   activities with the community
 - and much more...
