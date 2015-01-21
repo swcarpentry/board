@@ -89,17 +89,20 @@ organizational membership:
 
     In return, the SCF:
 
-    a.  Reserves 2 seats in each online offering of the instructor
+    a.  Invites the Partner to appoint a representative to its
+        Advisory Council.
+
+    b.  Reserves 2 seats in each online offering of the instructor
         training course for Affiliate staff.
 
-    b.  Works to offer geographically local instructor training
+    c.  Works to offer geographically local instructor training
         annually in conjunction with other Affiliates if requested.
 
-    c.  Helps publicize relevant activities by the Affiliate, such as
+    d.  Helps publicize relevant activities by the Affiliate, such as
         other training courses, software releases, and notable
         scientific successes.
 
-    d.  Assists the Affiliate with recruiting, e.g., by publicizing
+    e.  Assists the Affiliate with recruiting, e.g., by publicizing
         open positions in social media.
 
 3.  A *Sponsor* is an organization that wishes to support SCF
