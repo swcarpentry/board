@@ -62,6 +62,13 @@ Governance
         under the organizational membership rules may appoint a
         representative to the Advisory Council.
 
+    d.  The Steering Committee may decide to co-opt additional
+        persons to the Advisory Council from the wider community at
+        any time, with a default term of one year. The number of
+        co-opted members shall not exceed the number of partners and
+        affiliates represented on the Advisory Council. Co-option
+        shall be done by majority vote of the Steering Committee.
+
 5.  The Executive Director is appointed by, and answers to, the
     Steering Committee.  He or she is a paid employee of the
     Foundation, and is responsible for overseeing its day-to-day
