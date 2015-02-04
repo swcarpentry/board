@@ -89,7 +89,7 @@ organizational membership:
 
     In return, the SCF:
 
-    a.  Invites the Partner to appoint a representative to its
+    a.  Invites the Affiliate to appoint a representative to its
         Advisory Council.
 
     b.  Reserves 2 seats in each online offering of the instructor
