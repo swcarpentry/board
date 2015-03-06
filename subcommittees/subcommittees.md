@@ -66,6 +66,9 @@
   - John Blischak
   - Andy Boughton
   - Mariela Perignon
+  - Trevor King
+  - Caroline Li
+  - Jeramia Ory
 
 ## Communication
 
