@@ -109,9 +109,7 @@ members of the Software Carpentry community.  Additionally, since this is an
 activist Committee, its members are responsible for volunteering time toward 
 their own active [participation](#participation) in the Software Carpentry 
 community.  Finally, Committee members must be [dedicated](#dedication) to 
-Software Carpentry and the SCF as a whole. 
-
-Accordingly, these individuals will sign a statement of commitment declaring that they:
+Software Carpentry and the SCF as a whole. In particular, they:
 
 * <a name="communication"></a> Will Communicate
   * Will work with the rest of the team to communicate the organization's role to our most important audiences
