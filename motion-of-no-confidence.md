@@ -1,0 +1,32 @@
+# Motion of no confidence
+
+The Steering Committee has [responsibilities][], and it's important
+that those responsibilities are enforceable.  For example, in the
+unlikely event that a Steering Committee member doesn't [attend 75% of
+the year's meetings][minimum-attendance], the other Steering Committee
+members and the Software Carpentry community at large should be able
+to evict the delinquent member.
+
+If at any time the Steering Committee passes (following their usual
+voting rules) a motion of no confidence or the [Foundation
+Membership][membership] submits a petition signed by over half of the
+Foundation Members, early elections must be immediately scheduled.
+The early elections may occur no sooner than 45 days and no later than
+60 days from the motion's passing or petition's submission.  Other
+than the shorter lead time, the [usual election rules][election]
+apply.  In particular, the existing Steering Committee members are
+free to run for and win re-election.  Until the elections take place,
+the existing Steering Committee shall continue to function as usual,
+but they are not allowed to reschedule the early elections.
+
+The newly elected Steering Committee members will serve the full
+[annual term][election].  For example, if elections are held in
+January, and a motion of no confidence passes on April 1st, elections
+could be scheduled between May 16th and May 31st.  If they were
+scheduled to end on the 31st, the next election would end no later
+than May 31st of the following year.
+
+[responsibilities]: committee-roles.md
+[minimum-attendance]: committee-roles.md#communication
+[membership]: governance.md#membership
+[election]: governance.md#steering-committee-elections
