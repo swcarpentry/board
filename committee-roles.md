@@ -35,18 +35,15 @@ The Chair agrees to:
 3.  Lead meetings fairly and transparently (or delegate meeting
     leadership when absent).
 
-4.  Ensure that minutes are kept and distributed (by delegation or
-    otherwise).
+4.  Facilitate the formation of necessary subcommittees.
 
-5.  Facilitate the formation of necessary subcommittees.
-
-6.  Ensure that SCF Steering Committee members are aware of their
+5.  Ensure that SCF Steering Committee members are aware of their
     governance duties and responsibilities.
 
-7.  Act as the primary liaison between the Executive Director and the
+6.  Act as the primary liaison between the Executive Director and the
     Steering Committee.
 
-8.  Serve as the primary liaison for communication between the
+7.  Serve as the primary liaison for communication between the
     community and the SCF Steering Committee members.
 
 
@@ -92,7 +89,9 @@ The Secretary is meant to maintain records of a non-financial nature. The Secret
 
 2. Circulate the meeting minutes privately among the members of the Committee for approval, allowing redactions within reason where requested.
 
-3. Manage, maintain, and facilitate other record keeping tasks where necessary.
+3. Archive and publish the approved meeting minutes [in the GitHub repository][minutes-repository].
+
+4. Manage, maintain, and facilitate other record keeping tasks where necessary.
 
 
 <a name="responsibilities"></a>
@@ -193,3 +192,5 @@ supportive of both the [Software Carpentry Foundation
 mission](https://github.com/swcarpentry/board/blob/master/mission-statement.md) 
 and the [Software Carpentry Code of 
 Conduct.](http://software-carpentry.org/conduct.html)
+
+[minutes-repository]: https://github.com/swcarpentry/board/tree/master/minutes
