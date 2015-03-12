@@ -75,4 +75,9 @@
 - SCF Liaison: Adina Howe
 - Description: The Communications Committee facilitates communication between the Steering Committee and many types of stakeholders including the public, potential workshop attendees, instructors, staff, and organizational members.
 - Members:
+  - Amy Brown
+  - Jonah Duckles
   - Ivan Gonzalez
+  - Simon Waldman
+  - Lynne Williams
+  - Qingpeng Zhang
