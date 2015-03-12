@@ -184,7 +184,14 @@ Governance
         arrangements for Software Carpentry related activities without
         prior approval from the Steering Committee.
 
-10. The Steering Committee may amend these rules at any time by
+10. The rules contained in [Robert's Rules of Order Revised
+    (1921)][RRoO] shall govern the Foundation in all cases to which
+    they are applicable, and in which they are not inconsistent with
+    the by-laws or the special rules of this Foundation.
+
+11. The Steering Committee may amend these rules at any time by
     majority vote, and must re-approve these rules or an amended
     version of them every two years, beginning one year after its
     initial formation.
+
+[RRoO]: https://archive.org/details/Robertsrulesofor00robe_201303
