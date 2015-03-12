@@ -2,8 +2,8 @@
 
 The Steering Committee has [responsibilities][], and it's important
 that those responsibilities are enforceable.  For example, in the
-unlikely event that a Steering Committee member doesn't [attend 75% of
-the year's meetings][minimum-attendance], the other Steering Committee
+event that a Steering Committee member doesn't [attend 75% of the
+year's meetings][minimum-attendance], the other Steering Committee
 members and the Software Carpentry community at large should be able
 to evict the delinquent member.
 
