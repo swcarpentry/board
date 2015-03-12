@@ -7,10 +7,12 @@ year's meetings][minimum-attendance], the other Steering Committee
 members and the Software Carpentry community at large should be able
 to evict the delinquent member.
 
-If at any time the Steering Committee passes (following their usual
-voting rules) a motion of no confidence or the [Foundation
-Membership][membership] submits a petition signed by over half of the
-Foundation Members, early elections must be immediately scheduled.
+An early election must be immediately scheduled if:
+
+1. The Steering Committee passes a motion of no confidence or
+2. The [Foundation Membership][membership] submits a petition signed
+   by over half of the Foundation Members.
+
 The early elections may occur no sooner than 45 days and no later than
 60 days from the motion's passing or petition's submission.  Other
 than the shorter lead time, the [usual election rules][election]
