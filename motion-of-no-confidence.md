@@ -1,9 +1,9 @@
 # Motion of no confidence
 
-The Steering Committee has [responsibilities][], and it's important
-that those responsibilities are enforceable.  For example, in the
-event that a Steering Committee member doesn't [attend 75% of the
-year's meetings][minimum-attendance], the other Steering Committee
+The [Steering Committee][committee] has [responsibilities][], and it's
+important that those responsibilities are enforceable.  For example,
+in the event that a Steering Committee member doesn't [attend 75% of
+the year's meetings][minimum-attendance], the other Steering Committee
 members and the Software Carpentry community at large should be able
 to evict the delinquent member.
 
@@ -28,6 +28,7 @@ could be scheduled between May 16th and May 31st.  If they were
 scheduled to end on the 31st, the next election would end no later
 than May 31st of the following year.
 
+[committee]: governance.md#steering-committee-roles
 [responsibilities]: committee-roles.md
 [minimum-attendance]: committee-roles.md#communication
 [membership]: governance.md#membership
