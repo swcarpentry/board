@@ -78,6 +78,7 @@
   - Amy Brown
   - Jonah Duckles
   - Ivan Gonzalez
+  - Leszek Tarkowski
   - Simon Waldman
   - Lynne Williams
   - Qingpeng Zhang
