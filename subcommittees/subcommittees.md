@@ -69,6 +69,7 @@
   - Trevor King
   - Caroline Li
   - Jeramia Ory
+  - Daisie Huang
 
 ## Communication
 
