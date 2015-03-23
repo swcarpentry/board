@@ -13,15 +13,15 @@ Therefore, the Mentorship Committee proposes a new program of Micro-Lessons, to 
 
 Upon completing a Micro-Lesson, the new instructor will:
  - Have initiated a pattern of success in teaching that will reinforce their confidence to teach a full workshop unit.
- - Have increaced their familiarity with some of the SWC lesson material.
- - Be eligible for badging as a full instructor, at the discretion of the observing instructor. This option is proposed by the Mentorship Committee as an alternative to the previous requirement of co-teaching a full workshop with an expereinced instructor, to alleviate the challenges this posed for new instructors in communities far from our existing instructor base.
+ - Have increased their familiarity with some of the SWC lesson material.
+ - Be eligible for badging as a full instructor, at the discretion of the observing instructor. This option is proposed by the Mentorship Committee as an alternative to the previous requirement of co-teaching a full workshop with an experienced instructor, to alleviate the challenges this posed for new instructors in communities far from our existing instructor base.
 
 
 ### Program Engagement
 
 While any instructor may deliver a Micro-Lesson, this program is especially suited to instructors just completing Instructor Training (live or online). The Mentorship Committee recommends presenting this option to all new Instructor Training graduates, and following up with it again after 6 months for all those new instructors who have not yet taught & completed their badge.
 
-Furthermore, the Mentorship Committee points out the opportunity for outreach provided by the Micro-Lesson program. By providing short, no-cost and low-overhead 'samples' of SWC teaching, curriculum and methodology, we create the opportunity for prospective host institutions to try out the format before organinzing a full workshop.
+Furthermore, the Mentorship Committee points out the opportunity for outreach provided by the Micro-Lesson program. By providing short, no-cost and low-overhead 'samples' of SWC teaching, curriculum and methodology, we create the opportunity for prospective host institutions to try out the format before organizing a full workshop.
 
 
 ### Metrics
@@ -33,4 +33,4 @@ The Micro-Lesson program lends itself to some simple metrics:
 
 ### To-Do
 
-In order for the Micro-Lesson program to deliver compelling lessons, the Mentorship Committee reccommends identifying curriculum that can likely be taught successfully in 1-1.5 hours, and deliver a useful skill or result in that time. At least one such subset of each of the Python, R, Git and Shell lessons should be identified before moving ahead with the program at scale.
+In order for the Micro-Lesson program to deliver compelling lessons, the Mentorship Committee recommends identifying curriculum that can likely be taught successfully in 1-1.5 hours, and deliver a useful skill or result in that time. At least one such subset of each of the Python, R, Git and Shell lessons should be identified before moving ahead with the program at scale.
