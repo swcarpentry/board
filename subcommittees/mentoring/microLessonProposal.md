@@ -6,7 +6,7 @@ It has been observed [reference?] that a large fraction [number?] of people comp
 
 Therefore, the Mentorship Committee proposes a new program of Micro-Lessons, to serve the pool of new instructors as they graduate from Instructor Training. A Micro-Lesson is characterized by the following:
 
- - The Micro-Lesson should deliver part of the SWC unit the instructor feels most comfortable with.
+ - The Micro-Lesson should deliver the first few sections of a unit of existing SWC material, to promote instructor familiarity with the material and mitigate additional content maintenance costs.
  - A Micro-Lesson should be about 1-1.5 hours in length, and certainly not longer than a full SWC unit.
  - Instructors are encouraged to deliver their Micro-Lesson in a familiar & safe setting; to their lab group, as a guided lesson for a study group or user's group in their department, or among any group of peers they feel comfortable with.
  - The Micro-Lesson should be observed by a more experienced SWC instructor, in order to provide feedback and support. Ideally, the mentor-instructor should be available live at the lesson, but practicality will sometimes require they watch by video stream.
