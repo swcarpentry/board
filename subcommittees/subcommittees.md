@@ -33,6 +33,7 @@
   - Chris Holdgraf
   - Tom Wright
   - Jonah Duckles
+  - Neil Chue Hong
 
 ## Assessment
 
