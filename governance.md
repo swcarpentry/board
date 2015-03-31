@@ -1,11 +1,13 @@
 Governance
 ==========
 
-1.  The Software Carpentry Foundation has four components: the
+1.  <a name="foundation"></a>
+    The Software Carpentry Foundation has four components: the
     Membership, the Steering Committee, the Advisory Council, and the
     Executive Director.
 
-2.  The Membership is made up of:
+2.  <a name="membership"></a>
+    The Membership is made up of:
 
     a.  Every qualified instructor who has taught at least twice in the
         past two calendar years.
@@ -19,7 +21,8 @@ Governance
     Members elect the Steering Committee, and may also seek election to
     it.
 
-3.  The Steering Committee makes all significant strategic and
+3.  <a name="steering-committee-roles"></a>
+    The Steering Committee makes all significant strategic and
     financial decisions for the Foundation.  Its members are also
     expected to take on other responsibilities as needed.
 
@@ -29,7 +32,8 @@ Governance
     b.  Minutes of the Steering Committee's meetings must be published
         within one week of each meeting.
 
-4.  The Steering Committee is re-elected annually.
+4.  <a name="steering-committee-elections"></a>
+    The Steering Committee is re-elected annually.
 
     a.  Every SCF member, and every organization that qualifies as a
         Partner or Affiliate under the organizational membership
@@ -48,7 +52,8 @@ Governance
         down one by one to be replaced by other candidates in order of
         the number of votes received.
 
-5.  The Advisory Council is made up of representatives of organizations
+5.  <a name="advisory-council">
+    The Advisory Council is made up of representatives of organizations
     that support the Software Carpentry Foundation's mission.  The
     Steering Committee must consult with it when making significant
     strategic, contractual, or financial decisions.
@@ -69,7 +74,8 @@ Governance
         affiliates represented on the Advisory Council. Co-option
         shall be done by majority vote of the Steering Committee.
 
-5.  The Executive Director is appointed by, and answers to, the
+5.  <a name="executive-director">
+    The Executive Director is appointed by, and answers to, the
     Steering Committee.  He or she is a paid employee of the
     Foundation, and is responsible for overseeing its day-to-day
     operations.
@@ -84,7 +90,8 @@ Governance
     the most recent version of the job description written and approved
     by the Steering Committee.
 
-7.  The Foundation's legal, financial, and contractual affairs are
+7.  <a name="numfocus">
+    The Foundation's legal, financial, and contractual affairs are
     handled through NumFOCUS, with which the Foundation has a Fiscal
     Sponsorship Agreement (FSA).  The project lead and two Steering
     Committee members are signatories of the FSA.
@@ -112,7 +119,8 @@ Governance
         report all such expenditures to the Steering Committee in the
         month in which they occur.
 
-8.  The work of the Software Carpentry Foundation is done by core
+8.  <a name="staff"></a>
+    The work of the Software Carpentry Foundation is done by core
     staff (those employed or contracted directly by the SCF), by staff
     working for Partners, Affiliates, and Sponsors (jointly referred
     to as "member organizations"), and by volunteers.
@@ -145,7 +153,8 @@ Governance
         certification without prior approval from the Steering
         Committee.
 
-9.  The Software Carpentry Foundation raises and spends money in
+9.  <a name="fundraising">
+    The Software Carpentry Foundation raises and spends money in
     support of the goals listed in its mission statement.
 
     a.  People and organizations may donate money directly to the SCF
@@ -184,12 +193,14 @@ Governance
         arrangements for Software Carpentry related activities without
         prior approval from the Steering Committee.
 
-10. The rules contained in [Robert's Rules of Order Revised
+10. <a name="rules-of-order"></a>
+    The rules contained in [Robert's Rules of Order Revised
     (1921)][RRoO] shall govern the Foundation in all cases to which
     they are applicable, and in which they are not inconsistent with
     the by-laws or the special rules of this Foundation.
 
-11. The Steering Committee may amend these rules at any time by
+11. <a name="amendment"></a>
+    The Steering Committee may amend these rules at any time by
     majority vote, and must re-approve these rules or an amended
     version of them every two years, beginning one year after its
     initial formation.
