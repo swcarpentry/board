@@ -21,18 +21,18 @@
   - Tim Cerino
   - Tracy Teal
 
-## Partner Relations / Fundraising
+## Partner Relations / Development
 
 - SCF Liaison: Jason Williams
 - Description: The Partner Relations and Fundraising subcommittee helps to manage stakeholder engagement, attract partnerships, and pursue funding for the Software Carpentry Foundation (SCF).
 - Members:
   - Chris Holdgraf
   - Jeffery Shelton
-  - Jonah Duckles
+  - Jonah Duckles - Chair
   - Leah Wasser
   - Neil Chue Hong
   - Tim Cerino
-  - Tom Wright
+  - Tom Wright - Secretary 
   - Tommy Guy
 
 ## Assessment
@@ -40,9 +40,9 @@
 - SCF Liaison: Jason Williams
 - Description: The assessment subcommittee seeks to assess the effectiveness of the activities of the Software Carpentry Foundation (SCF). Assessment may include measurement of educational efficacy, community engagement, and any other metrics of our pursuit of the SCF mission and vision.
 - Members:
-  - Daniel Chen
+  - Daniel Chen - Chair
   - Greg Wilson
-  - Jeramia Ory
+  - Jeramia Ory - Secretary
   - John Pearson
   - Jory Schossau
   - Kara Woo
