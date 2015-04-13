@@ -114,13 +114,20 @@ b.  an additional US$750/workshop for the second and subsequent
 
 ### 3.6) Administration Fees for Arranged Workshops for For-Profit organizations
 
-Arranged workshops for companies and other for-profit organizations
+We are presently (April 2015) running a short pilot program offering
+workshops to companies and other for-profit organizations.  These
 are charged:
 
 a.  US$5000 for the first workshop in any year;
 
 b.  an additional US$3000/workshop for the second and subsequent
     workshops in a year.
+
+The SCF may use one quarter of administration fee revenue from
+for-profit organizations for its own purposes.  It must use the
+remaining three quarters of this money to underwrite the costs of
+workshops for not-for-profit organizations, such as their
+administration fees and/or instructors' travel and accommodation.
 
 ### 3.7) Attendance Fees for Workshops
 
@@ -136,14 +143,6 @@ discretion.  In particular, Software Carpentry strives to be a global
 project and support a diverse set of organizations; any potential host
 that wishes to offer a workshop that would aid these goals is urged to
 contact the SCF to discuss waivers and other arrangements.
-
-### 3.9) SCF Use of Fees from For-Profit Organizations
-
-The SCF may use one quarter of administration fee revenue from
-for-profit organizations for its own purposes.  It must use the
-remaining three quarters of this money to underwrite the costs of
-workshops for not-for-profit organizations, such as their
-administration fees and/or instructors' travel and accommodation.
 
 ## 4) Examples
 
