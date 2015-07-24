@@ -57,7 +57,6 @@
 - SCF Liaison: Raniere Silva
 - Description: The mentorship subcommittee seeks to develop and maintain a mentorship program in support of Software Carpentry instructors (e.g. pre/post-workshop instructor debriefing) and other community members as they progress through training, curriculum development, and other activities.
 - Members:
-  - Bill Mills
   - Carol Willing
   - Daniel Chen
   - Karin Lagesen
