@@ -2,18 +2,34 @@
 
 Below is an implementation support plan for the proposed Micro-Lesson to be taught by 
 those who have recently completed instructor training but not yet taught a Software 
-Carpentry workshop. After successfully completing the workflow outlined below, the student
-can then graduate and become a badged Software Carpentry instructor.
+Carpentry workshop. The micro-lesson assignment outlined it to be done after instructor
+training has been completed. After successfully completing the workflow outlined below, 
+the student can then graduate and become a badged Software Carpentry instructor.
 
-
+### Mentor Requirements
 Estimating an average of 40 people completing instructor training, and that all of them
 choose to participate in the Micro-lesson to obtain their Software Carpentry Instructor 
-badge, the program outlined below will require 8 Mentors (Software Carpentry Instructors 
-who have taught 3 or more lessons in the previous year). Each Mentor will be responsible 
-for a maximum of 5 individuals who have recently completed instructor training, herein 
-referred to as trainees. For this program to be successful, each Mentor will have to 
-commit ~ 9 - 10 hours.
+badge, the program outlined below will require, at most, 8 Mentors (Software Carpentry 
+Instructors who have taught 3 or more lessons in the previous year). Each Mentor will be 
+responsible for a maximum of 5 individuals who have recently completed instructor 
+training, herein referred to as trainees. For this program to be successful, each Mentor 
+will have to commit a maximum of ~ 9 - 10 hours over 3 months. 
 
+### Program frequency and capacity
+The Micro-lesson program will be run 3 times a year (each program spanning 3 months), and 
+will begin the first week of September, January and May. As mentioned above, each 
+semester, Trainee number will be capped at 40. Only Trainees that have finished instructor 
+training are eligible and will be chosen on a first-come, first-serve basis. Applications 
+will close one month before before the beginning of each semester in order to allow enough
+time to arrange the correct number of mentors for the program.
+
+### Micro-lesson topic requirements
+The trainees assigned to each mentor will focus their micro-lesson on the same topic (i.e. 
+Shell, or R, or Git, etc) to enhance the peer learning potential. Trainees micro-lessons 
+will be one hour long and will start at the beginning of the novice-level Software 
+Carpentry lessons for that topic.
+
+### General Program outline
 1. Trainees will make a Github repository called `SWC-Micro-lesson-TheirName`. Two weeks 
 before the trainee is to teach the Micro-lesson, they must push a Markdown version of 
 their lesson plan and the data required to teach it to the repository, as well as send a 
@@ -28,8 +44,9 @@ via a Pull Request to the Trainees Github repository for the Micro-lesson.
 individual while the Mentor observes either in person, or remotely. 
 
 4. Immediately after the Micro-lesson, the Trainee and Mentor engage in an 15 minute 
-one-on-one debrief where the Mentor first asks the Trainee to comment on their performance.
-After which, the Mentor can give additional feedback on the Trainees performance.
+one-on-one debrief where the Mentor first asks the Trainee to comment on their 
+performance. After which, the Mentor can give additional feedback on the Trainees 
+performance.
 
 5. One week after the last Trainee has completed teaching their Micro-lesson, the Mentor 
 and their trainees will meet together for a 1 hour debrief via Google Hangouts. The Mentor 
