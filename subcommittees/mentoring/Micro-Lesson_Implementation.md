@@ -67,7 +67,7 @@ Micro-lesson before they become a badged instructor.
 ### Questions to ask at the group debrief:
 
 * How many learners? 
-* What topic was taught? Shell, Git, Python, R, MATLAB or SQL?
+* What topic was taught? 
 * What specifically was taught (i.e. to what part of the lesson did you get to)?
 * Did you adapt the lesson material or use it as written?
 * Please describe the challenges you used.
