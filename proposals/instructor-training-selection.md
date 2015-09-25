@@ -11,14 +11,19 @@
 
 ## Why Select Attends for Instructor Training
 
-SCF wants to train as more instructors as possible
-but demand for instructor training is higher than what SCF could offer
+SCF/DC wants to train as more instructors as possible
+but demand for instructor training is higher than what SCF/DC could offer
 at the moment.
-For the free/open online training SCF hopes to satisfy
+For the free/open online training SCF/DC hopes to satisfy
 the demand for instructor training from their community
 that isn't associate with one partner or affiliate
 and could participate at the Instructor Training
 delivered for partners and affiliates.
+Therefore if you work for one of the SCF/DC Partnering Sites,
+please inquire first at your organisation if you could undergo IT hosted by them.
+The Instructor Training described in this document is addressed
+at people who do not have such affiliation
+and hence have practically no alternative for getting trained as an instructor.
 
 ## Eligibility
 
@@ -26,7 +31,7 @@ delivered for partners and affiliates.
 
 -   With 4-6 people.
 -   Co-locate in one room for the two days
--   Commit to jointly running one workshop no longer then April 1st, 2016.
+-   Commit to jointly running one workshop no later than April 1st, 2016.
 
 ### Members
 
@@ -49,9 +54,9 @@ There is a cover letter sample at the end of this document.
 
 Groups will be selected based on:
 
--   Previous contribution to SCF,
+-   Previous contribution to SCF/DC,
     e.g. members were learners, helpers or instructors in a workshop,
-    members open issues or pull request to one of SCF lessons.
+    members open issues or pull request to one of SCF/DC lessons.
 
 -   Previous contribution to one group that organizes Software Carpentry-like workshops,
     e.g. [The Hacker Within](https://thehackerwithin.github.com/),
@@ -64,23 +69,24 @@ Groups will be selected based on:
 Groups will not be selected based on:
 
 -   Affiliation,
-    i.e. one group from Harvard will have the same opportunity
-    that one grup from University of Cape Town.
+    i.e. the affiliation with a particular institution, lab or university
+    will not be taken into account in selecting eligible groups.
+    That is, all institutions, labs and universities are treated equally.
 
 -   Academic qualification,
     i.e. one group of professors will have the same opportunity
-    that one group of undergraduate students.
+    as one group of undergraduate students.
 
 The criteria for tie will be:
 
 -   timezones,
     because instructor trainers and instructor in-training
-    should not be required to wake up too much early or saty up to much late.
+    should not be required to wake up too early or stay up too late.
 
 -   small number of instructors at city/province/state/country,
-    because SCF believes that increase the numbers of instructors
+    because SCF/DC believes that increasing the numbers of instructors
     at one region will help increase the number of workshops
-    at that region and with that achive their goal.
+    at that region and with that achieve their goal.
 
 ## Selection
 
@@ -144,8 +150,8 @@ as one group composed by:
 -   A5, very small (< 100 words) bibliography;
 -   A6, very small (< 100 words) bibliography.
 
-Every member of our group attended SCF workshops at least once.
-A1 taught X at the last SCF workshop organized at our university
+Every member of our group attended SCF/DC workshops at least once.
+A1 taught X at the last SCF/DC workshop organized at our university
 that was lead by INSTRUCTOR_NAME.
 At that same workshop A2 and A3 were helpers.
 
