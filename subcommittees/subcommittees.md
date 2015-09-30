@@ -71,6 +71,7 @@
   - Sheldon McKay
   - Susan McClatchy
   - Tiffany Timbers
+  - Tracy Teal
 
 ## Lesson Organization and Development
 
