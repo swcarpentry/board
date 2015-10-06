@@ -82,7 +82,7 @@ Groups will not be selected based on:
 
 Each members of the mentoring subcommittee
 will have one vote for each group slot for the Instructor Training round.
-Groups with the hight number of votes will be invited for the Instructor Training
+Groups with the highest number of votes will be invited for the Instructor Training
 until all slots are allocated.
 
 ## Group Confirmation Process
