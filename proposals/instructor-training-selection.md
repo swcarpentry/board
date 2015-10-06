@@ -6,27 +6,29 @@
 
 ## Terminology
 
--   An **instructor** is someone who teaches a workshop. Instructor training (IT)
-    prepares them to do this.
+-   An **instructor** is someone who teaches a workshop.
+    Instructor training (IT) prepares them to do this.
 
 ## Why Select Attends for Instructor Training
 
-SCF/DC wants to train as more instructors as possible
-but demand for instructor training is higher than what SCF could offer
+SCF wants to train as many instructors as possible
+but demand for instructor training is higher than what SCF is able to offer
 at the moment.
 
 ## Eligibility
 
-### Groups
-
--   Be able to Co-locate in one room for the two days
--   Commit to jointly running one workshop no later than April 1st, 2016.
+We expect all students to gather in groups
+that are able to co-locate in one room for the duration of the Instructor Training.
+Each group should commit to jointly run one workshop no later than April 1st, 2016.
+**Please note: how to run a workshop is covered in the curriculum.**
 
 ### Members of the groups
 
--   Be on the current waiting list
-    or
-    demonstrate sufficient competence with core tools used in the lessons they will teach.
+The members of the group should be on the current waiting list
+or
+demonstrate sufficient competence with core tools used in the lessons they will teach.
+
+Each students is expected to:
 
 -   Watch one of the two videos below
     and submit a paragraph of feedback on the video you chose to watch
@@ -59,15 +61,15 @@ There is a cover letter sample at the end of this document.
 
 Groups will be selected based on:
 
--   Previous involvement to SCF/DC,
+-   Group members were involved to SCF/DC,
     e.g. members were learners, helpers or instructors in a workshop,
-    members open issues or pull request to one of SCF/DC lessons.
+    members have opened issues or pull request to one of SCF/DC lessons.
 
--   Previous involvement to a group that organizes Software Carpentry-like workshops,
+-   Group members were involved to a group that organizes Software Carpentry-like workshops,
     e.g. [The Hacker Within](https://thehackerwithin.github.com/),
     Python and R local user groups.
 
--   Plan for the follow-up workshop.
+-   The group's plan for the follow-up workshop.
 
 Groups will not be selected based on:
 
@@ -80,7 +82,7 @@ Groups will not be selected based on:
 
 ## Selection
 
-Each members of the mentoring subcommittee
+Each member of the mentoring subcommittee
 will have one vote for each group slot for the Instructor Training round.
 Groups with the highest number of votes will be invited for the Instructor Training
 until all slots are allocated.
@@ -133,7 +135,7 @@ that you can check below.
 We already made reservations for that room
 in advance.
 
-We are planing to organize two workshops at the begin of 2016.
+We are planing to organize two workshops at the beginning of 2016.
 One will be Python based and will have A1, A2, A4 and INSTRUCTOR_NAME
 as instructors.
 The other one will be R based and will have A3, A5, A6 and INSTRUCTOR_NAME
