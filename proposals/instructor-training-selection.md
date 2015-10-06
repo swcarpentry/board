@@ -2,7 +2,7 @@
 
 **Warning: This is only a draft.**
 
-**Warning: This only apply for the two-day training course in December 2015.**
+**Warning: This only applies for the two-day training course in December 2015.**
 
 ## Terminology
 
@@ -12,41 +12,46 @@
 ## Why Select Attends for Instructor Training
 
 SCF/DC wants to train as more instructors as possible
-but demand for instructor training is higher than what SCF/DC could offer
+but demand for instructor training is higher than what SCF could offer
 at the moment.
-For the free/open online training SCF/DC hopes to satisfy
-the demand for instructor training from their community
-that isn't associate with one partner or affiliate
-and could participate at the Instructor Training
-delivered for partners and affiliates.
-Therefore if you work for one of the SCF/DC Partnering Sites,
-please inquire first at your organisation if you could undergo IT hosted by them.
-The Instructor Training described in this document is addressed
-at people who do not have such affiliation
-and hence have practically no alternative for getting trained as an instructor.
 
 ## Eligibility
 
 ### Groups
 
--   With 4-6 people.
--   Co-locate in one room for the two days
+-   Be able to Co-locate in one room for the two days
 -   Commit to jointly running one workshop no later than April 1st, 2016.
 
-### Members
+### Members of the groups
 
 -   Be on the current waiting list
     or
     demonstrate sufficient competence with core tools used in the lessons they will teach.
 
--   Watch a short video of someone teaching part of our core lessons and
-    write a summary of what was taught and how. Participants in the Fall
-    2015 pilot will be required to complete this step, and we will
-    select segments from the videos from SciPy 2015.
+-   Watch one of the two videos below
+    and submit a paragraph of feedback on the video you chose to watch
+    as part of your application.
+
+    - https://vimeo.com/139316669
+    - https://vimeo.com/139181120
+
+-   Submit a pull request to the GitHub repository at
+    https://github.com/swcarpentry/training-prep-2015-09.
+
+    Your pull request should contain one file (and one file only) called
+    "your_name.txt" (e.g., marie_curie.txt or alan_turing.txt). This file
+    should contain a sentence or two that describes the type of work you do.
+    You will submit the name of this file as part of your application.
+
+    Help on creating pull requests can be found at
+    https://help.github.com/articles/using-pull-requests/.
+
+    If you need assistance, please mail training-help@software-carpentry.org.
 
 ## Application
 
-Groups **must** send a cover letter to [ADDRESS TO SEND COVER LETTER]()
+Groups **must** fill
+https://docs.google.com/forms/d/1Fzm6HQt5RWyzbCSMmwj_8G78vlP7kXlT5sGjARXhjYM/edit?usp=sharing
 to apply for the two-day training course in December 2015.
 There is a cover letter sample at the end of this document.
 
@@ -54,73 +59,37 @@ There is a cover letter sample at the end of this document.
 
 Groups will be selected based on:
 
--   Previous contribution to SCF/DC,
+-   Previous involvement to SCF/DC,
     e.g. members were learners, helpers or instructors in a workshop,
     members open issues or pull request to one of SCF/DC lessons.
 
--   Previous contribution to one group that organizes Software Carpentry-like workshops,
+-   Previous involvement to a group that organizes Software Carpentry-like workshops,
     e.g. [The Hacker Within](https://thehackerwithin.github.com/),
     Python and R local user groups.
 
--   Plan for the local organization of the Instructor Training.
-
--   Plan for the upcoming workshop.
+-   Plan for the follow-up workshop.
 
 Groups will not be selected based on:
 
--   Affiliation,
-    i.e. the affiliation with a particular institution, lab or university
-    will not be taken into account in selecting eligible groups.
-    That is, all institutions, labs and universities are treated equally.
+-   **Affiliation with a particular institution, lab, or university.**
+    All groups will be considered equally.
 
--   Academic qualification,
-    i.e. one group of professors will have the same opportunity
-    as one group of undergraduate students.
-
-The criteria for tie will be:
-
--   timezones,
-    because instructor trainers and instructor in-training
-    should not be required to wake up too early or stay up too late.
-
--   small number of instructors at city/province/state/country,
-    because SCF/DC believes that increasing the numbers of instructors
-    at one region will help increase the number of workshops
-    at that region and with that achieve their goal.
+-   **Academic qualification**
+    Faculty and students will be considered equally,
+    as will groups from different academic disciplines.
 
 ## Selection
 
-Each members of
-
--   the mentoring subcommittee,
--   SCF steering committee and
--   DC steering committee
-
+Each members of the mentoring subcommittee
 will have one vote for each group slot for the Instructor Training round.
-
-Members of more than one committee
-**will only have one vote per group slot**.
-
-For example,
-there will be eight slots
-and the committees composition are:
-
--   Mentoring subcommittee: M1, M2, M3, M4, M5, M6, M7, M8.
--   SCF steering committee: S1, S2, S3, S4.
--   DC steering committee: D1, D2, D3, D4.
-
-So,
-M1, M2, M3, M4, M5, M6, M7, M8,
-S1, S2, S3, S4,
-D1, D2, D3, and D4
-will have eight votes each.
+Groups with the hight number of votes will be invited for the Instructor Training
+until all slots are allocated.
 
 ## Group Confirmation Process
 
-After all the groups were ranked,
-the groups at the top of the rank will be contacted by email
-requesting a email confirmation that they still available
-to be part of the Instructor Training.
+Selected groups will have one week to confirm participation.
+If they fail to do so,
+their slot will be given to the next group in sequence.
 
 ## Timeline
 
@@ -130,8 +99,8 @@ to be part of the Instructor Training.
 -   2015-11-18: group applications for two-day online class close.
 -   2015-11-23: extraordinary mentoring subcommittee meeting to vote on groups applications.
 -   2015-11-24: groups confirmation process begins.
--   2015-11-29: groups confirmation process ends.
--   2015-11-30: blog post announcing group selected goes online.
+-   2015-12-03: groups confirmation process ends.
+-   2015-12-04: blog post announcing group selected goes online.
 -   2015-12-07: two-day online class begins.
 -   2015-12-08: two-day online class ends.
 
@@ -143,12 +112,12 @@ we are writing to express our interested
 to attend the two-day training course in December 2015
 as one group composed by:
 
--   A1, very small (< 100 words) bibliography;
--   A2, very small (< 100 words) bibliography;
--   A3, very small (< 100 words) bibliography;
--   A4, very small (< 100 words) bibliography;
--   A5, very small (< 100 words) bibliography;
--   A6, very small (< 100 words) bibliography.
+-   A1,
+-   A2,
+-   A3,
+-   A4,
+-   A5 and
+-   A6.
 
 Every member of our group attended SCF/DC workshops at least once.
 A1 taught X at the last SCF/DC workshop organized at our university
