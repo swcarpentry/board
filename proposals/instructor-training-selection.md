@@ -28,11 +28,11 @@ The members of the group should be on the current waiting list
 or
 demonstrate sufficient competence with core tools used in the lessons they will teach.
 
-Each students is expected to:
+Each student is expected to:
 
 -   Watch one of the two videos below
-    and submit a paragraph of feedback on the video you chose to watch
-    as part of your application.
+    and submit a paragraph of feedback on the video they chose to watch
+    as part of their application.
 
     - https://vimeo.com/139316669
     - https://vimeo.com/139181120
