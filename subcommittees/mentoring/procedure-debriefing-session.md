@@ -14,6 +14,15 @@ are organized so that it continue even after members go away.
 
 ## We Need a Debriefing Session
 
+1.  SCF is a community based project
+    and the community need opportunity to interact.
+
+2.  SCF believe in jugyokenkyu, or "lesson study",
+    and evidence-based education
+    so instructors need opportunity to change experience.
+
+## Let's do a Debriefing Session
+
 The Mentoring Subcommittee is responsible to organize
 the debriefing sessions so that
 
@@ -80,5 +89,5 @@ to help instructors answer the questions on the next session.
 After each debriefing session,
 the **facilitator** of that debriefing session **must**
 
-1.  wrote a blog post summarizing the topics discussed and
+1.  write a blog post summarizing the topics discussed and
 2.  create issues at the properly place for comments about the lessons.
