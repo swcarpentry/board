@@ -115,20 +115,20 @@ we are writing to express our interested
 to attend the two-day training course in December 2015
 as one group composed by:
 
--   A1,
--   A2,
--   A3,
--   A4,
--   A5 and
--   A6.
+-   NAME_OF_1ST_STUDENT,
+-   NAME_OF_2ND_STUDENT,
+-   NAME_OF_3RD_STUDENT (GITHUB_ID on GitHub),
+-   NAME_OF_4TH_STUDENT,
+-   NAME_OF_5TH_STUDENT and
+-   NAME_OF_6TH_STUDENT (GITHUB_ID on GitHub).
 
 Every member of our group attended SCF/DC workshops at least once.
-A1 taught X at the last SCF/DC workshop organized at our university
+NAME_OF_1ST_STUDENT taught X at the last SCF/DC workshop organized at our university
 that was lead by INSTRUCTOR_NAME.
-At that same workshop A2 and A3 were helpers.
+At that same workshop NAME_OF_2ND_STUDENT and NAME_OF_3RD_STUDENT were helpers.
 
-A4 is the organizer of the Python MeetUp meetings at our university.
-A5 is the organizer of the R MeetUp meetings at our university.
+NAME_OF_4TH_STUDENT is the organizer of the Python MeetUp meetings at our university.
+NAME_OF_5TH_STUDENT is the organizer of the R MeetUp meetings at our university.
 
 If we are selected for the instructor training
 we will use the conference room of our department
@@ -137,9 +137,17 @@ We already made reservations for that room
 in advance.
 
 We are planing to organize two workshops at the beginning of 2016.
-One will be Python based and will have A1, A2, A4 and INSTRUCTOR_NAME
+One will be Python based and will have
+NAME_OF_1ST_STUDENT,
+NAME_OF_2ND_STUDENT,
+NAME_OF_4TH_STUDENT and
+INSTRUCTOR_NAME
 as instructors.
-The other one will be R based and will have A3, A5, A6 and INSTRUCTOR_NAME
+The other one will be R based and will have
+NAME_OF_3RD_STUDENT,
+NAME_OF_5TH_STUDENT,
+NAME_OF_6TH_STUDENT and
+INSTRUCTOR_NAME
 as instructors.
 We will use the same room used for the last workshop
 and we already talked with INSTRUCTOR_NAME about those workshops.
