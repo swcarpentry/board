@@ -22,7 +22,7 @@ that are able to co-locate in one room for the duration of the Instructor Traini
 Each group should commit to jointly run one workshop no later than April 1st, 2016.
 **Please note: how to run a workshop is covered in the curriculum.**
 
-### Members of the groups
+### Participation in a group
 
 The members of the group should be on the current waiting list
 or
