@@ -37,7 +37,8 @@ Each student is expected to:
     - https://vimeo.com/139316669
     - https://vimeo.com/139181120
 
--   Submit a pull request to the GitHub repository at
+-   **Only** students interested in teach for Software Carpentry need to
+    submit a pull request to the GitHub repository at
     https://github.com/swcarpentry/training-prep-2015-09.
 
     Your pull request should contain one file (and one file only) called
