@@ -2,12 +2,17 @@
 
 **Warning: This is only a draft.**
 
-**Warning: This only applies for the two-day training course in December 2015.**
+**Warning: This only applies for the free/open two-day training course in December 2015.**
 
 ## Terminology
 
 -   An **instructor** is someone who teaches a workshop.
     Instructor training (IT) prepares them to do this.
+
+## Notation
+
+-   **SCF**: Software Carpentry Foundation.
+-   **DC**: Data Carpentry.
 
 ## Why Select Attends for Instructor Training
 
@@ -71,12 +76,12 @@ Groups will be selected based on:
 
 -   The group's plan for the follow-up workshop.
 
-Groups will not be selected based on:
+Groups will **not** be selected based on:
 
 -   **Affiliation with a particular institution, lab, or university.**
     All groups will be considered equally.
 
--   **Academic qualification**
+-   **Academic qualification.**
     Faculty and students will be considered equally,
     as will groups from different academic disciplines.
 
@@ -114,17 +119,22 @@ we are writing to express our interested
 to attend the two-day training course in December 2015
 as one group composed by:
 
--   NAME_OF_1ST_STUDENT,
--   NAME_OF_2ND_STUDENT,
+-   NAME_OF_1ST_STUDENT (GITHUB_ID on GitHub),
+-   NAME_OF_2ND_STUDENT (GITHUB_ID on GitHub),
 -   NAME_OF_3RD_STUDENT (GITHUB_ID on GitHub),
--   NAME_OF_4TH_STUDENT,
--   NAME_OF_5TH_STUDENT and
+-   NAME_OF_4TH_STUDENT (GITHUB_ID on GitHub),
+-   NAME_OF_5TH_STUDENT (GITHUB_ID on GitHub) and
 -   NAME_OF_6TH_STUDENT (GITHUB_ID on GitHub).
 
-Every member of our group attended SCF/DC workshops at least once.
-NAME_OF_1ST_STUDENT taught X at the last SCF/DC workshop organized at our university
+NAME_OF_1ST_STUDENT
+attended a SCF workshop in 2014,
+NAME_OF_2ND_STUDENT
+attended a SCF workshop in 2015.
+and
+NAME_OF_3RD_STUDENT
+attended a DC workshop in 2015.
+NAME_OF_1ST_STUDENT was a helper at the last SCF/DC workshop organized at our university
 that was lead by INSTRUCTOR_NAME.
-At that same workshop NAME_OF_2ND_STUDENT and NAME_OF_3RD_STUDENT were helpers.
 
 If we are selected for the instructor training
 we will use the conference room of our department
