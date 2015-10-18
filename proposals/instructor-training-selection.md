@@ -37,9 +37,8 @@ Each student is expected to:
     - https://vimeo.com/139316669
     - https://vimeo.com/139181120
 
--   **Only** students interested in teach for Software Carpentry need to
-    submit a pull request to the GitHub repository at
-    https://github.com/swcarpentry/training-prep-2015-09.
+-   **Only** students interested in teaching for Software Carpentry need to
+    submit a pull request to the specified GitHub repository.
 
     Your pull request should contain one file (and one file only) called
     "your_name.txt" (e.g., marie_curie.txt or alan_turing.txt). This file
@@ -53,8 +52,8 @@ Each student is expected to:
 
 ## Application
 
-Groups **must** fill
-https://docs.google.com/forms/d/1Fzm6HQt5RWyzbCSMmwj_8G78vlP7kXlT5sGjARXhjYM/edit?usp=sharing
+Groups **must** fill out
+[this survey](https://docs.google.com/forms/d/1Fzm6HQt5RWyzbCSMmwj_8G78vlP7kXlT5sGjARXhjYM/edit?usp=sharing)
 to apply for the two-day training course in December 2015.
 There is a cover letter sample at the end of this document.
 
@@ -62,11 +61,11 @@ There is a cover letter sample at the end of this document.
 
 Groups will be selected based on:
 
--   Group members were involved to SCF/DC,
+-   Group members were involved in SCF/DC,
     e.g. members were learners, helpers or instructors in a workshop,
     members have opened issues or pull request to one of SCF/DC lessons.
 
--   Group members were involved to a group that organizes Software Carpentry-like workshops,
+-   Group members were involved in a group that organizes Software Carpentry-like workshops,
     e.g. [The Hacker Within](https://thehackerwithin.github.com/),
     Python and R local user groups.
 
@@ -126,9 +125,6 @@ Every member of our group attended SCF/DC workshops at least once.
 NAME_OF_1ST_STUDENT taught X at the last SCF/DC workshop organized at our university
 that was lead by INSTRUCTOR_NAME.
 At that same workshop NAME_OF_2ND_STUDENT and NAME_OF_3RD_STUDENT were helpers.
-
-NAME_OF_4TH_STUDENT is the organizer of the Python MeetUp meetings at our university.
-NAME_OF_5TH_STUDENT is the organizer of the R MeetUp meetings at our university.
 
 If we are selected for the instructor training
 we will use the conference room of our department
