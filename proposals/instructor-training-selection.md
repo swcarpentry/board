@@ -1,7 +1,5 @@
 # Instructor Training Selection
 
-**Warning: This is only a draft.**
-
 **Warning: This only applies for the free/open two-day training course in December 2015.**
 
 ## Terminology
