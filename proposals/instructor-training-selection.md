@@ -58,7 +58,7 @@ Each student is expected to:
 ## Application
 
 Groups **must** fill out
-[this survey](https://docs.google.com/forms/d/1Fzm6HQt5RWyzbCSMmwj_8G78vlP7kXlT5sGjARXhjYM/edit?usp=sharing)
+[this survey](https://docs.google.com/forms/d/1Fzm6HQt5RWyzbCSMmwj_8G78vlP7kXlT5sGjARXhjYM/viewform)
 to apply for the two-day training course in December 2015.
 There is a cover letter sample at the end of this document.
 
@@ -102,7 +102,7 @@ their slot will be given to the next group in sequence.
 
 -   2015-10-19: proposal approved.
 -   2015-10-20: blog post announcing the selection goes online.
--   2015-11-04: group applications for two-day online class open.
+-   2015-10-20: group applications for two-day online class open.
 -   2015-11-18: group applications for two-day online class close.
 -   2015-11-23: extraordinary mentoring subcommittee meeting to vote on groups applications.
 -   2015-11-24: groups confirmation process begins.
