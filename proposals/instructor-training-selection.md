@@ -98,9 +98,9 @@ their slot will be given to the next group in sequence.
 
 ## Timeline
 
--   2015-10-19: proposal approved.
--   2015-10-20: blog post announcing the selection goes online.
--   2015-10-20: group applications for two-day online class open.
+-   2015-10-22: proposal approved.
+-   2015-10-22: blog post announcing the selection goes online.
+-   2015-10-22: group applications for two-day online class open.
 -   2015-11-18: group applications for two-day online class close.
 -   2015-11-23: extraordinary mentoring subcommittee meeting to vote on groups applications.
 -   2015-11-24: groups confirmation process begins.
