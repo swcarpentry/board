@@ -12,7 +12,7 @@
 -   **SCF**: Software Carpentry Foundation.
 -   **DC**: Data Carpentry.
 
-## Why Select Attends for Instructor Training
+## Why Select Students for Instructor Training
 
 SCF wants to train as many instructors as possible
 but demand for instructor training is higher than what SCF is able to offer
