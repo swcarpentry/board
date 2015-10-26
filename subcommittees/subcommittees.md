@@ -85,6 +85,7 @@
   - John Blischak
   - Mariela Perignon
   - Trevor King
+  - Phil Rosenfield
 
 ## Communication
 
