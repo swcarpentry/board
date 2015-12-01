@@ -13,16 +13,16 @@ they know the lesson material, and have helped and guided them through what they
 It is likely that this will lower the threshold to teaching their first workshop.
 
 Second, we are expecting that the people we admit to be our teachers already know certain things.
-This might not be the case - we could have people who are great at unix but who know little about
-git, and people with R knowledge who would not be able to manoeuvre on the command line. Thus, there
-might be gaps in their knowledge, which the students themselves may or may not be aware of. By having
-them work through the core lesson material, we ensure that the students have at least a minimum level
+This might not be the case - we could have people who are great at Unix but who know little about
+Git, and people with R knowledge who would not be able to manoeuvre on the command line. Thus, there
+might be gaps in their knowledge, which the trainees themselves may or may not be aware of. By having
+them work through the core lesson material, we ensure that the trainees have at least a minimum level
 of knowledge in all of our core subjects. 
 
 Third, many instructors don’t really know too many others within the Software and Data Carpentry
-organization. By having people working in teams during training, we strengthen between-instructor
+organizations. By having people working in teams during training, we strengthen between-instructor
 connections which may lead to more discussions between instructors at a later stage. Also, by having
-people already within the organization mentoring future instructors, they get to know people already
+people already within the community mentoring future instructors, they get to know people already
 inside of the organization. 
 
 Fourth, as a bonus we get a lot of people working through the material, which can only be a benefit to
@@ -39,14 +39,14 @@ training  to actually teaching workshops, by doing the following activities:
 ### Mentoring
 
 Future instructors, or trainees, form small groups and are assigned a mentor.  Over a period of a 3-4
-weeks, they work through the core material* for Software and Data Carpentry on their own, as if they
+weeks, they work through the core material for Software and Data Carpentry on their own, as if they
 were workshop participants.  Each week, the group meets to discuss their experiences with the lesson
 material and the mentor receives feedback and provides guidance.  The primary goal is not that the
 trainees should be prepared enough to teach the module, but to become familiar with it and gain skills.  
 
 ### Mini-lessons
 
-Each trainee chooses a topic relevant to Software and Data Carpentry (can be one of our lessons or
+Each trainee chooses a topic relevant to Software or Data Carpentry (can be one of our lessons or
 their own provided their mentor approves) and teaches a 1 hour lesson at their local institution to an
 audience of their choice.  This lesson should be at least partially observed by a mentor and feedback
 provided.  Whenever possible, the mentor observing the mini-lesson should be the mentor of the previous
@@ -76,9 +76,6 @@ Candidates will sign up via a form that requests the following information:
 - Language preferences (if any). 
 - When they went through instructor training 
  
-Based on this data, the mentoring committee will form groups of 3-4 people, prioritizing in the order
-listed above.  
-
 ### Mentors
 
 An advertisement for mentors will be posted on the Software Carpentry blog, outlining the time
@@ -93,18 +90,25 @@ history.  Expert help will be provided to support the mentors.
 follow-up.  Mentoring for this practicum is a time-limited focused committment; volunteering now
 doesn’t mean you’re committing to doing it again 
 - Training, discussion questions, and feedback tools will be provided 
+- Mentors will be recognized as such on the Instructor webpage
+- Mentors will be given certificates describing their involvement with teaching and training new instructors.
+- Participation as a mentor will count towards the membership workshop count. 
   
 Mentors can apply via a form that requests the following information: 
 
 - SCF experience 
 - Other teaching experience 
-- R or python preference 
+- R or Python preference 
 - Time zone plus preferred time of day for meetings (daytime/evening) 
-
-Mentors will be selected and matched to groups by the mentoring committee.  
 
 Before starting to meet with their groups, all mentors are required to attend the mentoring training
 meeting. 
+
+### Group formation
+
+
+Based on data gathered on trainees and mentors regarding subject matter, time zone preferences and the like, the mentoring committee will form groups of 3-4 people (excluding the mentor). 
+
 
 ### Lead mentor
 
@@ -123,14 +127,14 @@ expected lesson schedule (this can be over email or via an initial meeting).
 
 Each week, the group meets without the mentor to discuss their experience with the lesson.  The group
 also meets with their mentor once a week for a more in-depth discussion.  Depending on the number of
-groups and mentors, one mentor may be responsible for two groups.  We suggest that students meet on
+groups and mentors, one mentor may be responsible for two groups.  We suggest that trainees meet on
 Tues/Wed, with mentor on Friday or weekend, if convenient for the group. 
 
 ### Mini-lessons
 
 The following is the proposed mini-lesson plan:  
 
-1. Trainees will in collaboration with their mentor figure out a portion of material that the student
+1. Trainees will in collaboration with their mentor figure out a portion of material that the trainee
 will teach from. The aim is to have approximately an hours worth of material. The trainee will then
 prepare the material, including data, and make it available for review by the mentor. 
 2. The mentor will then review the lesson plan and have a short (online) meeting with each trainee one
@@ -154,7 +158,7 @@ to the lesson topic they taught.
 
 - Week 1: signup forms for mentors and trainees available, announced with blogpost, as well as email to
 discuss list and all recently educated instructors. 2 week signup period. 
-- Week 3: selection of mentors, creation of groups, combine mentors and groups. Send out info end of
+- Week 3: matching mentors with trainees and creation of groups. Send out info end of
 Week 3. 
 - Week 4: Orientation meeting for trainees, orientation meeting and training for mentors.  
 
@@ -166,13 +170,13 @@ either DWC or DC.
 ### Mini Lessons
 
 - Week 9: break 
-- Week 10: student puts together mini-lesson material 
+- Week 10: trainee puts together mini-lesson material 
 - Week 11: mentor reviews material 
 - Week 12: mentor observes mini-lessons 
 
-*Core Material
+### Core Material
 
-For SWC: shell, git and either R or Python
+For SWC: shell, version control and either R or Python
 
 For DC: Spreadsheets, data cleaning with OpenRefine, Sql, and either R- or Python-ecology
 
