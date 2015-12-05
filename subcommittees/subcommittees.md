@@ -1,14 +1,5 @@
 # Subcommittee Membership and Other Information
 
-## Fees
-
-- SCF Liaison: Raniere Silva
-- Description: The Fee subcommittee recommends a guideline for how to do waivers so that support the mission ad goals of the Software Carpentry Foundation (SCF) and it sustainability. **This is a temporary subcommittee.**
-- Members:
-  - Aleksandra Pawlik
-  - Camille Avestruz
-  - Karin Lagesen
-
 ## Finance
 
 - SCF Liaison: Jason Williams
@@ -68,7 +59,6 @@
   - Michael Sarahan
   - Phil Rosenfield
   - Rayna M Harris
-  - Sheldon McKay
   - Susan McClatchy
   - Tiffany Timbers
   - Tracy Teal
@@ -99,3 +89,28 @@
   - Lynne Williams
   - Qingpeng Zhang
   - Simon Waldman
+
+# Former members
+
+## Fees
+
+- SCF Liaison: Raniere Silva
+- Description: The Fee subcommittee recommends a guideline for how to do waivers so that support the mission ad goals of the Software Carpentry Foundation (SCF) and it sustainability. **This is a temporary subcommittee.**
+- Members:
+  - Aleksandra Pawlik
+  - Camille Avestruz
+  - Karin Lagesen
+
+## Finance
+
+## Partner Relations / Development
+
+## Assessment
+
+## Mentorship
+
+- Sheldon McKay
+
+## Lesson Organization and Development
+
+## Communication
