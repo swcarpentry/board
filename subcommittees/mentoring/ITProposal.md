@@ -4,96 +4,111 @@
 
 ## Terminology
 
--   Checkout session: 1h meeting where learners at Instructor Training delivery
-    their last task.
+- [Checkout session](#checkout-session): 1h meeting where learners at
+  Instructor Training deliver and review five-minute lessons
 
-    The meetings are lead by Instructor Trainers and can have at maximum 6
-    learners.
--   Mini-lesson: 1h lesson for at least 3 people delivering part of one lesson
-    from Software or Data Carpentry curriculum.
--   Session: 3h lesson for at least 10 people delivering one full lesson
-    from Software or Data Carpentry curriculum.
--   Workshop: 12h lesson for at least 20 people delivering the full curriculum
-    of Software or Data Carpentry.
--   Instructor in Training: can taught and organize a mini-lesson, session or workshop under
-    the supervision of a Software or Data Carpentry instructor.
--   Instructor: can lead, taught and organize a mini-lesson, session or workshop.
+  The meetings are lead by Instructor Trainers and can have at maximum
+  6 learners.
+- Mini-lesson: 1h lesson for at least 3 people delivering part of one
+  lesson from Software or Data Carpentry curriculum.
+- Session: 3h lesson for at least 10 people delivering one full lesson
+  from [Software][swc-lessons] or [Data Carpentry][dc-lessons] curriculum.
+- Workshop: 12h lesson for at least 20 people delivering the full
+  curriculum of [Software][swc-core] or Data Carpentry.
+- Instructor in Training: can teach and organize a mini-lesson,
+  session, or workshop under the supervision of a badged Software or
+  Data Carpentry instructor.
+- Instructor: can lead, teach, and organize a mini-lesson, session, or
+  workshop.
+- Program Coordinator: TODO (is this the Executive Director?)
 
 ## Badges
 
-Anyone interested in join Software and Data Carpentry team of instructors
-**must** complete the Instructor Training in any format offered by Software and
-Data Carpentry.
+Anyone interested in joining the Software and/or Data Carpentry team
+of instructors **must** complete the Instructor Training in any format
+offered by Software and/or Data Carpentry.
 
-To complete the Instructor Training is required to accomplished one final exercise
-describe below.
+Software and Data Carpentry will assign "Instructor in Training"
+badges to people who have successfully completed a [checkout
+session](#checkout-session).  After badging, Instructors in Training
+have one year to teach one mini-lesson, one session, or one workshop
+under the supervision of a badged Software or Data Carpentry
+Instructor.  After each mini-lesson, session, or workshop, the
+supervising Instructor **can** recommend the Instructor in Training
+for the Instructor badge.  The Software and/or Data Carpentry
+Executive Director will assign Instructor badges following the
+recommendations of the supervising Instructor.  The Instructor in
+Training badge expires after a year, by which time the Instructor in
+Training should have become a badged Instructor.  If the Instructor in
+Training has not become and Instructor and still wants to become one,
+they must re-enter the Instructor Training process at the beginning.
 
-After the final exercise, Software and Data Carpentry give the "Instructor in
-Training" badge for those that complete the final exercise.
-
-"Instructor in Training" has one year to taught one mini-lesson,
-one session or one workshop under the supervision of a Software or Data
-Carpentry Instructor.
-
-The Software or Data Carpentry Instructor **can** recommend the "Instructor in
-Training" to receive the Instructor badge from the Software or Data
-Carpentry Executive Diretor.
-
-## Final Exercises
+## Checkout Session
 
 1.  Watch a 5min lesson video of a Software or Data Carpentry instructor
     about one of the lessons on the currículum.
 
-2.  Sign for one checkout session.
+2.  Sign up for one checkout session.
 
 3.  Join the checkout session.
 
-4.  Delivery a 5min lesson about one of the lessons on the curriculum.
+4.  Deliver a 5min lesson about one of the lessons on the curriculum.
 
 5.  Receive feedbacks about the lesson.
 
 6.  Watch people at the checkout session.
 
-7.  Provide feedback to the lessons delivery by others.
+7.  Provide feedback on the lessons delivered by others.
 
 ## Mentoring
 
-Instructor in training can wait for a invitation from the Program Coordinator to
-join one workshop or can request the Mentoring Subcommittee assistance to
-organize one mini-lesson, session or workshop.
+Instructors in Training can wait for a invitation from the Program
+Coordinator to join one workshop or can request the Mentoring
+Subcommittee assistance to organize one mini-lesson, session, or
+workshop.
 
-### Mentoring - Invitation from the Program Coordinator
+### Invitation from the Program Coordinator
 
-Timeframe: at least one month after invitation from Program Coordinator
+Timeframe: at least one month after invitation from the Program
+Coordinator.  TODO: is this the timeframe from final-project →
+invitation, or from invitation → workshop?
 
-1.  Program coordinator invited "Instructor in Training" for one workshop that
-    already have one Instructor.
+1. The Program Coordinator invites the Instructor in Training to
+   co-teach at a workshop that already has an Instructor.
 
-2.  Instructor will help the "Instructor in Training" reviewing the lesson s/he
-    will delivery at the workshop.
+2. The supervising Instructor will help the Instructor in Training
+   review the lesson s/he will deliver at the workshop.
 
-3.  Instructor and "Instructor in Training" **must** meet online 1 and 3 weeks
-    before the workshop.
+3. The supervising Instructor and Instructor in Training **must** meet
+   online 1 and 3 weeks before the workshop.
 
-### Mentoring - Request of help to Mentoring Subcommittee
+4. After the workshop, the supervising Instructor **may** recommend
+   the Instructor in Training for the Instructor badge.
 
-Timeframe: two-three months after first meeting.
+### Request Mentoring Subcommittee assistance
 
-1.  Mentoring Subcommittee receive request to help
-    and allocate the Instructor in Training
-    to the next group.
+Timeframe: two-three months after the first meeting.
 
-2.  Mentoring Subcommittee meet with the Instructor in Training
-    to provide advices on contact hosts.
+1. The Mentoring Subcommittee receives request to help and allocates
+   the Instructor in Training to the next group, assigning a Mentoring
+   Subcommittee member as supervisor.
 
-3.  Two weeks later,
-    Mentoring Subcommittee meet with the Instructor in Training
-    to get updates and help with setup the workshop page.
+2. The supervisor meets with the Instructor in Training to provide
+   advices on contact hosts.
 
-4.  Two weeks later,
-    Mentoring Subcommittee meet with the Instructor in Training
-    to get updates and help reviewing the lessons.
+3. Two weeks later, the supervisor meets with the Instructor in
+   Training to get updates and help setup the workshop page.
 
-5.  Two weeks later (and one before the workshop),
-    Mentoring Subcommittee meet with the Instructor in Training
-    to get updates and help reviewing the lessons.
+4. Two weeks later, the supervisor meets with the Instructor in
+   Training to get updates and help review the lessons.
+
+5. Two weeks later (and one week before the workshop), the supervisor
+   meets with the Instructor in Training to get updates and help
+   review the lessons.
+
+4. After the workshop, the supervisor **may** recommend the Instructor
+   in Training for the Instructor badge.
+
+[swc-lessons]: http://software-carpentry.org/lessons.html#v5.3
+[dc-lessons]: http://www.datacarpentry.org/lessons/
+[swc-core]: http://software-carpentry.org/faq.html#core-topics
