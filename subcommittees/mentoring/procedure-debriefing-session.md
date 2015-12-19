@@ -1,44 +1,52 @@
 # Procedure - Debriefing Session
 
-This document intends to describe how debriefing sessions
-are organized so that it continue even after members go away.
+This document describes how debriefing sessions
+are organized so that it is sustainable.
 
 ## Terminology
 
+-   **SCF**: Software Carpentry Foundation.
+
+-   **DC**: Data Carpentry.
+
 -   **Debriefing session**: is an online meeting
     where instructors could share experience about the workshops
-    they taught.
+    they recently taught.
+
 -   **Facilitator**: is one member of the Mentoring Subcommittee
     that attend the debriefing session to coordinate it
     and write one blog post about it.
 
 ## We Need a Debriefing Session
 
-1.  SCF is a community based project
+1.  SCF and DC are community based project
     and the community need opportunity to interact.
 
-2.  SCF believe in jugyokenkyu, or "lesson study",
+2.  SCF and DC believe in jugyokenkyu, or "lesson study",
     and evidence-based education
-    so instructors need opportunity to change experience.
+    so instructors need opportunity to exchange experience.
 
 ## Let's do a Debriefing Session
 
-The Mentoring Subcommittee is responsible to organize
+The Mentoring Subcommittee is responsible for organizing
 the debriefing sessions so that
 
--   each month has at least one debriefing session and
+-   each month has at least one debriefing session,
 
--   instructors are notify with at least one week in advance.
+-   instructors are notify with at least one week in advance and
+
+-   the session has a facilitator to conduct the discussion.
 
 ## Inviting Instructors
 
-The invitation should be send directly to instructors by email.
+The dates of the debriefing sessions are listed
+on SCF community calendar,
+https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com.
+
+Invitation should be send directly to instructors
+that taught between the last and the next debriefing session by email.
 The contact address of the instructors are available at
 https://amy.software-carpentry.org/workshops/debrief.
-
-Optionally,
-the invitation could be send to
-[Instructors mailing list](http://lists.software-carpentry.org/mailman/listinfo/instructors_lists.software-carpentry.org).
 
 ## Show time
 
@@ -49,7 +57,7 @@ where instructors attending the debriefing could share notes
 of the debriefing.
 
 The **facilitator** is also responsible
-to help instructors answer the questions on the next session.
+to help instructors answer the questions during the session.
 
 ## Questions
 
@@ -65,7 +73,14 @@ to help instructors answer the questions on the next session.
 2.  Content
 
     1.  What was actually taught?
+
+        If a SCF workshop:
         Shell, Git, Python, R, MATLAB or SQL?
+
+        If a DC workshop:
+        Biology or Genomics?
+        R, Python, Spreadsheet caveats, Open Refine, SQL, Shell,
+        Cloud computing intro?
 
     2.  How much time was spent on each topic?
 
@@ -88,6 +103,7 @@ to help instructors answer the questions on the next session.
 
 After each debriefing session,
 the **facilitator** of that debriefing session **must**
-
-1.  write a blog post summarizing the topics discussed and
-2.  create issues at the properly place for comments about the lessons.
+write a blog post summarizing the topics discussed.
+In some cases, the facilitator **should**
+create issues at the properly place based on the discussion
+from the debriefing.
