@@ -10,16 +10,16 @@ are organized so that it is sustainable.
 -   **DC**: Data Carpentry.
 
 -   **Debriefing session**: is an online meeting
-    where instructors could share experience about the workshops
+    where instructors share experience about the workshops
     they recently taught.
 
--   **Facilitator**: is one member of the Mentoring Subcommittee
-    that attend the debriefing session to coordinate it
-    and write one blog post about it.
+-   **Facilitator**: is a member of the Mentoring Subcommittee
+    that attends the debriefing session to coordinate it
+    and write a blog post about it.
 
-## We Need a Debriefing Session
+## Motivation
 
-1.  SCF and DC are community based project
+1.  SCF and DC are community based projects
     and the community need opportunity to interact.
 
 2.  SCF and DC believe in jugyokenkyu, or "lesson study",
@@ -43,7 +43,7 @@ The dates of the debriefing sessions are listed
 on SCF community calendar,
 https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com.
 
-Invitation should be send directly to instructors
+Invitation should be sent directly to instructors
 that taught between the last and the next debriefing session by email.
 The contact address of the instructors are available at
 https://amy.software-carpentry.org/workshops/debrief.
@@ -52,8 +52,8 @@ https://amy.software-carpentry.org/workshops/debrief.
 
 Each debriefing session **must** have at least one **facilitator**.
 
-The **facilitator** is responsible to provide one place
-where instructors attending the debriefing could share notes
+The **facilitator** is responsible for providing one place
+where instructors attending the debriefing can share notes
 of the debriefing.
 
 The **facilitator** is also responsible
@@ -63,12 +63,11 @@ to help instructors answer the questions during the session.
 
 1.  Public
 
-    1.  How many learners attend the workshop?
+    1.  How many learners attended the workshop?
 
     2.  Big changes in the number of learners during the workshop?
 
-    3.  Learners had any installation problem with the tools
-        requested that they installed?
+    3.  Did learners have any installation problems?
 
 2.  Content
 
@@ -84,13 +83,13 @@ to help instructors answer the questions during the session.
 
     2.  How much time was spent on each topic?
 
-    3.  Did you adapt the lesson material or use it as written?
+    3.  Did you modify the lesson material or use it as written?
 
 3.  Feedback
 
     1.  What worked well that we should do again?
 
-    2.  What went wrong / fell flat / shouldn't we ever, ever do again?
+    2.  What didn't work well?
 
 4.  Extra
 
@@ -104,6 +103,6 @@ to help instructors answer the questions during the session.
 After each debriefing session,
 the **facilitator** of that debriefing session **must**
 write a blog post summarizing the topics discussed.
-In some cases, the facilitator **should**
+The facilitator also **must** encourage attendees to
 create issues at the properly place based on the discussion
 from the debriefing.
