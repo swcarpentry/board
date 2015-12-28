@@ -103,6 +103,9 @@ to help instructors answer the questions during the session.
 After each debriefing session,
 the **facilitator** of that debriefing session **must**
 write a blog post summarizing the topics discussed.
+[This template](template-blog-about-debriefing-session.md) can be use
+as the start point for the blog post.
+
 The facilitator also **must** encourage attendees to
 create issues at the properly place based on the discussion
 from the debriefing.
