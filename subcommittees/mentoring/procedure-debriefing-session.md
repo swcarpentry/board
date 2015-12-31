@@ -33,7 +33,7 @@ the debriefing sessions so that
 
 -   each month has at least one debriefing session,
 
--   instructors are notify with at least one week in advance and
+-   instructors are notified with at least one week in advance and
 
 -   the session has a facilitator to conduct the discussion.
 
@@ -44,7 +44,7 @@ on SCF community calendar,
 https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com.
 
 Invitation should be sent directly to instructors
-that taught between the last and the next debriefing session by email.
+that have taught between the last and the next debriefing session by email.
 The contact address of the instructors are available at
 https://amy.software-carpentry.org/workshops/debrief.
 
@@ -57,7 +57,7 @@ where instructors attending the debriefing can share notes
 of the debriefing.
 
 The **facilitator** is also responsible
-to help instructors answer the questions during the session.
+to helping instructors answer the questions during the session.
 
 ## Questions
 
@@ -84,6 +84,10 @@ to help instructors answer the questions during the session.
     2.  How much time was spent on each topic?
 
     3.  Did you modify the lesson material or use it as written?
+
+    4.  Anything you would like to pass on to other instructors?
+
+    5.  Anything you would like to pass on to the lesson developers?
 
 3.  Feedback
 
