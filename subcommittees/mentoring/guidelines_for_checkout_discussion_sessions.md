@@ -9,13 +9,16 @@ and additions from discussion leaders are very welcome.
 
 The purpose of the discussion session is for
 students to ask questions about the lesson materials
-in preparation for the checkout procedure,
-described in
-[this blog post](http://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html).
-Note that the checkout procedure happens at a later date.
+in preparation for their final checkout.
 The discussion lead's role is to give context to the lesson material,
 as each lesson goes through many revisions and discussions
 that cannot be easily seen in the finished product.
+
+**Note:** trainees do **not** do their 5-minute demonstration lessons during the discussion sessions.
+Instead,
+once they have completed the discussion to the leader's satisfaction,
+their names should be forwarded to their trainer
+so that the demonstration lesson can be scheduled.
 
 ## Beforehand:
 
@@ -32,9 +35,17 @@ that cannot be easily seen in the finished product.
 
 *   Remind students that the Etherpad is a public, persistent document,
     and that ideas and issues from the Etherpad may be used by the SCF.
-*   Explain how the checkout procedure itself goes.
-    Refer to the [blog post](http://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html)
-    if you are not clear on the checkout procedure.
+*   Explain how the checkout procedure itself goes:
+    *   After the trainee has completed the discussion session to the discussion leader's satisfaction,
+        the leader will forward her name to the trainer.
+    *   The trainer will then schedule a 5-minute slot for a demonstration lesson
+        and communicate it to the trainee.
+    *   In that session,
+        the trainee will be asked to teach 5 minutes from her chosen lesson
+        selected by the trainer.
+        The trainee will *not* know in advance which 5 minutes she will be asked to teach
+        (which encourages her to prepare the entire lesson).
+    *   Trainees will be notified by email after their demo lesson whether they have passed.
 *   Make sure that all know where the lesson material can be found.
     Ensure that they all know about the instructor guide. 
 *   Discuss the fact that the lesson material is under continous development.
