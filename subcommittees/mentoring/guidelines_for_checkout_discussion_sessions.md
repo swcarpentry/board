@@ -7,6 +7,16 @@ This is by no means an exhaustive list:
 other subjects are bound to come up,
 and additions from discussion leaders are very welcome.
 
+The purpose of the discussion session is for
+students to ask questions about the lesson materials
+in preparation for the checkout procedure,
+described in
+[this blog post](http://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html).
+Note that the checkout procedure happens at a later date.
+The discussion lead's role is to give context to the lesson material,
+as each lesson goes through many revisions and discussions
+that cannot be easily seen in the finished product.
+
 ## Beforehand:
 
 *   All meetings should use the Etherpad that is being used to register for discussion sessions,
@@ -22,17 +32,9 @@ and additions from discussion leaders are very welcome.
 
 *   Remind students that the Etherpad is a public, persistent document,
     and that ideas and issues from the Etherpad may be used by the SCF.
-*   Explain how the checkout procedure itself goes:
-    *   A signup Etherpad will be sent out.
-        Choose your subject and sign up for a session.
-    *   Around 5 people gather on a hangout with one of the trainers.
-        Each person will have 5 minutes to present a section of the material.
-        The trainer will dictate which material from the lesson the student is to present.
-    *   Please note that the student is expected to be able to teach
-        with little to no reference to the material during these 5 minutes.
-    *   After the presentation,
-        there will be 5 minutes for feedback from the trainer and the other participants.
-    *   Everyone will be notified afterwards by email whether they passed or not.
+*   Explain how the checkout procedure itself goes.
+    Refer to the [blog post](http://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html)
+    if you are not clear on the checkout procedure.
 *   Make sure that all know where the lesson material can be found.
     Ensure that they all know about the instructor guide. 
 *   Discuss the fact that the lesson material is under continous development.
