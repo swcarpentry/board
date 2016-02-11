@@ -20,7 +20,7 @@ member.
 
 ## New Maintainer Selection Process
 
-* Outgoing maintainer emails [discuss][discuss] with announcement of opportunity: 
+* Outgoing maintainer emails [discuss][] with announcement of opportunity: 
 	* Application information: name, github username, statement of intent
 	* Deadline for applications, projected timeline for selection
 	* Name/email of contact for application process (typically outgoing maintainer)
@@ -28,9 +28,9 @@ member.
 * Outgoing maintainer and their co-maintainer review applications and choose new maintainer. 
 * Inform new maintainer, and other applicants via email. 
 * Onboard new maintainer
-	* Add new maintainer to [maintainers][maintainers] if not already a member.
-	* Email [maintainers][maintainers] list announcing the change. 
-	* Request push/merge access for new maintainer from Greg or Jonah.  
+	* Add new maintainer to [maintainers][] if not already a member.
+	* Email [maintainers][] list announcing the change. 
+	* Request push/merge access for new maintainer from the Software Carpentry executive director.  
 	* Write blog post introducing new maintainer.  
 	* Optional: call between outgoing/incoming maintainer to discuss state of the 
 	repository, transition strategy, etc. 

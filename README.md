@@ -8,7 +8,7 @@ Overall Operation
 *   [Governance](governance.md)
 *   [Organizational Membership](membership.md)
 *   [Workshop Revenue and Operations](workshops.md)
-*	[Maintainer Guidelines](maintainers.md)
+*   [Maintainer Guidelines](maintainers.md)
 
 Management
 ----------
