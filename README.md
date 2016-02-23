@@ -25,21 +25,31 @@ Press Releases
 
 Minutes of Interim Steering Committee Meetings
 ----------------------------------------------
-
-*   [2014-12-16](minutes/2014-12-16.md)
-*   [2014-11-18](minutes/2014-11-18.md)
-*   [2014-11-04](minutes/2014-11-04.md)
-*   [2014-10-14](minutes/2014-10-14.md)
-*   [2014-09-30](minutes/2014-09-30.md)
-*   [2014-09-16](minutes/2014-09-16.md)
-
+*   [2014-09-16](minutes/minutes-2014-09-16.md)
+*   [2014-09-30](minutes/minutes-2014-09-30.md)
+*   [2014-10-14](minutes/minutes-2014-10-14.md)
+*   [2014-11-04](minutes/minutes-2014-11-04.md)
+*   [2014-11-18](minutes/minutes-2014-11-18.md)
+*   [2014-12-12](minutes/minutes-2014-12-02.md)
+*   [2014-12-16](minutes/minutes-2014-12-16.md)
 
 
 Minutes of Steering Committee Meetings
 --------------------------------------
 
-*   [2015-01-20](minutes/2015-01-20.md)
-*   [2015-02-03](minutes/2015-02-03.md)
-
-
+*   [2015-01-20](minutes/minutes-2015-01-20.md)
+*   [2015-02-03](minutes/minutes-2015-02-03.md)
+*   [2015-02-12](minutes/minutes-2015-02-12.md)
+*   [2015-02-19](minutes/minutes-2015-02-19.md)
+*   [2015-02-26](minutes/minutes-2015-02-26.md)
+*   [2015-03-12](minutes/minutes-2015-03-12.md)
+*   [2015-03-26](minutes/minutes-2015-03-26.md)
+*   [2015-04-09](minutes/minutes-2015-04-09.md)
+*   [2015-04-23](minutes/minutes-2015-04-23.md)
+*   [2015-05-21](minutes/minutes-2015-05-21.md)
+*   [2015-06-18](minutes/minutes-2015-06-18.md)
+*   [2015-07-02](minutes/minutes-2015-07-02.md)
+*   [2015-07-16](minutes/minutes-2015-07-16.md)
+*   [2015-07-30](minutes/minutes-2015-07-30.md)
+*   [2015-08-26](minutes/minutes-2015-08-26.md)
 
