@@ -119,6 +119,8 @@ and as a checklist for adding support for this workflow to [AMY][amy].
 1.  Negotiations with partners about instructor training sessions are tracked in a Google Docs spreadsheet.
     Schedules are drawn up manually.
 1.  We have never had a way to help individual training applicants find one another to form groups.
+1.  We don't have any way to determine whether individual applicants are associated with our partners.
+    (The applicants may not know that their organization is a partner.)
 1.  Trainees are supposed to email the head of training when they submit their lesson change.
     The head of training then updates the spreadsheet
     and mails the trainee instructions on how to sign up for a discussion session on the lesson discussion Etherpad.
