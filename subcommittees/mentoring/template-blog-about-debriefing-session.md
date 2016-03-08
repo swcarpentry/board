@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "NAME OF FACILITATORS GOES HERE"
+author: "NAMES OF FACILITATORS GO HERE"
 title: "YYYY Post-Workshop Instructor Debriefing, Round XX"
 date: YYYY-MM-DD
 time: "10:00:00"
@@ -9,41 +9,40 @@ category: ["Debriefing"]
 
 On MM DD we ran the XX round of post-workshop instructor debriefing ...
 
-## Installation problem
-
-<!--
-If any new installation problem was reported it should be mention here.
-If only the usual installation problem was reported,
-for example someone with old version of OS X,
-this section can be cut off.
--->
-
-## New lesson
-
-<!--
-If someone used a new lesson
-or made some awesome change
-it should goes here.
--->
-
 ## Worked well
 
 <!--
 If something new worked well,
 for example use two projectors,
-it should goes here.
+describe it here.
 -->
-
-## Went wrong
+ 
+## New lesson materials
 
 <!--
+If someone used a new lesson
+or made some awesome change to an existing lesson
+briefly descibe it here and provide approapriate links.
+-->
+
+## What could have gone better
+<!--
 If something went wrong,
-for example have students work at the fork of one Git repository,
+either with a particular lesson or during the workshop in general
 it should goes here.
 -->
 
-## Thanks
+## Installation problems
+
+<!--
+New installation problems should be mentioned here.
+If only the usual installation problem was reported,
+for example someone with old version of OS X,
+this section can be omitted
+-->
+
+## Thanks!
 
 We are grateful to the instructors who attended debriefing sessions this round:
 
--   INSTRUCTOR NAME GOES HERE
+-   Instructor Name, [name of workshop](link to worksho)
