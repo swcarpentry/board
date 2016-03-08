@@ -9,7 +9,7 @@ category: ["Debriefing"]
 
 On MM DD we ran the XX round of post-workshop instructor debriefing ...
 
-## Worked well
+## What worked well
 
 <!--
 If something new worked well,
