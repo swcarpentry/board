@@ -39,7 +39,7 @@ the instructor discussion sessions so that
 
 -   each session has at least one facilitator (preferably two) to conduct the discussion.
 
-Meeting scheduling will be coordinated via (etherpad)[http://pad.software-carpentry.org/instructor-discussion].
+Meeting scheduling will be coordinated via [etherpad](http://pad.software-carpentry.org/instructor-discussion).
 
 The dates of instructor discussion sessions are also listed
 in the SCF community calendar,
@@ -54,14 +54,14 @@ Email invitations should be sent to three groups of instructors:
 - folks who have recently completed instructor training and need to
   attend a discussion session to complete their checkout
 
-The contact information for the first two groups is available in (AMY)[https://amy.software-carpentry.org/workshops/]. 
+The contact information for the first two groups is available in [AMY](https://amy.software-carpentry.org/workshops/). 
 The chair of the mentoring subcommittee, as well as all members of the SCF Steering committee, 
 should have access to AMY. Newly trained instructors should be directed to instructor discussion sessions 
 following completion of instructor training.
 
 ## During the meeting
 
-Meetings will be hosted via (etherpad)[http://pad.software-carpentry.org/instructor-discussion].
+Meetings will be hosted via [etherpad](http://pad.software-carpentry.org/instructor-discussion).
 
 Each instructor discussion session session must have at least one facilitator
 from the mentoring subcommittee (although two hosts are preferred). 
@@ -69,7 +69,7 @@ from the mentoring subcommittee (although two hosts are preferred).
 The **facilitator** is responsible for: 
 
 - hosting the meeting and facilitating discussion using the agenda described on the 
-(etherpad)[http://pad.software-carpentry.org/instructor-discussion]. 
+[etherpad](http://pad.software-carpentry.org/instructor-discussion). 
 
 - ensuring instructors teaching in the near future have urgent questions or concerns addressed.
 
@@ -86,6 +86,8 @@ questions described in the checkout procedure.
 The facilitator of the meeting should report back to the lead instructor trainer and 
 describe whether newly trained instructors participating as a part of the checkout procedure 
 were engaged and could answer target questions described in the checkout procedure.
+
+The facilitator of the meeting should 1) archive the etherpad and 2) clean the etherpad for the next user. To archie, click the star in the top left corner. This will save a copy of the etherpad in its current state. Then, the faciliator should delete all the community added comments and change the dates to prepare the etherpad for the next session
 
 Each month, the facilitators of discussion sessions will
 coordinate to write a blog post summarizing the topics discussed.
