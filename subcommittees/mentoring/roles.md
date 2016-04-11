@@ -62,7 +62,7 @@ The Secretary is meant to maintain records of a non-financial nature. The Secret
 
 3. Secretary takes notes during the meeting.
 
-4. Secretary creates issues for action itens on GitHub [repository][].
+4. Secretary creates [GitHub issues][repository] for action items.
 
 5. Secretary creates pull request with minutes archives.
 
@@ -74,11 +74,18 @@ The Secretary is meant to maintain records of a non-financial nature. The Secret
 
 ### Time
 
-1. Meetings need to be run at least twice on the same day to accomodate different timezones.
+1. Meetings need to be run at least twice on the same day to accommodate different timezones.
 
 2. Meeting time must be on UTC to be fair with everyone.
 
 ### Etherpad operation
+
+1. Use the same Etherpad because this will help people remember it.
+
+2. After each meeting, star the etherpad. You will find this option on the top
+   right of the etherpad.
+
+3. Save a copy of the etherpad on the GitHub repository.
 
 ### Google Calendar operation
 
@@ -89,8 +96,8 @@ When creating a new event or updating a old one.
 1. Set the name of the event or meeting.
 
 2. Set the date. **Please use UTC time.**
-   If using Google Calendar select Ghana, Accra or Reykjavik, Iceland
-   since they doesn't have daylight saving time.
+   If using Google Calendar select Accra, Ghana or Reykjavik, Iceland
+   since they don't have daylight saving time.
 
 3. Set the location.
    If using Google Hangout select "Add video call".
