@@ -63,6 +63,22 @@ following completion of instructor training.
 
 Meetings will be hosted via [etherpad](http://pad.software-carpentry.org/instructor-discussion).
 
+The agenda should be similar to the following:
+
+- Welcome and host introduction
+- Attendees introduction
+    - Name, affiliation/position, purpose for attending
+- Report from previous workshops
+    - What worked the best during your workshop?
+    - What was the biggest hurdle?
+    - Any changes or additions to lesson material?
+- Preparing for upcoming workshops
+    - Specific questions about teaching and/or lessons?
+    - If you are attending for instructor training checkout: have you asked a question yet?
+- Reminder: 
+    - For big problems or concerns, start an issue on GitHub in the appropriate lesson or add to Google Doc of commonly mentioned concerns
+    - For small typos, submit pull request to appropriate lesson
+
 Each instructor discussion session session must have at least one facilitator
 from the mentoring subcommittee (although two hosts are preferred). 
 
@@ -71,9 +87,11 @@ The **facilitator** is responsible for:
 - hosting the meeting and facilitating discussion using the agenda described on the 
 [etherpad](http://pad.software-carpentry.org/instructor-discussion). 
 
+- maintaining focus on the main goal of the session, which is to share ideas and keep instructors excited about teaching.
+
 - ensuring instructors teaching in the near future have urgent questions or concerns addressed.
 
-- aggregating feedback from instructors who have recently taught.
+- collecting feedback from instructors who have recently taught.
 
 - engaging newly trained instructors and evaluating their participating using a subset of 
 questions described in the checkout procedure.
@@ -87,7 +105,7 @@ The facilitator of the meeting should report back to the lead instructor trainer
 describe whether newly trained instructors participating as a part of the checkout procedure 
 were engaged and could answer target questions described in the checkout procedure.
 
-The facilitator of the meeting should 1) archive the etherpad and 2) clean the etherpad for the next user. To archie, click the star in the top left corner. This will save a copy of the etherpad in its current state. Then, the faciliator should delete all the community added comments and change the dates to prepare the etherpad for the next session
+The facilitator of the meeting should 1) archive the etherpad and 2) clean the etherpad for the next user. To archive, click the star in the top left corner. This will save a copy of the etherpad in its current state. Then, the faciliator should delete all the community added comments and change the dates to prepare the etherpad for the next session
 
 Each month, the facilitators of discussion sessions will
 coordinate to write a blog post summarizing the topics discussed.
