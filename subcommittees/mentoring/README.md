@@ -1,7 +1,7 @@
 # The Mentoring Subcommittee
 
 ## Purpose and Scope
-The Mentoring Subcommittee was established in 2015 to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking by provide (virtual) spaces where instructors from all over the wold can share teaching success stories and discuss strategies for overcoming challenges. 
+The Mentoring Subcommittee was established in 2015 to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking by provide (virtual) spaces where instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges. 
 
 ## What We Do 
 
@@ -25,4 +25,4 @@ Currently, members of the Mentoring Subcommittee spend around two-eight hours ea
 - attend bi-month subcommittee meetings where discuss ongoing projects and talk about new ideas http://pad.software-carpentry.org/scf-mentoring
 - host one or two instructor discussion sessions per month http://pad.software-carpentry.org/instructor-discussion 
 - write blog posts about our ongoing and proposed activities
-- and possible more! We're open to new ideas!
+- and possibly more! We're open to new ideas!
