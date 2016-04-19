@@ -55,6 +55,7 @@
   - Daniel Chen
   - Karin Lagesen
   - Kate Hertweck
+  - Marian Schmidt
   - Mariela Perignon
   - Michael Sarahan
   - Phil Rosenfield
