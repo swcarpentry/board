@@ -26,3 +26,20 @@ Currently, members of the Mentoring Subcommittee spend around two-eight hours ea
 - host one or two instructor discussion sessions per month http://pad.software-carpentry.org/instructor-discussion 
 - write blog posts about our ongoing and proposed activities
 - and possibly more! We're open to new ideas!
+
+## Current Mentoring Committee Members
+Belinda Weaver [@cloudaus](https://twitter.com/cloudaus)     
+Bill Mills [@billdoesphysics](https://twitter.com/billdoesphysics)   
+Carol Willing [@WillingCarol](https://twitter.com/WillingCarol)   
+Christina Koch, Chair [@_christinaLK](https://twitter.com/_christinaLK)   
+Daniel Chen [@chendaniely](https://twitter.com/chendaniely)   
+Karin Lagesen [@karinlag](https://twitter.com/karinlag)   
+Kate Hertweck [k8hert](https://twitter.com/k8hert)   
+Marian Schmidt [@micro_marian](https://twitter.com/micro_marian)   
+Mariela Perignon    
+Michael Sarahan   
+Phil Rosenfield [@philrosenfield](https://twitter.com/philrosenfield)   
+Rayna Harris [@raynamharris](https://twitter.com/raynamharris)   
+Susan McClatchy [@SueMcclatchy](https://twitter.com/SueMcclatchy)   
+Tiffany Timbers [@TiffanyTimbers](https://twitter.com/TiffanyTimbers)   
+Tracy Teal [@tracykteal](https://twitter.com/tracykteal)   
