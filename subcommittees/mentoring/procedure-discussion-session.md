@@ -52,7 +52,7 @@ Email invitations should be sent to three groups of instructors:
 - instructors who are preparing to teach in the next 4-6 weeks
 
 - folks who have recently completed instructor training and need to
-  attend a discussion session to complete their checkout
+  attend a discussion session to complete their [checkout](http://swcarpentry.github.io/instructor-training//11-checkout/)
 
 The contact information for the first two groups is available in [AMY](https://amy.software-carpentry.org/workshops/). 
 The chair of the mentoring subcommittee, as well as all members of the SCF Steering committee, 
@@ -74,8 +74,10 @@ The agenda should be similar to the following:
     - Any changes or additions to lesson material?
 - Preparing for upcoming workshops
     - Specific questions about teaching and/or lessons?
-    - If you are attending for instructor training checkout: have you asked a question yet?
-- Reminder: 
+- Preparing for instructor training checkout
+    - Questions about checkout procedure, lessons, or workshop organization?
+    - Have you asked a question here yet?
+- Reminder to discussion session participants: 
     - For big problems or concerns, start an issue on GitHub in the appropriate lesson or add to Google Doc of commonly mentioned concerns
     - For small typos, submit pull request to appropriate lesson
 
