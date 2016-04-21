@@ -15,7 +15,7 @@ Do you have an idea for an activity or service that would make Software Carpentr
 
 We are very excited to hear and support your ideas! However, we do need to read and review all proposals.
 
-**To propose a new subcommittee or task force, please read the information here: [insert link to the proposal_instructions.md file]**. The key elements of a proposal that the Steering Committee will be looking for (and which we will help you with!) are:
+**To propose a new subcommittee or task force, please read the [information here](https://github.com/swcarpentry/board/blob/subc-tf/subcommittees/proposal_instructions.md)**. The key elements of a proposal that the Steering Committee will be looking for (and which we will help you with!) are:
 
  - **Specificity**: do you have a specific goal, with a plan and timeline to achieve it? Nothing has to be cast in stone at this point, but the more specific your plan, the easier it will be for you to put it into action.
  - **Resources**: have you anticipated what you’ll need, in terms of personnel, tools, external support and budget? Modest budgets will be available to support Subcommittee and Task Force activities, to be approved on a per-item basis by the Steering Committee; we will be looking for realistic (but non-binding) predictions of what you’ll need to succeed.

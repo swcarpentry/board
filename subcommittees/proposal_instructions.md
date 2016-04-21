@@ -21,7 +21,7 @@ The Steering Committee wants you to be successful! And that means getting starte
 Remember, a modest **budget will be available**, approved on an item-by-item basis by the Steering Committee, to help you realize the goals of your Subcommittee or Task Force, once approved, so don’t forget to factor that into your plan.
 
 ### Step 3: Submit an Issue
-The Steering Committee can’t wait to hear about your ideas and support you as you make them a reality. Once you have a draft of a plan that addresses the points above (even rough notes are totally fine!), let us know by [submitting an issue here.](https://github.com/swcarpentry/board/issues).
+The Steering Committee can’t wait to hear about your ideas and support you as you make them a reality. Once you have a draft of a plan that addresses the points above (even rough notes are totally fine!), let us know by [submitting an issue here.](https://github.com/swcarpentry/board/issues)
 
 ### Step 4: Proposal Review, Revision, and Approval
 The Steering Committee will provide feedback to help you refine your plan, connect with others members who might like to assist, and work with you over the long term to achieve your goals. At this point, we will determine who will be the SCF liaison that will facilitate communication between your group and the Steering Committee. The criteria that the Steering Committee will be looking for and working with you to infuse into your proposal are:
