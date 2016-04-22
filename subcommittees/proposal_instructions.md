@@ -5,7 +5,7 @@ One of the greatest things about Software Carpentry is the huge diversity of peo
 Do you have an idea for an activity or service that would make Software Carpentry even more awesome to participate in for its instructors or students? Is there a project, tool or document that would benefit you and your community? If so, **we want you to submit a proposal for a Subcommittee or Task Force**; here’s how:
 
 ### Step 1: Subcommittee or Task Force?
-The first thing to decide, is whether you’d like to propose a Subcommittee or a Task Force.
+The first thing to decide is whether you’d like to propose a Subcommittee or a Task Force.
 **Subcommittees** pursue ongoing activities, services or tasks that enrich the community. For example, the Mentorship Committee hosted Instructor debriefings every couple of weeks in 2015 to help instructors talk about their experiences and connect with each other.
 **Task Forces** get together to tackle a specific, one-time goal, like hosting an event, producing a document, or studying a question relevant to the community. For example, a few people got together in late 2015 to plan and deliver our first ever [Instructor and Helper Retreat](http://swcarpentry.github.io/instructor-retreat-2015/).
 
@@ -18,7 +18,7 @@ The Steering Committee wants you to be successful! And that means getting starte
  - How will you periodically **measure** your progress and success?
  - What **community members** (if any) will to help you achieve your goals?
 
-Remember, a modest **budget will be available**, approved on an item-by-item basis by the Steering Committee, to help you realize the goals of your Subcommittee or Task Force, once approved, so don’t forget to factor that into your plan.
+Remember, a modest **budget will be available**, approved on an item-by-item basis by the Steering Committee, to help you realize the goals of your Subcommittee or Task Force, so don’t forget to factor that into your plan.
 
 ### Step 3: Submit an Issue
 The Steering Committee can’t wait to hear about your ideas and support you as you make them a reality. Once you have a draft of a plan that addresses the points above (even rough notes are totally fine!), let us know by [submitting an issue here.](https://github.com/swcarpentry/board/issues)
