@@ -5,7 +5,7 @@
 - SCF Liaison: Jason Williams
 - Description: The finance subcommittee recommends financial policies and budgets that support the mission and goals of the Software Carpentry Foundation (SCF). The committee reviews all financial activities and  monthly reports on SCF’s financial performance against our budget goals and purposes.
 - Members:
-  - Greg Wilson, ED
+  - Greg Wilson
   - Jason Williams
   - Josh Greenberg
   - Katy Huff
