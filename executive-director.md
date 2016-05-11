@@ -9,6 +9,11 @@ Committee.
  
 ## General Responsibilities
 
+All of these responsibilities fall under the executive branch and are
+the responsibility of the Executive Director.  The Executive Director
+may appoint proxies to act on their behalf, delegating any or all of
+their powers to the proxy as they see fit.
+
 ### 1) Steering Committee Governance
 
 Works with the Steering Committee in order to fulfill the organization
