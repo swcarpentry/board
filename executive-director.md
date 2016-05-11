@@ -74,6 +74,10 @@ operations of the organization are appropriate.
   made and entered into and on behalf of the organization. All
   agreements will only be made with Steering Committee approval.
 
+* Responsible for managing and maintaining all Software Carpentry
+  resources, including mailing lists, GitHub repositories, and other
+  venues managed by the Software Carpentry Foundation.
+
 ## Professional Qualifications
 
 * Transparent and high integrity leadership
