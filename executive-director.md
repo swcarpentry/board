@@ -21,7 +21,8 @@ mission.
 * Responsible for communicating effectively with the Steering
   Committee and providing, in a timely and accurate manner, all
   information necessary for the Steering Committee to function
-  properly and to make informed decisions.
+  properly and to make informed decisions.  This information includes
+  reports of any executive actions.
 
 * Follow and uphold all Software Carpentry bylaws
 
