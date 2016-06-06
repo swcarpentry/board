@@ -7,6 +7,7 @@ on [this page](procedure-discussion-session.md).
 ## For Hosts
 
 Discussion sessions are organized and conducted through this etherpad: 
+
 [http://pad.software-carpentry.org/instructor-discussion](http://pad.software-carpentry.org/instructor-discussion)
 
 ### In advance
@@ -21,7 +22,7 @@ ask questions.
 
 ### After
 - [ ] Archive the etherpad by clicking on the star in the top right corner.  
-- [ ] Copy your notes to [this google doc]() and label with the date and which session you led.  
+- [ ] Copy your notes to [this google doc](https://docs.google.com/document/d/1zQTkNCev9AzAlA464jUa8ifFaTx_8mb1NX6xvUbaGvM/edit) and label with the date and which session you led.  
 - [ ] Email the instructor training coordinator (currently Greg Wilson) with the names 
 of those participating as part of their training checkout.  
 - [ ] Clear the information from your session (date/time, attendees, notes) from the etherpad. 
