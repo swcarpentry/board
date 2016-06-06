@@ -1,3 +1,7 @@
+### ARCHIVED - This was the procedure for debriefing sessions run between 
+January 2015 - February 2016.  For the current discussion session procedure 
+see [this procedure](procedure-discussion-session.md).  
+
 # Procedure - Debriefing Session
 
 This document describes how debriefing sessions
