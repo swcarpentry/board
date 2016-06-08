@@ -1,7 +1,8 @@
 # Procedure - Instructor Discussion Session
 
 This document describes how instructor discussion sessions
-are organized and conducted.
+are organized and conducted.  This information is summarized in 
+checklists for the hosts and discussion organizer [here](checklists-discussion-sessions.md).  
 
 ## Terminology
 
@@ -33,7 +34,7 @@ are organized and conducted.
 The Mentoring Subcommittee is responsible for organizing
 the instructor discussion sessions so that
 
--   each month has at least four discussion sessions,
+-   each month has at least eight discussion sessions,
 
 -   instructors are notified at least one week in advance and
 
@@ -81,6 +82,10 @@ The agenda should be similar to the following:
     - For big problems or concerns, start an issue on GitHub in the appropriate lesson or add to Google Doc of commonly mentioned concerns
     - For small typos, submit pull request to appropriate lesson
 
+Based on discussion among the mentoring committee, temporary questions may be 
+added to the agenda for 
+a month of sessions, in order to collect data on specific issues.  
+
 Each instructor discussion session session must have at least one host
 from the mentoring subcommittee (although two hosts are preferred). 
 
@@ -107,7 +112,11 @@ The host of the meeting should report back to the lead instructor trainer and
 describe whether newly trained instructors participating as a part of the checkout procedure 
 were engaged and could answer target questions described in the checkout procedure.
 
-The host of the meeting should 1) archive the etherpad and 2) clean the etherpad for the next user. To archive, click the star in the top left corner. This will save a copy of the etherpad in its current state. Then, the faciliator should delete all the community added comments and change the dates to prepare the etherpad for the next session
+The host of the meeting should 1) archive the etherpad and 2) clean 
+the etherpad for the next user. To archive, click the star in the top left 
+corner. This will save a copy of the etherpad in its current state. Then, 
+the faciliator should delete all the community added comments and change 
+the dates to prepare the etherpad for the next session.  
 
 The hosts of discussion sessions may choose to 
 write a blog post summarizing topics discussed, including 
