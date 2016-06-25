@@ -59,6 +59,15 @@ in the role by [date].  The decision of a new maintainer will be made jointly
 by myself, [co-maintainer], and other members of the SWC community 
 ~~~
 
+## Maintainer Handover Checklist
+
+* Subscribe to maintainers' list.
+* Assign admin rights on GitHub.
+* Submit website pull request to update maintainer info.
+* Announce new maintainer to maintainer's list and request AMY update.
+* Announce new maintainer on discuss list.
+* Handover web call.
+
 [maintainers]: http://lists.software-carpentry.org/mailman/listinfo/maintainers_lists.software-carpentry.org
 [CoC]: http://software-carpentry.org/conduct/
 [discuss]: http://lists.software-carpentry.org/mailman/listinfo/discuss_lists.software-carpentry.org
