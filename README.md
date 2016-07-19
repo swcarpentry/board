@@ -53,4 +53,12 @@ Minutes of Steering Committee Meetings
 *   [2015-07-16](minutes/minutes-2015-07-16.md)
 *   [2015-07-30](minutes/minutes-2015-07-30.md)
 *   [2015-08-26](minutes/minutes-2015-08-26.md)
-
+*   [2015-09-24](minutes/minutes-2015-09-24.md)
+*   [2015-10-08](minutes/minutes-2015-10-08.md)
+*   [2016-02-29](minutes/minutes-2016-02-29.md)
+*   [2016-03-09](minutes/minutes-2016-03-09.md)
+*   [2016-03-23](minutes/minutes-2016-03-23.md)
+*   [2016-04-06](minutes/minutes-2016-04-06.md)
+*   [2016-04-21](minutes/minutes-2016-04-21.md)
+*   [2016-05-09](minutes/minutes-2016-05-09.md)
+*   [2016-06-16](minutes/minutes-2016-06-16.md)
