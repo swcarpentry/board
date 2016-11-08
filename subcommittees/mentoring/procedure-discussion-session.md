@@ -48,9 +48,9 @@ https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40grou
 
 Email invitations should be sent to three groups of instructors:
 
-- instructors who have taught in the previous two weeks
+- instructors who have taught in the previous week
 
-- instructors who are preparing to teach in the next 4-6 weeks
+- instructors who are preparing to teach in the next 4 weeks
 
 - folks who have recently completed instructor training and need to
   attend a discussion session to complete their [checkout](http://swcarpentry.github.io/instructor-training//11-checkout/)
@@ -58,7 +58,7 @@ Email invitations should be sent to three groups of instructors:
 The contact information for the first two groups is available in [AMY](https://amy.software-carpentry.org/workshops/). 
 The chair of the mentoring subcommittee, as well as all members of the SCF Steering committee, 
 should have access to AMY. Newly trained instructors should be directed to instructor discussion sessions 
-following completion of instructor training.
+following completion of instructor training.  
 
 ## During the meeting
 
@@ -70,14 +70,15 @@ The agenda should be similar to the following:
 - Attendees introduction
     - Name, affiliation/position, purpose for attending
 - Report from previous workshops
-    - What worked the best during your workshop?
-    - What was the biggest hurdle?
-    - Any changes or additions to lesson material?
+    - Share some significant accomplishments and obstacles.
+	- Any changes or additions to lesson material?
 - Preparing for upcoming workshops
     - Specific questions about teaching and/or lessons?
 - Preparing for instructor training checkout
     - Questions about checkout procedure, lessons, or workshop organization?
     - Have you asked a question here yet?
+- Closing
+	- What are you most excited about for teaching Software or Data Carpentry?  
 - Reminder to discussion session participants: 
     - For big problems or concerns, start an issue on GitHub in the appropriate lesson or add to Google Doc of commonly mentioned concerns
     - For small typos, submit pull request to appropriate lesson
