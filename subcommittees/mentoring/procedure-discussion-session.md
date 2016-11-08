@@ -106,6 +106,13 @@ questions described in the checkout procedure.
 
 - encouraging attendees to create issues or pull requests to correct problems.
 
+> If there are more than 5 workshops represented by attendees, the discussion 
+session should be split into two groups, to make sure everyone has enough time 
+to share.  When dividing attendees into two groups, try to balance the number of 
+people who are de-briefing, who are there for pre-workshop help, and who are 
+instructor trainees.  If there are exactly 5 workshops represented, it is at the 
+discretion of the host whether to split the group.  
+
 
 ## After the meeting
 

@@ -14,23 +14,26 @@ Discussion sessions are organized and conducted through this etherpad:
 - [ ] Sign up for a slot on the etherpad. 
 
 ### Before the discussion (day of)
-- [ ] Decide if you will need to split the discussion session into two groups
-	> Rule of thumb: split when the number of workshops represented is more than 5.
-	> There is a second BlueJeans room on the etherpad if you need to split the group. 
+- [ ] If necessary, split the participants into two groups.  
+	* Rule of thumb: split when the number of workshops represented is greater than 5.
+	* There is a second BlueJeans room on the etherpad if you need to split the group. 
+	* Try to balance the number of people de-briefing, getting help, and checking out between the two groups.  
 - [ ] Coordinate with your host/co-host about who will lead and who will take notes
 
 ### During the discussion
-- [ ] Sign on and lead the meeting, following the agenda at the bottom of the 
-etherpad.  
-- [ ] If someone is attending as part of their training checkout, prompt them to 
+- [ ] Sign on and lead the meeting
+	- You can use the agenda at the bottom of the etherpad as a starting point/outline for discussion, as you choose
+	- Don't feel like you have to answer all the questions - draw on the discussion 
+	participants to answer each other's questions.  
+	- If someone is attending as part of their training checkout, prompt them to 
 ask questions.  
 - [ ] Take notes, if possible, about meeting discussion
 
-### After
+### After the discussion
 - [ ] Archive the etherpad by clicking on the star in the top right corner.  
 - [ ] Copy your notes to [this google doc](https://docs.google.com/document/d/1zQTkNCev9AzAlA464jUa8ifFaTx_8mb1NX6xvUbaGvM/edit) and label with the date and which session you led.  
 - [ ] Indicate the participation of those who are going through instructor training by: 
-	- Email the instructor training coordinator (currently Greg Wilson) with the names 
+	- Emailing the instructor training coordinator (currently Greg Wilson) with the names 
 		of those participating as part of their training checkout
 	- OR
 	- Logging into AMY, and marking the discussion as complete
