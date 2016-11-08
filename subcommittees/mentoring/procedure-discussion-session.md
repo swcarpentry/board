@@ -70,6 +70,7 @@ The agenda should be similar to the following:
 - Attendees introduction
     - Name, affiliation/position, purpose for attending
 - Report from previous workshops
+	- What main topics were taught (e.g. bash, python, git)?
     - What worked the best during your workshop?
     - What was the biggest hurdle?
     - Any changes or additions to lesson material?
@@ -81,6 +82,8 @@ The agenda should be similar to the following:
 - Reminder to discussion session participants: 
     - For big problems or concerns, start an issue on GitHub in the appropriate lesson or add to Google Doc of commonly mentioned concerns
     - For small typos, submit pull request to appropriate lesson
+- Closing
+	- What are you most excited about for teaching Software/Data Carpentry? 
 
 Based on discussion among the mentoring committee, temporary questions may be 
 added to the agenda for 

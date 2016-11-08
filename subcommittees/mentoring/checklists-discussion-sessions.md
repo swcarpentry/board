@@ -24,7 +24,9 @@ ask questions.
 - [ ] Archive the etherpad by clicking on the star in the top right corner.  
 - [ ] Copy your notes to [this google doc](https://docs.google.com/document/d/1zQTkNCev9AzAlA464jUa8ifFaTx_8mb1NX6xvUbaGvM/edit) and label with the date and which session you led.  
 - [ ] Email the instructor training coordinator (currently Greg Wilson) with the names 
-of those participating as part of their training checkout.  
+of those participating as part of their training checkout.  (OR if you are an administrator 
+in AMY and know how to enter information about trainees, enter their attendance directly, 
+instead of emailing Greg.)  
 - [ ] Clear the information from your session (date/time, attendees, notes) from the etherpad. 
 - [ ] Optional: write a blog post about interesting points that came up in discussion; see 
 [this template](template-blog-about-debriefing-session.md) as a starting point.
