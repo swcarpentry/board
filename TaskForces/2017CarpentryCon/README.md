@@ -6,8 +6,7 @@ Organize and host a meeting to bring ing together members of the Carpentry commu
 ## What we do
 Right now, we are working on
 - drafting the CarpentryCon program
-- recruiting local and global participants to help organize and promot the event
-- drafting the budget and locating sources of support
+- recruiting local and global participants to help organize and promote the event
 
 [View the working google document](https://docs.google.com/document/d/1NzZiTsPMArUyZ2S-pblOZZ84a-xp23Zuu6IjD-YXIEg/edit) which included our progress on above items.
 
@@ -15,6 +14,3 @@ Right now, we are working on
 - Alix Keener 
 - Greg Wilson
 - Rayna Harris (SWC Steering Committee Rep)
-
-
-
