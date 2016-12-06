@@ -7,8 +7,9 @@ Organize and host a meeting to bring ing together members of the Carpentry commu
 Right now, we are working on
 - drafting the CarpentryCon program
 - recruiting local and global participants to help organize and promote the event
+- getting feedback and estimating the attendance
 
-[View the working google document](https://docs.google.com/document/d/1NzZiTsPMArUyZ2S-pblOZZ84a-xp23Zuu6IjD-YXIEg/edit) which included our progress on above items.
+[View the working google document](https://docs.google.com/document/d/1NzZiTsPMArUyZ2S-pblOZZ84a-xp23Zuu6IjD-YXIEg/edit) which includes our progress on above items.
 
 ## Current Task Force Members
 - Alix Keener 
