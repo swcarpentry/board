@@ -51,6 +51,12 @@ Governance
         affiliated with an organization are elected, they must step
         down one by one to be replaced by other candidates in order of
         the number of votes received.
+    
+    e.  Following an election, the new Steering Committee will meet 
+        jointly with the previous Steering Committee for no less than 
+        60 days. For meetings during the first 30 first days, the new 
+        SC will not have voting privileges. After 30 days, voting 
+        privileges are transferred to the new SC.
 
 5.  <a name="advisory-council">
     The Advisory Council is made up of representatives of organizations
