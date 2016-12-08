@@ -24,7 +24,9 @@ Governance
 3.  <a name="steering-committee-roles"></a>
     The Steering Committee makes all significant strategic and
     financial decisions for the Foundation.  Its members are also
-    expected to take on other responsibilities as needed.
+    expected to take on other responsibilities as needed, including 
+    reviewing appeals to decisions made by the Policy Committee regarding 
+    the Code of Conduct.
 
     a.  The Steering Committee must meet monthly, either in person or
         online.
