@@ -11,6 +11,8 @@ Right now, we are working on
 
 [View the working google document](https://docs.google.com/document/d/1NzZiTsPMArUyZ2S-pblOZZ84a-xp23Zuu6IjD-YXIEg/edit) which includes our progress on above items.
 
+We use this [Etherpad](http://pad.software-carpentry.org/2017carpentrycontaskforce) for taking notes during meetings. After each meeting, notes will be archieved [here](./Minutes)
+
 ## Current Task Force Members
 - Alix Keener 
 - Greg Wilson
