@@ -32,10 +32,15 @@ ask questions.
 ### After the discussion
 - [ ] Archive the etherpad by clicking on the star in the top right corner.  
 - [ ] Copy your notes to [this google doc](https://docs.google.com/document/d/1zQTkNCev9AzAlA464jUa8ifFaTx_8mb1NX6xvUbaGvM/edit) and label with the date and which session you led.  
-- [ ] Email the instructor training coordinator (currently Greg Wilson) with the names 
-	of those participating as part of their training checkout.  (OR if you are an administrator 
- 	in AMY and know how to enter information about trainees, enter their attendance directly, 
- 	instead of emailing Greg.)  
+- [ ] Update AMY to reflect which trainees participated in the disucussion.
+	1. Log in to AMY.
+	2. More... Trainees.
+	3. Put the person's name in the "Filter" box in the upper left.
+	4. Click the white-and-gray [+] under "Progress" beside their name.
+	5. Make sure "Evaluated by" is your name.
+	6. Change "Type" to "Discussion".
+	7. Click "passed" or "failed" to reflect their participation.
+	8. Submit.
 - [ ] Clear the information from your session (date/time, attendees, notes) from the etherpad. 
 - [ ] Optional: write a blog post about interesting points that came up in discussion; see 
 [this template](template-blog-about-debriefing-session.md) as a starting point.
