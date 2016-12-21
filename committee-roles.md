@@ -117,7 +117,7 @@ Software Carpentry and the SCF as a whole. In particular, they:
 * <a name="participation"></a> Will Participate
   * Will contribute significantly to fund-raising and program activities, including assisting in bringing significant funding to the organization, such as offering names and introductions to potential donors, sponsors and grant  makers.
   * Will actively participate in all requests for their assistance and response.
-  * Will dedicate at least 3 volunteer hours per week toward Software Carpentry Foundation activities (including meeting attendance).
+  * Will dedicate at least 3 volunteer hours per week [toward Software Carpentry](#participation-methods).
   * Will offer their expertise to help ensure the health and success of the organization
 * <a name="dedication"></a> Will Be Dedicated
   * Will follow and exemplify the Software Carpentry Code of Conduct
@@ -160,28 +160,35 @@ The key pathways for communication with learners, instructors, and contributors 
 * Public Software Carpentry mailing lists (i.e. Discuss)
 
 
+<a name="participation-methods">
 ### Methods of Participation
 
-Participation must include 3 hours per week of Software Carpentry Foundation 
-volunteer time. This minimum total volunteer time includes time spent in 
-Steering Committee meetings.
+All steering committees have meetings, but Software Carpentry's
+activist committee must also engage in the wider Software Carpentry
+effort.  This helps advance assorted Software Carpentry projects and
+efforts, while also keeping committee members in touch with the wider
+Software Carpentry community.  The minimum [3 volunteer hours per
+week](#participation) may involve any of a number of activities that
+serve Software Carpentry.
 
-Participation may involve any of a number of activities that serve the Software 
-Carpentry Foundation. 
-
-- serving on subcommittees which serve the activities of the Steering Committee.
-- supporting initiatives prioritized by the Steering Committee and the Executive Director
+- serving on the committee (time in meetings, preparation for
+  meetings, and communicating committee activities with the
+  community).
+- organizing, instructing, or otherwise contributing to particular
+  events or workshops.
 - organizing and overseeing evaluation and assessment
 - organizing and overseeing mentorship activities
-- fund-raising, writing grant proposals, forming collaborations, encouraging 
-  community members to write grant proposals, etc.
-- writing blog posts, emails, and other updates to communicate Committee 
-  activities with the community
+- managing or contributing to lesson development (or template
+  development or other Software Carpentry tooling).
+- fund-raising, writing grant proposals, forming collaborations,
+  encouraging community members to write grant proposals, etc.
 - and much more...
 
-While continuing to be an instructor for workshops is welcomed, that work is 
-independent of the participation requirements and does not count toward the 
-requirement of 3 volunteer hours per week.
+As committee members, your committee responsibilities come first, so
+you shouldn't skip meetings or avoid posting meeting minutes because
+you've already put in three hours of workshop instruciton in a given
+week.  You should also try and spend your three hours each week; a
+period of intense work doesn't excuse two months of silence.
 
 ### Elements of Dedication
 
