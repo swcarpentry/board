@@ -65,9 +65,6 @@ list](#mailing-list).
 
 * Sheldon McKay (@mckays630)
 
-We don't have any past members yet!  When current members leave the
-subcommittee we will move their entries into this section.
-
 [blog]: https://software-carpentry.org/blog/
 [blog-archives]: https://software-carpentry.org/blog/categories/#SLUG
 [mailing-list]: http://lists.software-carpentry.org/listinfo/SLUG
