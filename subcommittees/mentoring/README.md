@@ -59,12 +59,12 @@ list](#mailing-list).
 * Phil Rosenfield (@philrosenfield, [@philrosenfield](https://twitter.com/philrosenfield))
 * Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
 * Susan McClatchy (@smcclatchy, [@SueMcclatchy](https://twitter.com/SueMcclatchy))
-* Tiffany Timbers (@ttimbers, [@TiffanyTimbers](https://twitter.com/TiffanyTimbers))
 * Tracy Teal (@tracykteal, [@tracykteal](https://twitter.com/tracykteal))
 
 ## Past Members
 
 * Sheldon McKay (@mckays630)
+* Tiffany Timbers (@ttimbers, [@TiffanyTimbers](https://twitter.com/TiffanyTimbers))
 
 [blog]: https://software-carpentry.org/blog/
 [blog-archives]: https://software-carpentry.org/blog/categories/#SLUG
