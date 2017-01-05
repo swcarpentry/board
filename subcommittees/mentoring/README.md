@@ -42,7 +42,7 @@ list](#mailing-list).
 
 ## Steering Comittee Liaison
 
-* LIAISON_NAME (@LIAISON_GITHUB_USER, OTHER_LIAISON_CONTACT)
+* Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
 
 ## Current Members
 
