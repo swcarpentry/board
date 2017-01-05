@@ -16,7 +16,8 @@ In November 2015, Software Carpentry and Data Carpentry instructors and helpers 
 To see the schedule for the 2015 retreat, visit: http://swcarpentry.github.io/instructor-retreat-2015/
 
 ### Archived: Pre- and Post- Workshop Debriefing Session
-Before launching the Instructor Discussion Sessions, we used to host separate pre- and post-workshop debriefing sessions. We are grateful to all the hosts and participants who attended these sessions. As a group, we posted [25 post-workshop debriefing blogs](http://software-carpentry.org/blog/categories/#debriefing) last year. Click [this link](http://software-carpentry.org/blog/categories/#debriefing) for links to these blogs sorted by date. 
+
+Before launching the Instructor Discussion Sessions, we used to host separate [pre- and post-workshop debriefing sessions](http://software-carpentry.org/blog/categories/#debriefing). We are grateful to all the hosts and participants who attended these sessions.
 
 ## Mailing List
 
