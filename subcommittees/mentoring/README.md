@@ -16,30 +16,58 @@ In November 2015, Software Carpentry and Data Carpentry instructors and helpers 
 To see the schedule for the 2015 retreat, visit: http://swcarpentry.github.io/instructor-retreat-2015/
 
 ### Archived: Pre- and Post- Workshop Debriefing Session
-Before launching the Instructor Discussion Sessions, we used to host separate pre- and post-workshop debriefing sessions. We are grateful to all the hosts and participants who attended these sessions. As a group, we posted [25 post-workshop debriefing blogs](http://software-carpentry.org/blog/categories/#debriefing) last year. Click [this link](http://software-carpentry.org/blog/categories/#debriefing) for links to these blogs sorted by date. 
 
-## Join Us! 
-We welcome new members to the Mentoring Subcommittee with open arms. If you are interested in joining our community-building efforts, please send a email to mentoring@lists.software-carpentry.org. 
+Before launching the Instructor Discussion Sessions, we used to host separate [pre- and post-workshop debriefing sessions](http://software-carpentry.org/blog/categories/#debriefing). We are grateful to all the hosts and participants who attended these sessions.
 
-Currently, members of the Mentoring Subcommittee spend around 2-8 hours each month with subcommittee activities, these include:
-- attending bi-month subcommittee meetings where ongoing projects and new ideas are discussed http://pad.software-carpentry.org/scf-mentoring
-- hosting one or two instructor discussion sessions per month http://pad.software-carpentry.org/instructor-discussion 
-- writing blog posts about our ongoing and proposed activities
-- and possibly more! We're open to new ideas!
+## Mailing List
 
-## Current Mentoring Subcommittee Members
-Belinda Weaver [@cloudaus](https://twitter.com/cloudaus)     
-Bill Mills [@billdoesphysics](https://twitter.com/billdoesphysics)   
-Carol Willing [@WillingCarol](https://twitter.com/WillingCarol)   
-Christina Koch, Chair [@_christinaLK](https://twitter.com/_christinaLK)   
-Daniel Chen [@chendaniely](https://twitter.com/chendaniely)   
-Karin Lagesen [@karinlag](https://twitter.com/karinlag)   
-Kate Hertweck [k8hert](https://twitter.com/k8hert)   
-Marian Schmidt [@micro_marian](https://twitter.com/micro_marian)   
-Mariela Perignon    
-Michael Sarahan   
-Phil Rosenfield [@philrosenfield](https://twitter.com/philrosenfield)   
-Rayna Harris [@raynamharris](https://twitter.com/raynamharris)   
-Susan McClatchy [@SueMcclatchy](https://twitter.com/SueMcclatchy)   
-Tiffany Timbers [@TiffanyTimbers](https://twitter.com/TiffanyTimbers)   
-Tracy Teal [@tracykteal](https://twitter.com/tracykteal)   
+The best way to contact this subcommittee is via the [mailing
+list][mailing-list], which is archived [here][mailing-list-archives].
+
+## Outreach
+
+We [blog][] about our ongoing and proposed activities.  Past blog
+posts are available [here][blog-archives].
+
+## Meetings
+
+We have occasional [meetings][].  Minutes of past meetings are
+available [here](minutes).
+
+## Join Us!
+
+We welcome new members to the subcommittee.  If you are interested in
+joining our community-building efforts, please email the [mailing
+list](#mailing-list).
+
+## Steering Comittee Liaison
+
+* Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
+
+## Current Members
+
+* Belinda Weaver (@weaverbel, [@cloudaus](https://twitter.com/cloudaus))
+* Bill Mills (@BillMills, [@billdoesphysics](https://twitter.com/billdoesphysics))
+* Carol Willing (@willingc, [@WillingCarol](https://twitter.com/WillingCarol))
+* Christina Koch, Chair (@ChristinaLK, [@_christinaLK](https://twitter.com/_christinaLK))
+* Daniel Chen (@chendaniely, [@chendaniely](https://twitter.com/chendaniely))
+* Karin Lagesen (@karinlag, [@karinlag](https://twitter.com/karinlag))
+* Kate Hertweck (@k8hertweck, [k8hert](https://twitter.com/k8hert))
+* Marian Schmidt (@marschmi, [@micro_marian](https://twitter.com/micro_marian))
+* Mariela Perignon (@mperignon)
+* Michael Sarahan (@msarahan)
+* Phil Rosenfield (@philrosenfield, [@philrosenfield](https://twitter.com/philrosenfield))
+* Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
+* Susan McClatchy (@smcclatchy, [@SueMcclatchy](https://twitter.com/SueMcclatchy))
+* Tracy Teal (@tracykteal, [@tracykteal](https://twitter.com/tracykteal))
+
+## Past Members
+
+* Sheldon McKay (@mckays630)
+* Tiffany Timbers (@ttimbers, [@TiffanyTimbers](https://twitter.com/TiffanyTimbers))
+
+[blog]: https://software-carpentry.org/blog/
+[blog-archives]: https://software-carpentry.org/blog/categories/#SLUG
+[mailing-list]: http://lists.software-carpentry.org/listinfo/SLUG
+[mailing-list-archives]: http://lists.software-carpentry.org/pipermail/SLUG/
+[meetings]: http://pad.software-carpentry.org/scf-mentoring
