@@ -10,7 +10,7 @@ The group will facilitate and help those Carpentry members and Member Organizati
 
 The University of Oklahoma (OU) has established a local, university based group that is made up of the locally trained Carpentry instructors that are part of the yearly cohort trained as part of the benefits of being a Member Organization. Allows for sharing of information and the ability to help new instructors with the certification process and help to integrate them into the workshop rotation of instructing at self-organized workshops. 
 
-**Regional Community **
+**Regional Community**
 
 *Members: Univ of Oklahoma, Oklahoma State Univ., and Univ. of North Texas*
 A group of three university libraries are current participants of the Member Organizations. With shared interests of professional development of library staff based around the current development of the Library Carpentry, there is an opportunity to work together. Activities and meetings can be developed around various topics and tools that are found in the development environment found at research libraries that are common to the libraries involved.
@@ -26,14 +26,15 @@ A group of three university libraries are current participants of the Member Org
 	1. one or two calls on the selected day?
 1. Create communication channels, archives and associated information tools and or methods (Feb 2017, after committee meets)
 1. Begin monthly calls.  (Mar 2017)
-1. Evaluate effectiveness of the group and determine continuing or termination of group after agreed upon time. 
+1. Evaluate effectiveness of the group and determine continuing or termination of group after agreed upon time. Suggest Jan 2018
 
 
 #### Time line
 
 See above in Steps
 
-1. #### Metrics
+#### Metrics
+
 1. Monthly meeting attendance
 1. Established number of blog reports from participating members. 
 1. Schedules of activities and local participant counts of members who set up local mentoring groups 
@@ -42,4 +43,4 @@ See above in Steps
 
 #### Assistance 
 
-Carpentry staff for facilitating access to Carpentry resources such as website, communications, etc as has been  established by the Carpentry Foundation for committees and activities such as what is being proposed. 
+Carpentry staff for facilitating access to Carpentry resources such as website, communications, etc as has been  established by the Carpentry Foundation for committees and activities such as what is being proposed. Most of the work will be done by the members/particiapents of the group. Main assistance will be use of the fixed cous infrastructure already being supported by SWC. 
