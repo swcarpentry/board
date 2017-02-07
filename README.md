@@ -8,7 +8,8 @@ Overall Operation
 *   [Governance](governance.md)
 *   [Organizational Membership](membership.md)
 *   [Workshop Revenue and Operations](workshops.md)
-*   [Maintainer Guidelines](maintainers.md)
+*   [Subcommittees](subcommittees/README.md)
+*   [Task Forces](TaskForces/README.md)
 
 Management
 ----------

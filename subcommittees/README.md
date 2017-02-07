@@ -19,13 +19,14 @@ task).
 * [Assessment](assessment/README.md)
 * [Communication](communication/README.md)
 * [Finance](finance/README.md)
-* [Lesson Organization and Develpment](lessons/README.md)
+* [Lesson Infrastructure](lesson-infrastructure/README.md)
+* [Lesson Maintainers](maintainers/README.md)
 * [Partner Relations and Fundraising](partner-relations/README.md)
 
 ## Former Subcommittees
 
-We don't have any former Subcommitees yet!  If a current Subcommittee
-dissolves, we will move their entry into this section.
+* [Lesson Organization and Develpment](lessons/README.md).
+  This subcommittee has been replaced by the [Lesson Infrastructure](lesson-infrastructure/README.md) and [Lesson Maintainers](maintainers/README.md) subcommittees.
 
 ## How to Propose a New Subcommittee
 
