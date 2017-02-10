@@ -4,7 +4,7 @@ The Mentoring Subcommittee was established in 2015 to develop and maintain a men
 
 # Objectives
 
-* need to add!
+* Need to add
 
 # Activities
 
@@ -12,11 +12,13 @@ The Mentoring Subcommittee was established in 2015 to develop and maintain a men
 
 (See the [README](README.md) for how to participate in these activities.)
 
-* Instructor Discussion Sessions
+* Instructor Discussion Sessions: one hour weekly discussions for instructors at 
+past and upcoming workshops
 	> Satisfies objectives x, y, z
-* Mentoring Program
+* Mentoring Program: small groups of newer instructors/community members being mentored 
+by 1-2 experienced instructors/community members
 	> Satisfies objectives x, y, z
-* Regional Communities
+* Regional Communities Sub-Committee: Sub-group of local community leaders to share knowledge, tips and tricks for organizing local SWC/DC groups
 	> Satisfies objectives x, y, z
 
 ## Wishlist
@@ -24,6 +26,7 @@ The Mentoring Subcommittee was established in 2015 to develop and maintain a men
 * Instructor notes task force
 * Better scheduling tool for discussions
 * Lesson mentoring
+* Another large scale event like the virtual retreat or bug BBQ
 
 ## Past Activities
 

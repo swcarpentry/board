@@ -18,7 +18,9 @@ Need to add
 
 ### Coming Soon: Regional Communities Sub-Committee
 
-Need to add information
+Currently under review, hopefully coming soon!  
+
+> The group will facilitate and help those Carpentry members and Member Organizations who wish to  organize and maintain local mentoring groups. This group will also discuss regional community building based on shared missions or topics matching the various interests of regional Carpentry members. 
 
 ### Mentoring Committee Meetings
 
@@ -53,6 +55,10 @@ For a summary of different mentoring roles, see [this page](roles.md).
 	* Christina Koch (@ChristinaLK, [@_christinaLK](https://twitter.com/_christinaLK))
 * Vice-Chair/Steering Committee Liaison
 	* Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
+* Secretary
+	* To be filled
+* Discussion Session Coordinators
+	* To be filled
 
 ### Members-at-large
 
