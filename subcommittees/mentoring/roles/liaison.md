@@ -15,3 +15,8 @@ report back to the mentoring committee
 
 - Member of the mentoring subcommittee
 - Member of the steering committee
+
+## To Volunteer
+
+- Join the mentoring committee
+- Discuss with other steering committee members

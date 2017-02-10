@@ -18,14 +18,21 @@ The primary responsibilities of the Discussion Session Coordinators are:
 
 - Member of the mentoring subcommittee
 
+## To Volunteer
+
+- Join the mentoring committee, be present for February election
+
 ## Checklists and Resources
+
+To get access to AMY and to the Community Calendar, contact the Software 
+Carpentry administrator.  
 
 ### Ongoing
 
-- send out emails to the discussion hosts list, asking for volunteers
+- send out emails to the discussion hosts list as needed, asking for volunteers
 - set up discussion times: 
 	- add times and sign-up space to Etherpad
-	- add times to calendar
+	- add times to Community calendar
 - recruit discussion leaders (template requests here: ) and add them to the discussion-hosts lists
 - provide updates and ask for community input on how discussions are going in main mentoring committee calls
 
@@ -34,14 +41,14 @@ The primary responsibilities of the Discussion Session Coordinators are:
 - [ ] Every Monday, confirm there are hosts for the upcoming week's discussions. 
 - [ ] (Optional) Email the hosts to confirm that they will be present.   
 - [ ] Every Monday, email instructors of workshops in the past week (Monday to 
-Sunday), with the 
-[post-workshop email](files/post_workshop_email.txt).  
+Monday), with the 
+[post-workshop email](../files/post_workshop_email.txt).  
 - [ ] Every other Monday, email instructors teaching in the next 4 weeks (starting 
-on Thursday of that week), with the [pre-workshop email](files/pre_workshop_email.txt)
+on Thursday of that week), with the [pre-workshop email](../files/pre_workshop_email.txt).
 - [ ] Recipients are in AMY, under `Reports > List Instructors by Time Period`.  After
 	choosing the time period, click on the `download CSV` button to export email addresses. 
 - [ ] Always email yourself, Cc Maneesha and Bcc all other recipients.  
 
 ### Follow up
-- [ ] Facilitate discussion among hosts about the discussion sessions.  
-- [ ] Ask for additional questions to be added temporarily to the agenda.  
+- Facilitate discussion among hosts about the discussion sessions.  
+- Ask for additional questions to be added temporarily to the agenda.  

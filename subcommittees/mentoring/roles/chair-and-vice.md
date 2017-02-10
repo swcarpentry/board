@@ -2,7 +2,7 @@
 
 ## Responsibilities
 
-The chair of the mentoring committee
+The chair of the mentoring committee: 
 
 - schedules mentoring committee meetings
 - plans and shares the agenda in advance
@@ -12,7 +12,7 @@ The chair of the mentoring committee
 - facilitates the formation of task forces / sub-committees as appropriate to accomplish desired mentoring outcomes
 - evaluates committee roles on a yearly basis
 
-The vice-chair of the mentoring committee
+The vice-chair of the mentoring committee: 
 
 - assists the chair in the above responsibilities
 - assumes the responsibilities of the chair when they are unable to perform their duties
@@ -25,28 +25,37 @@ The vice-chair of the mentoring committee
 
 - Member of the mentoring subcommittee
 
+## To Volunteer
+
+- Join the mentoring committee, be present for February election
+
 ## Resources and Checklists
 
-### Meeting
+### Organizing Meetings
 
-1. Chair creates agenda for the meeting with one week in advace.
+- Before the meeting
+	- [ ] Set date of meeting (see below)
+	- [ ] Add to the community calendar (see below)
+	- [ ] Email mentoring committee email list
+	- [ ] Create agenda for the meeting with one week in advance on [Mentoring Etherpad](http://pad.software-carpentry.org/scf-mentoring) 
+and solicit additions
+- During the meeting
+	- [ ] Run meeting at appointed time
+	- [ ] If appropriate, generate + assign action items
+- After the meeting
+	- [ ] Secretary should post minutes
+	- [ ] Follow up with committee members re: action itmes
 
-   The agenda can be created on http://pad.software-carpentry.org/.
+### Meeting Times
 
-2. Chair creates calendar event for the meeting with one week in advance.
+Historically we had two meetings a month, and each meeting was held twice in a 
+day to accomodate time zones.  
 
-   The calendar event can be created on http://calendar.google.com/.
+In December 2016, the chair (Christina Koch) decided to move to 1 meeting a month.  
 
-1. Meetings need to be run at least twice on the same day to accommodate different timezones.
+There is currently no set meeting time.  
 
-2. Meeting time must be on UTC to be fair with everyone.
-
-1. Use the same Etherpad because this will help people remember it.
-
-2. After each meeting, star the etherpad. You will find this option on the top
-   right of the etherpad.
-
-3. Save a copy of the etherpad on the GitHub repository.
+### Creating a Calendar Event
 
 When creating a new event or updating a old one.
 
@@ -72,6 +81,8 @@ When creating a new event or updating a old one.
 6. Set guests.
    For mentoring subcommittee meetings those are all the members of the subcommittee.
    For discussion sessions those are all the instructors that you invited.
+
+
 
 [repository]: https://github.com/swcarpentry/board/
 [minutes-repository]: https://github.com/swcarpentry/board/tree/master/subcommittee/mentoring/
