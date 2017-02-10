@@ -23,9 +23,18 @@ by 1-2 experienced instructors/community members
 
 ## Wishlist
 
-* Instructor notes task force
-* Better scheduling tool for discussions
+* Facilitating discovery of mentoring activities by community members
+* Better scheduling tool for discussions (signupgenius.com?)
 * Lesson mentoring
+	* How to teach existing lessons well
+	* How to write new lessons (jekyll mechanics, SWC/DC process, pedagogy + content)
+* Task forces in conjunction with maintainer/lesson committees: 
+	* Instructor notes development
+	* Contribution guidelines for lessons
+* Discipline mentoring
+	* Building communities of people to share information from their research domain
+* Career mentoring
+	* Already (sort-of) being organized -- become an official part of the committee?  
 * Another large scale event like the virtual retreat or bug BBQ
 
 ## Past Activities
