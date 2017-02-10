@@ -1,70 +1,80 @@
 # The Mentoring Subcommittee
 
-## Purpose and Scope
+## Our mission
+
 The Mentoring Subcommittee was established in 2015 to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking by providing (virtual) spaces where instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges. 
 
-## What We Do 
+## What We Do
 
 ### Instructor Discussion Sessions
-Each week, we host four instructor discussion sessions. The sessions provide a forum where experienced and novice instructors can discuss past and/or upcoming workshops. Instructors who have just taught, are about to teach, or have just completed instructor training will  receive an email invitation to these meetings, but these sessions are open to anyone. 
+
+Each week, volunteers host two instructor discussion sessions. The sessions provide a forum where experienced and novice instructors can discuss past and/or upcoming workshops. Instructors who have just taught, are about to teach, or have just completed instructor training will  receive an email invitation to these meetings, but these sessions are open to anyone. 
 
 To find an upcoming session, visit this link: http://pad.software-carpentry.org/instructor-discussion
 
-### Instructor-Helper Retreat
-In November 2015, Software Carpentry and Data Carpentry instructors and helpers got together together at sites around the world for a day of sharing skills, trying out new lessons and ideas and discussing all things instructor and helper related. 
+### Mentoring Program
 
-To see the schedule for the 2015 retreat, visit: http://swcarpentry.github.io/instructor-retreat-2015/
+Need to add
 
-### Archived: Pre- and Post- Workshop Debriefing Session
+### Coming Soon: Regional Communities Sub-Committee
 
-Before launching the Instructor Discussion Sessions, we used to host separate [pre- and post-workshop debriefing sessions](http://software-carpentry.org/blog/categories/#debriefing). We are grateful to all the hosts and participants who attended these sessions.
+Need to add information
 
-## Mailing List
+### Mentoring Committee Meetings
 
-The best way to contact this subcommittee is via the [mailing
-list][mailing-list], which is archived [here][mailing-list-archives].
+The mentoring committee itself meets regularly to evaluate current activities, and propose
+new activities.  Minutes of past meetings are available [here](minutes).
 
-## Outreach
+To attend our next meeting, visit this link: http://pad.software-carpentry.org/scf-mentoring
 
-We [blog][] about our ongoing and proposed activities.  Past blog
-posts are available [here][blog-archives].
+## How Can I Participate?
 
-## Meetings
+I would like to: 
 
-We have occasional [meetings][].  Minutes of past meetings are
-available [here](minutes).
+- join a small group to receive mentoring from experienced instructors OR
+- mentor new instructors
+	- Sign up for the mentoring program by contacting Erin Becker.  
+- discuss workshop experiences with other instructors OR
+- ask questions of other instructors as I prepare to teach
+	- Join an instructor discussion session by signing up on this etherpad: http://pad.software-carpentry.org/instructor-discussion
+- help lead discussion sessions among instructors
+	- Contact the discussion coordinators, and sign up to host, co-host, or observe 
+	a discussion on this etherpad: http://pad.software-carpentry.org/instructor-discussion
+- support current mentoring activities or initiate new ones
+	- Sign up for the mentoring committee mailing list and attend the next mentoring committee meeting
+	
+For a summary of different mentoring roles, see [this page](roles.md).  
 
-## Join Us!
+## Committee Members 
 
-We welcome new members to the subcommittee.  If you are interested in
-joining our community-building efforts, please email the [mailing
-list](#mailing-list).
+### Leadership
 
-## Steering Comittee Liaison
+* Chair
+	* Christina Koch (@ChristinaLK, [@_christinaLK](https://twitter.com/_christinaLK))
+* Vice-Chair/Steering Committee Liaison
+	* Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
 
-* Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
-
-## Current Members
+### Members-at-large
 
 * Belinda Weaver (@weaverbel, [@cloudaus](https://twitter.com/cloudaus))
-* Bill Mills (@BillMills, [@billdoesphysics](https://twitter.com/billdoesphysics))
-* Carol Willing (@willingc, [@WillingCarol](https://twitter.com/WillingCarol))
-* Christina Koch, Chair (@ChristinaLK, [@_christinaLK](https://twitter.com/_christinaLK))
-* Daniel Chen (@chendaniely, [@chendaniely](https://twitter.com/chendaniely))
 * Karin Lagesen (@karinlag, [@karinlag](https://twitter.com/karinlag))
 * Kate Hertweck (@k8hertweck, [k8hert](https://twitter.com/k8hert))
 * Marian Schmidt (@marschmi, [@micro_marian](https://twitter.com/micro_marian))
-* Mariela Perignon (@mperignon)
-* Michael Sarahan (@msarahan)
-* Phil Rosenfield (@philrosenfield, [@philrosenfield](https://twitter.com/philrosenfield))
-* Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
 * Susan McClatchy (@smcclatchy, [@SueMcclatchy](https://twitter.com/SueMcclatchy))
 * Tracy Teal (@tracykteal, [@tracykteal](https://twitter.com/tracykteal))
+* Tobin Magle
+* Mark Laufersweiler
 
-## Past Members
+### Past Members
 
 * Sheldon McKay (@mckays630)
 * Tiffany Timbers (@ttimbers, [@TiffanyTimbers](https://twitter.com/TiffanyTimbers))
+* Phil Rosenfield (@philrosenfield, [@philrosenfield](https://twitter.com/philrosenfield))
+* Bill Mills (@BillMills, [@billdoesphysics](https://twitter.com/billdoesphysics))
+* Carol Willing (@willingc, [@WillingCarol](https://twitter.com/WillingCarol))
+* Daniel Chen (@chendaniely, [@chendaniely](https://twitter.com/chendaniely))
+* Mariela Perignon (@mperignon)
+* Michael Sarahan (@msarahan)
 
 [blog]: https://software-carpentry.org/blog/
 [blog-archives]: https://software-carpentry.org/blog/categories/#SLUG

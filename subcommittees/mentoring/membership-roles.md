@@ -54,31 +54,3 @@ committee activities (e.g. discussion sessions, mentoring program) in the past
 
 All mentoring committee members should join the committee email list in order 
 to remain up-to-date.  
-
-### Leadership Roles
-
-* Chair
-	* Christina Koch (@ChristinaLK, [@_christinaLK](https://twitter.com/_christinaLK))
-* Vice-Chair/Steering Committee Liaison
-	* Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
-
-### Members-at-large
-
-* Belinda Weaver (@weaverbel, [@cloudaus](https://twitter.com/cloudaus))
-* Karin Lagesen (@karinlag, [@karinlag](https://twitter.com/karinlag))
-* Kate Hertweck (@k8hertweck, [k8hert](https://twitter.com/k8hert))
-* Marian Schmidt (@marschmi, [@micro_marian](https://twitter.com/micro_marian))
-* Susan McClatchy (@smcclatchy, [@SueMcclatchy](https://twitter.com/SueMcclatchy))
-* Tracy Teal (@tracykteal, [@tracykteal](https://twitter.com/tracykteal))
-* add people (Tobin, Mark, others?)
-
-## Past Members
-
-* Sheldon McKay (@mckays630)
-* Tiffany Timbers (@ttimbers, [@TiffanyTimbers](https://twitter.com/TiffanyTimbers))
-* Phil Rosenfield (@philrosenfield, [@philrosenfield](https://twitter.com/philrosenfield))
-* Bill Mills (@BillMills, [@billdoesphysics](https://twitter.com/billdoesphysics))
-* Carol Willing (@willingc, [@WillingCarol](https://twitter.com/WillingCarol))
-* Daniel Chen (@chendaniely, [@chendaniely](https://twitter.com/chendaniely))
-* Mariela Perignon (@mperignon)
-* Michael Sarahan (@msarahan)
