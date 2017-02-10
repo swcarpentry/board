@@ -7,6 +7,7 @@ The primary responsibilities of the Discussion Session Coordinators are:
 - Take notes / organize note-taking during mentoring committee meetings
 - Submit notes to the board repostiory as a pull request after the meeting
 - Maintain attendance list
+- Keep the `README` and repository contents up-to-date. 
 
 ## Time commitment
 
