@@ -10,6 +10,7 @@ The chair of the mentoring committee:
 - follows up with other mentoring committee members regarding their duties/concerns
 - gathers feedback from community and other sub-committee members about desired mentoring efforts or outcomes
 - facilitates the formation of task forces / sub-committees as appropriate to accomplish desired mentoring outcomes
+- adds new committee roles as necessary
 - evaluates committee roles on a yearly basis
 
 The vice-chair of the mentoring committee: 
@@ -81,8 +82,6 @@ When creating a new event or updating a old one.
 6. Set guests.
    For mentoring subcommittee meetings those are all the members of the subcommittee.
    For discussion sessions those are all the instructors that you invited.
-
-
 
 [repository]: https://github.com/swcarpentry/board/
 [minutes-repository]: https://github.com/swcarpentry/board/tree/master/subcommittee/mentoring/
