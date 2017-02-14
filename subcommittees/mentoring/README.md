@@ -19,6 +19,10 @@ To see the schedule for the 2015 retreat, visit: http://swcarpentry.github.io/in
 
 Before launching the Instructor Discussion Sessions, we used to host separate [pre- and post-workshop debriefing sessions](http://software-carpentry.org/blog/categories/#debriefing). We are grateful to all the hosts and participants who attended these sessions.
 
+## Related Projects
+
+The [Local/Regional Mentor Subcommittee](../local-group/README.md) facilitates local communities.
+
 ## Mailing List
 
 The best way to contact this subcommittee is via the [mailing
@@ -67,7 +71,7 @@ list](#mailing-list).
 * Tiffany Timbers (@ttimbers, [@TiffanyTimbers](https://twitter.com/TiffanyTimbers))
 
 [blog]: https://software-carpentry.org/blog/
-[blog-archives]: https://software-carpentry.org/blog/categories/#SLUG
-[mailing-list]: http://lists.software-carpentry.org/listinfo/SLUG
-[mailing-list-archives]: http://lists.software-carpentry.org/pipermail/SLUG/
+[blog-archives]: https://software-carpentry.org/blog/categories/#mentoring
+[mailing-list]: http://lists.software-carpentry.org/listinfo/mentoring
+[mailing-list-archives]: http://lists.software-carpentry.org/pipermail/mentoring/
 [meetings]: http://pad.software-carpentry.org/scf-mentoring
