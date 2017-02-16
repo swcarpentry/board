@@ -1,6 +1,6 @@
 # The Mentoring Subcommittee
 
-## Our mission
+## Purpose and Scope
 
 The Mentoring Subcommittee was established in 2015 to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking by providing (virtual) spaces where instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges. 
 
@@ -14,13 +14,9 @@ To find an upcoming session, visit this link: http://pad.software-carpentry.org/
 
 ### Mentoring Program
 
-Need to add
+This program supports instructors who are new to our community by matching them with a personal Mentor. Mentors will guide small groups (~4-5) of Mentees, holding meetings for their Mentees to do things like practice teaching, ask questions about workshop logistics, and brush up on lesson content, depending on their needs and interests. 
 
-### Coming Soon: Regional Communities Sub-Committee
-
-Currently under review, hopefully coming soon!  
-
-> The group will facilitate and help those Carpentry members and Member Organizations who wish to  organize and maintain local mentoring groups. This group will also discuss regional community building based on shared missions or topics matching the various interests of regional Carpentry members. 
+See [this page](https://github.com/datacarpentry/mentoring-program/blob/master/program-outline.md) for a full outline of the program.  
 
 ### Mentoring Committee Meetings
 
@@ -68,8 +64,10 @@ For a summary of different mentoring roles, see [this page](roles.md).
 * Marian Schmidt (@marschmi, [@micro_marian](https://twitter.com/micro_marian))
 * Susan McClatchy (@smcclatchy, [@SueMcclatchy](https://twitter.com/SueMcclatchy))
 * Tracy Teal (@tracykteal, [@tracykteal](https://twitter.com/tracykteal))
+* Erin Becker
 * Tobin Magle
 * Mark Laufersweiler
+* Mateusz Kuzak
 
 ### Past Members
 

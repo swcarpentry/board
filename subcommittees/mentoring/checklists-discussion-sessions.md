@@ -24,8 +24,8 @@ Discussion sessions are organized and conducted through this etherpad:
 ## After the discussion
 - [ ] Archive the etherpad by clicking on the star in the top right corner.  
 - [ ] Copy your notes to [this google doc](https://docs.google.com/document/d/1zQTkNCev9AzAlA464jUa8ifFaTx_8mb1NX6xvUbaGvM/edit) and label with the date and which session you led.  
-- [ ] Email the instructor training coordinators (Maneesha + Erin) with the names of 
-	instructor trainees who attended and participated in discussion
+- [ ] Email checkout@carpentries.org with the names and affiliations of 
+instructor trainees who attended and participated in discussion.
 - [ ] Clear the information from your session (date/time, attendees, notes) from the etherpad. 
 - [ ] (Optional) write a blog post about interesting points that came up in discussion; see 
 [this template](template-blog-about-debriefing-session.md) as a starting point.

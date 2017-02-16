@@ -52,7 +52,8 @@ and solicit additions
 Historically we had two meetings a month, and each meeting was held twice in a 
 day to accomodate time zones.  
 
-In December 2016, the chair (Christina Koch) decided to move to 1 meeting a month.  
+In December 2016, the chair (Christina Koch) decided to move to meeting one day 
+a month, with two time slots.   
 
 There is currently no set meeting time.  
 
