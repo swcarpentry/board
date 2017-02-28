@@ -10,7 +10,7 @@ The Mentoring Subcommittee was established in 2015 to develop and maintain a men
 
 Each week, volunteers host two instructor discussion sessions. The sessions provide a forum where experienced and novice instructors can discuss past and/or upcoming workshops. Instructors who have just taught, are about to teach, or have just completed instructor training will  receive an email invitation to these meetings, but these sessions are open to anyone. 
 
-To find an upcoming session, visit this link: http://pad.software-carpentry.org/instructor-discussion
+To find an upcoming session, visit this link: [http://pad.software-carpentry.org/instructor-discussion][discussion]
 
 ### Mentoring Program
 
@@ -18,17 +18,16 @@ This program supports instructors who are new to our community by matching them 
 
 See [this page](https://github.com/datacarpentry/mentoring-program/blob/master/program-outline.md) for a full outline of the program.  
 
-### Mentoring Committee Meetings
+## Mentoring Committee Meetings
 
 The mentoring committee itself meets regularly to evaluate current activities, and propose
-new activities.  Minutes of past meetings are available [here][minutes].  All community 
+new activities.  Minutes of past meetings are available [here](minutes).  All community 
 members are welcome to attend mentoring committee meetings.  Similarly, we welcome 
 anyone who is interested in joining up and helping out!  
 
-To attend our next meeting, visit this link: http://pad.software-carpentry.org/scf-mentoring
+To attend our next meeting, visit this link: [http://pad.software-carpentry.org/scf-mentoring][meetings]
 
-
-## How Can I Participate?  
+## Join Us!
 
 Any Software or Data Carpentry community member is welcome to participate in 
 Mentoring committee activities and/or join the committee itself!  Some different 
@@ -41,30 +40,21 @@ I would like to:
 	- Sign up for the mentoring program by contacting Erin Becker (ebecker@datacarpentry.org)
 - discuss workshop experiences with other instructors OR
 - ask questions of other instructors as I prepare to teach
-	- Attend an instructor discussion session by signing up on this etherpad: http://pad.software-carpentry.org/instructor-discussion
+	- Attend an instructor discussion session by signing up on [this etherpad][meetings].
 - help lead discussion sessions among instructors
-	- Join the [discussion host mailing list][host-mailing-list] and ign up to host, co-host, or observe 
-	a discussion on this etherpad: http://pad.software-carpentry.org/instructor-discussion
-- support current mentoring activities or initiate new ones
+	- Join the [discussion host mailing list][host-mailing-list] and sign up to host, co-host, or observe 
+	a discussion on [this etherpad][discussion]
+- support current mentoring activities or initiate new ones OR
 - join the mentoring committee
-	- Sign up for the mentoring committee [mailing list][comm-mailing-list] and attend the next mentoring committee meeting (scheduled on [this etherpad](http://pad.software-carpentry.org/scf-mentoring))
+	- Sign up for the mentoring committee [mailing list][comm-mailing-list] and attend the next mentoring committee meeting (scheduled on [this etherpad][meetings])
 
 For a complete summary of different mentoring roles, see [this page](roles.md).  
 
-## Committee Members 
+## Steering Committee Liaison
 
-### Leadership
+* Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
 
-* Chair
-	* Christina Koch (@ChristinaLK, [@_christinaLK](https://twitter.com/_christinaLK))
-* Vice-Chair/Steering Committee Liaison
-	* Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
-* Secretary
-	* To be filled in March 2017
-* Discussion Session Coordinators
-	* To be filled in March 2017
-
-### Current Members
+## Current Members
 
 * Belinda Weaver (@weaverbel, [@cloudaus](https://twitter.com/cloudaus))
 * Karin Lagesen (@karinlag, [@karinlag](https://twitter.com/karinlag))
@@ -79,7 +69,7 @@ For a complete summary of different mentoring roles, see [this page](roles.md).
 * Mark Laufersweiler
 * Mateusz Kuzak
 
-### Past Members
+## Past Members
 
 * Sheldon McKay (@mckays630)
 * Tiffany Timbers (@ttimbers, [@TiffanyTimbers](https://twitter.com/TiffanyTimbers))
@@ -90,11 +80,7 @@ For a complete summary of different mentoring roles, see [this page](roles.md).
 * Mariela Perignon (@mperignon)
 * Michael Sarahan (@msarahan)
 
-[blog]: https://software-carpentry.org/blog/
-[blog-archives]: https://software-carpentry.org/blog/categories/#SLUG
-[mailing-list]: http://lists.software-carpentry.org/listinfo/SLUG
-[mailing-list-archives]: http://lists.software-carpentry.org/pipermail/SLUG/
+[discussion]: http://pad.software-carpentry.org/instructor-discussion
 [host-mailing-list]: https://groups.google.com/a/carpentries.org/forum/#!forum/discussion-hosts
 [comm-mailing-list]: https://groups.google.com/a/carpentries.org/forum/#!forum/mentoring-subcommittee
 [meetings]: http://pad.software-carpentry.org/scf-mentoring
-[minutes]: https://github.com/swcarpentry/board/subcommittees/mentoring/minutes
