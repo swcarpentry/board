@@ -6,7 +6,7 @@ The primary responsibilities of the Discussion Session Coordinators are:
 
 - Emailing workshop instructors about discussion session, before and after they teach. 
 - Recruiting/emailing discussion hosts about hosting 
-- Maintaining the discussion-hosts@carpentries.org mailing list
+- Maintaining the [discussion-hosts@carpentries.org][host-mailing-list] mailing list
 - Maintaining the instructor discussion etherpad with upcoming dates
 - Checking in with hosts, the week of their discussion sessions
 
@@ -52,3 +52,6 @@ on Thursday of that week), with the [pre-workshop email](../files/pre_workshop_e
 ### Follow up
 - Facilitate discussion among hosts about the discussion sessions.  
 - Ask for additional questions to be added temporarily to the agenda.  
+
+
+[host-mailing-list]: https://groups.google.com/a/carpentries.org/forum/#!forum/discussion-hosts

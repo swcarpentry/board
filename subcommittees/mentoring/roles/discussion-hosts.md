@@ -18,12 +18,15 @@ one workshop in the past year.
 ## To Volunteer
 
 - Contact the [Discussion Session Coordinators](../README.md)
+- Join the [Discussion Hosts mailing list][host-mailing-list]
+- Sign up!  We do recommend that you observe or co-host a session before 
+being the main host.  
 
 ## Checklists and Resources
 
 To host a discussion session, sign up on 
-the [etherpad](http://pad.software-carpentry.org/instructor-discussion).  We also ask that you contact 
-the [Discussion coordinators](discussion-coordinators.md) in order to be added to our list of people who 
-are willing to host.  
+the [etherpad](http://pad.software-carpentry.org/instructor-discussion).  
 
 Our main checklist for actually leading discussions is [here](../checklists-discussion-sessions.md). 
+
+[host-mailing-list]: https://groups.google.com/a/carpentries.org/forum/#!forum/discussion-hosts

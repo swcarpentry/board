@@ -36,7 +36,7 @@ or be confirmed to attend an upcoming training)
 * active in the SWC/DC community as a helper, instructor, or contributor
 
 Membership consists of: 
-* joining the mentoring committee mailing list (mentoring-subcommittee@carpentries.org)
+* joining the [mentoring committee mailing list][comm-mailing-list]
 * attending at least one mentoring committee meeting every 2-4 months
 * contributing to the mentoring committee's efforts in some way, including
 	* taking on an official committee role (see below)
@@ -76,3 +76,6 @@ one person may hold up to two positions.
 In the case that a member is not able to fulfill the duties of their role for the 
 full term, a member will be chosen to fill that role until the time of the next 
 turnover.  
+
+[host-mailing-list]: https://groups.google.com/a/carpentries.org/forum/#!forum/discussion-hosts
+[comm-mailing-list]: https://groups.google.com/a/carpentries.org/forum/#!forum/mentoring-subcommittee

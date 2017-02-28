@@ -28,7 +28,7 @@ The vice-chair of the mentoring committee:
 
 ## To Volunteer
 
-- Join the mentoring committee, be present for February election
+- Join the mentoring committee, be present for March election
 
 ## Resources and Checklists
 

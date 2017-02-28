@@ -21,7 +21,7 @@ See [this page](https://github.com/datacarpentry/mentoring-program/blob/master/p
 ### Mentoring Committee Meetings
 
 The mentoring committee itself meets regularly to evaluate current activities, and propose
-new activities.  Minutes of past meetings are available [here](minutes).  All community 
+new activities.  Minutes of past meetings are available [here][minutes].  All community 
 members are welcome to attend mentoring committee meetings.  Similarly, we welcome 
 anyone who is interested in joining up and helping out!  
 
@@ -43,11 +43,11 @@ I would like to:
 - ask questions of other instructors as I prepare to teach
 	- Attend an instructor discussion session by signing up on this etherpad: http://pad.software-carpentry.org/instructor-discussion
 - help lead discussion sessions among instructors
-	- Contact the discussion coordinators, and sign up to host, co-host, or observe 
+	- Join the [discussion host mailing list][host-mailing-list] and ign up to host, co-host, or observe 
 	a discussion on this etherpad: http://pad.software-carpentry.org/instructor-discussion
 - support current mentoring activities or initiate new ones
 - join the mentoring committee
-	- Sign up for the mentoring committee mailing list and attend the next mentoring committee meeting (scheduled on [this etherpad](http://pad.software-carpentry.org/scf-mentoring))
+	- Sign up for the mentoring committee [mailing list][comm-mailing-list] and attend the next mentoring committee meeting (scheduled on [this etherpad](http://pad.software-carpentry.org/scf-mentoring))
 
 For a complete summary of different mentoring roles, see [this page](roles.md).  
 
@@ -94,5 +94,7 @@ For a complete summary of different mentoring roles, see [this page](roles.md).
 [blog-archives]: https://software-carpentry.org/blog/categories/#SLUG
 [mailing-list]: http://lists.software-carpentry.org/listinfo/SLUG
 [mailing-list-archives]: http://lists.software-carpentry.org/pipermail/SLUG/
+[host-mailing-list]: https://groups.google.com/a/carpentries.org/forum/#!forum/discussion-hosts
+[comm-mailing-list]: https://groups.google.com/a/carpentries.org/forum/#!forum/mentoring-subcommittee
 [meetings]: http://pad.software-carpentry.org/scf-mentoring
 [minutes]: https://github.com/swcarpentry/board/subcommittees/mentoring/minutes
