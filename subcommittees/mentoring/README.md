@@ -21,27 +21,35 @@ See [this page](https://github.com/datacarpentry/mentoring-program/blob/master/p
 ### Mentoring Committee Meetings
 
 The mentoring committee itself meets regularly to evaluate current activities, and propose
-new activities.  Minutes of past meetings are available [here](minutes).
+new activities.  Minutes of past meetings are available [here](minutes).  All community 
+members are welcome to attend mentoring committee meetings.  Similarly, we welcome 
+anyone who is interested in joining up and helping out!  
 
 To attend our next meeting, visit this link: http://pad.software-carpentry.org/scf-mentoring
 
-## How Can I Participate?
+
+## How Can I Participate?  
+
+Any Software or Data Carpentry community member is welcome to participate in 
+Mentoring committee activities and/or join the committee itself!  Some different 
+options for getting involved are given below.  
 
 I would like to: 
 
 - join a small group to receive mentoring from experienced instructors OR
 - mentor new instructors
-	- Sign up for the mentoring program by contacting Erin Becker.  
+	- Sign up for the mentoring program by contacting Erin Becker (ebecker@datacarpentry.org)
 - discuss workshop experiences with other instructors OR
 - ask questions of other instructors as I prepare to teach
-	- Join an instructor discussion session by signing up on this etherpad: http://pad.software-carpentry.org/instructor-discussion
+	- Attend an instructor discussion session by signing up on this etherpad: http://pad.software-carpentry.org/instructor-discussion
 - help lead discussion sessions among instructors
 	- Contact the discussion coordinators, and sign up to host, co-host, or observe 
 	a discussion on this etherpad: http://pad.software-carpentry.org/instructor-discussion
 - support current mentoring activities or initiate new ones
-	- Sign up for the mentoring committee mailing list and attend the next mentoring committee meeting
-	
-For a summary of different mentoring roles, see [this page](roles.md).  
+- join the mentoring committee
+	- Sign up for the mentoring committee mailing list and attend the next mentoring committee meeting (scheduled on [this etherpad](http://pad.software-carpentry.org/scf-mentoring))
+
+For a complete summary of different mentoring roles, see [this page](roles.md).  
 
 ## Committee Members 
 
@@ -52,16 +60,18 @@ For a summary of different mentoring roles, see [this page](roles.md).
 * Vice-Chair/Steering Committee Liaison
 	* Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
 * Secretary
-	* To be filled
+	* To be filled in March 2017
 * Discussion Session Coordinators
-	* To be filled
+	* To be filled in March 2017
 
-### Members-at-large
+### Current Members
 
 * Belinda Weaver (@weaverbel, [@cloudaus](https://twitter.com/cloudaus))
 * Karin Lagesen (@karinlag, [@karinlag](https://twitter.com/karinlag))
 * Kate Hertweck (@k8hertweck, [k8hert](https://twitter.com/k8hert))
 * Marian Schmidt (@marschmi, [@micro_marian](https://twitter.com/micro_marian))
+* Christina Koch (@ChristinaLK, [@_christinaLK](https://twitter.com/_christinaLK))
+* Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
 * Susan McClatchy (@smcclatchy, [@SueMcclatchy](https://twitter.com/SueMcclatchy))
 * Tracy Teal (@tracykteal, [@tracykteal](https://twitter.com/tracykteal))
 * Erin Becker
@@ -85,3 +95,4 @@ For a summary of different mentoring roles, see [this page](roles.md).
 [mailing-list]: http://lists.software-carpentry.org/listinfo/SLUG
 [mailing-list-archives]: http://lists.software-carpentry.org/pipermail/SLUG/
 [meetings]: http://pad.software-carpentry.org/scf-mentoring
+[minutes]: https://github.com/swcarpentry/board/subcommittees/mentoring/minutes

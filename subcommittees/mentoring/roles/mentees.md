@@ -6,7 +6,6 @@
 * Attend scheduled meetings and participate actively or let your Mentor know you won’t be attending.
 * Be respectful of other Mentees and Mentors. Provide a safe space for questions and mistakes.
 
-
 ## Time commitment
 
 1 hour a month
