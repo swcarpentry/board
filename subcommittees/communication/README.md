@@ -7,7 +7,7 @@ Committee and many types of stakeholders including the public,
 potential workshop attendees, instructors, staff, and organizational
 members.
 
-## Steering Comittee Liaison
+## Steering Committee Liaison
 
 * Adina Howe (@adina)
 
