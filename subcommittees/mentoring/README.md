@@ -10,7 +10,7 @@ The Mentoring Subcommittee was established in 2015 to develop and maintain a men
 
 Each week, volunteers host two instructor discussion sessions. The sessions provide a forum where experienced and novice instructors can discuss past and/or upcoming workshops. Instructors who have just taught, are about to teach, or have just completed instructor training will  receive an email invitation to these meetings, but these sessions are open to anyone. 
 
-To find an upcoming session, visit this link: [http://pad.software-carpentry.org/instructor-discussion][discussion]
+To find an upcoming session, visit [this etherpad][discussion].
 
 ### Mentoring Program
 
@@ -25,7 +25,7 @@ new activities.  Minutes of past meetings are available [here](minutes).  All co
 members are welcome to attend mentoring committee meetings.  Similarly, we welcome 
 anyone who is interested in joining up and helping out!  
 
-To attend our next meeting, visit this link: [http://pad.software-carpentry.org/scf-mentoring][meetings]
+To attend our next meeting, visit [this etherpad][meetings].
 
 ## Join Us!
 
@@ -82,5 +82,5 @@ For a complete summary of different mentoring roles, see [this page](roles.md).
 
 [discussion]: http://pad.software-carpentry.org/instructor-discussion
 [host-mailing-list]: https://groups.google.com/a/carpentries.org/forum/#!forum/discussion-hosts
-[comm-mailing-list]: https://groups.google.com/a/carpentries.org/forum/#!forum/mentoring-subcommittee
+[comm-mailing-list]: http://lists.software-carpentry.org/listinfo/mentoring
 [meetings]: http://pad.software-carpentry.org/scf-mentoring
