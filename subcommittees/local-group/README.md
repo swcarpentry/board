@@ -55,7 +55,7 @@ We welcome new members to the Subcommittee.  If you are interested in
 joining our community-building efforts, please email the [mailing
 list](#mailing-list).
 
-## Steering Comittee Liaison
+## Steering Committee Liaison
 
 * LIAISON_NAME (@LIAISON_GITHUB_USER, OTHER_LIAISON_CONTACT)
 

@@ -12,7 +12,7 @@ We [blog][] about our ongoing and proposed activities.  Past blog
 posts are available [here][blog-archives-1] and
 [here][blog-archives-2].
 
-## Steering Comittee Liaison
+## Steering Committee Liaison
 
 * Jason Williams (@JasonJWilliamsNY)
 

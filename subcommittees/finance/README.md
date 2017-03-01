@@ -12,7 +12,7 @@ The Subcommittee reviews all financial activities and provides the
 Steering Commmittee with monthly reports on SCF’s financial
 performance against our budget goals and purposes.
 
-## Steering Comittee Liaison
+## Steering Committee Liaison
 
 * Jason Williams (@JasonJWilliamsNY)
 

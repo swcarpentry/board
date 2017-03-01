@@ -10,7 +10,7 @@ The Task Force makes recommendation for fee waivers to support the
 mission ad goals of the Software Carpentry Foundation (SCF) and it
 sustainability.
 
-## Steering Comittee Liaison
+## Steering Committee Liaison
 
 * Raniere Silva (@rgaiacs)
 

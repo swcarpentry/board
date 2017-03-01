@@ -20,7 +20,7 @@ posts are available [here][blog-archives].
 The best way to contact this Subcommittee is via the [mailing
 list][mailing-list], which is archived [here][mailing-list-archives].
 
-## Steering Comittee Liaison
+## Steering Committee Liaison
 
 * Matt Davis (@jiffyclub)
 

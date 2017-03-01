@@ -40,7 +40,7 @@ We welcome new members to the subcommittee.  If you are interested in
 joining our community-building efforts, please email the [mailing
 list](#mailing-list).
 
-## Steering Comittee Liaison
+## Steering Committee Liaison
 
 * Rayna Harris (@raynamharris, [@raynamharris](https://twitter.com/raynamharris))
 
