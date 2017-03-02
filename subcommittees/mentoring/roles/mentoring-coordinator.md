@@ -10,15 +10,3 @@
 - Keep track of program completion rates to assess success.  
 - Get feedback from Mentors and Mentees about program.  
 
-## Time commitment
-
-
-## Requirements
-
-
-
-## To Volunteer
-
-
-
-## Resources and Checklists

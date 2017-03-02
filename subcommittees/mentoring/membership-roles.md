@@ -78,4 +78,4 @@ full term, a member will be chosen to fill that role until the time of the next
 turnover.  
 
 [host-mailing-list]: https://groups.google.com/a/carpentries.org/forum/#!forum/discussion-hosts
-[comm-mailing-list]: https://groups.google.com/a/carpentries.org/forum/#!forum/mentoring-subcommittee
+[comm-mailing-list]: http://lists.software-carpentry.org/listinfo/mentoring
