@@ -99,11 +99,11 @@ The lessons you may submit to are:
 > What Makes a Good Exercise?
 If you are submitting a new exercise for the new Software Carpentry Python lesson:
 >
-	1. Follow the coding style of the lesson you’re submitting to. Read the lesson’s CONTRIBUTING file for explicit guidelines:
-	2. Include a solution to your exercise.
-	3. Do not rely on software that isn’t easily available on Windows, Mac OS X, and Linux, since most workshops have users on all three platforms.
-	4. Try to give exercises a scientific theme: reversing a string isn’t particularly motivational for our audience.
-	5. Include a comment when you submit the exercise to explain the purpose of the exercise (i.e., what it is demonstrating or checking for).
+>	1. Follow the coding style of the lesson you’re submitting to. Read the lesson’s CONTRIBUTING file for explicit guidelines:
+>	2. Include a solution to your exercise.
+>	3. Do not rely on software that isn’t easily available on Windows, Mac OS X, and Linux, since most workshops have users on all three platforms.
+>	4. Try to give exercises a scientific theme: reversing a string isn’t particularly motivational for our audience.
+>	5. Include a comment when you submit the exercise to explain the purpose of the exercise (i.e., what it is demonstrating or checking for).
 
 
 ### Part 2: Take Part in An Online Discussion Session
