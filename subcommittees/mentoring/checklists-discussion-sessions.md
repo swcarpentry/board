@@ -66,7 +66,6 @@ Please note that:
 1. Be sure to format your submission in the same way as the content that’s already there. The `CONTRIBUTING.md` file in each lesson has guidelines (and improvements to these guidelines are welcome).
 
 1. The lesson maintainers get many pull requests, so please take some time to write a good commit message to help them understand what you’re doing. For example:
-<br/>
 
     ```
    Add a 'commit --amend' exercise
