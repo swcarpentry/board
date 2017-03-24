@@ -23,7 +23,7 @@ The etherpad is here: http://pad.software-carpentry.org/trainers
 The etherpad is here: http://pad.software-carpentry.org/teaching-demos
 
 ## Steering Committee Liaison
-- TBD
+- Christina Koch
 
 ## Current Members
 - Erin Becker (United States)
