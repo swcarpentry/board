@@ -47,7 +47,7 @@ The etherpad is here: http://pad.software-carpentry.org/teaching-demos
 - Jeff Oliver
 - Aleksandra Pawlik (New Zealand)
 - Ariel Rokem (United States)
-- Maneesha Sane (England)
+- Maneesha Sane (United States)
 - Tracy Teal (United States)
 - Fiona Tweedie (Australia)
 - Anelda van der Walt (South Africa)
