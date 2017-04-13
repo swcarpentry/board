@@ -44,3 +44,4 @@ The etherpad is here: http://pad.software-carpentry.org/teaching-demos
 - Allegra Via (Italy)
 - Alistair Walsh (Australia)
 - Belinda Weaver (Australia)
+- Greg Wilson (Canada)
