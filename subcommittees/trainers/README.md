@@ -27,21 +27,35 @@ The etherpad is here: http://pad.software-carpentry.org/teaching-demos
 
 ## Current Members
 - Erin Becker (United States)
+- Martin Callaghan 
 - Karen Cranston (United States)
 - Steve Crouch (United Kingdom)
 - Neal Davis (United States)
+- Tim Dennis (United States)
+- Jonah Duckles (United States)
 - Rayna Harris (United States)
+- Christopher Hamm (United States)
+- Kari Jordan (United States)
+- Alix Keener (United States)
 - Christina Koch (United States)
 - Mateusz Kuzak (Netherlands)
 - Karin Lagesen (Norway)
+- Mark Laufersweiler (United States)
 - Sue McClatchy (United States)
+- Aleksandra Neadic (England)
 - Lex Nederbragt (Norway)
+- Jeff Oliver
 - Aleksandra Pawlik (New Zealand)
 - Ariel Rokem (United States)
+- Maneesha Sane (England)
 - Tracy Teal (United States)
 - Fiona Tweedie (Australia)
 - Anelda van der Walt (South Africa)
 - Allegra Via (Italy)
+- Jason Williams (England)
 - Alistair Walsh (Australia)
 - Belinda Weaver (Australia)
 - Greg Wilson (Canada)
+- Karen Word
+- Naupaka Zimmerman (United States)
+
