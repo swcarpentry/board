@@ -32,7 +32,7 @@ The etherpad is here: http://pad.software-carpentry.org/teaching-demos
 - Steve Crouch (United Kingdom)
 - Neal Davis (United States)
 - Tim Dennis (United States)
-- Jonah Duckles (United States)
+- Jonah Duckles (New Zealand)
 - Rayna Harris (United States)
 - Christopher Hamm (United States)
 - Kari Jordan (United States)
