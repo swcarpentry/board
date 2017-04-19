@@ -42,9 +42,9 @@ The etherpad is here: http://pad.software-carpentry.org/teaching-demos
 - Karin Lagesen (Norway)
 - Mark Laufersweiler (United States)
 - Sue McClatchy (United States)
-- Aleksandra Neadic (England)
+- Aleksandra Nenadic (England)
 - Lex Nederbragt (Norway)
-- Jeff Oliver
+- Jeff Oliver (United States)
 - Aleksandra Pawlik (New Zealand)
 - Ariel Rokem (United States)
 - Maneesha Sane (United States)
@@ -56,6 +56,6 @@ The etherpad is here: http://pad.software-carpentry.org/teaching-demos
 - Alistair Walsh (Australia)
 - Belinda Weaver (Australia)
 - Greg Wilson (Canada)
-- Karen Word
+- Karen Word (United States)
 - Naupaka Zimmerman (United States)
 
