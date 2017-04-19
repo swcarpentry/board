@@ -27,7 +27,7 @@ The etherpad is here: http://pad.software-carpentry.org/teaching-demos
 
 ## Current Members
 - Erin Becker (United States)
-- Martin Callaghan 
+- Martin Callaghan (United Kingdom)
 - Karen Cranston (United States)
 - Steve Crouch (United Kingdom)
 - Neal Davis (United States)
