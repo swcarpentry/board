@@ -16,11 +16,10 @@ ongoing activities) and Task Forces (ad hoc groups focused on a finite
 task).
 
 ## Current Task Forces
-
-* [2017 CarpentryCon](2017-CarpentryCon/README.md)
+* [2018 CarpentryCon](2018-CarpentryCon/README.md)
 
 ## Former Task Forces
-
+* [2017 CarpentryCon](2017-CarpentryCon/README.md)
 * [Fees](fees/README.md)
 
 ## How to Propose a New Task Force
