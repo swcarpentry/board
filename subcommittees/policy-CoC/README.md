@@ -14,7 +14,7 @@ Enforce the Code of Conduct (CoC) in all parts of the Carpentries community
 ## Contact
 
 * policy@carpentries.org to contact the committee
-* confidential@carpentries.org to report concerns regarding the CoC (will be kept private)
+* confidential@carpentries.org to report concerns regarding the CoC (confidential; recipient is C. MacDonnell)
 
 ## Current Members
 
