@@ -21,6 +21,7 @@ task).
 * [Finance](finance/README.md)
 * [Lesson Organization and Develpment](lessons/README.md)
 * [Partner Relations and Fundraising](partner-relations/README.md)
+* [Code of Conduct and Policy](policy-CoC/README.md)
 
 ## Former Subcommittees
 
