@@ -1,7 +1,7 @@
 Governance
 ==========
 
-1.  <a name="foundation"></a>
+1.  <a name="foundation"></a> 
     The Software Carpentry Foundation has four components: the
     Membership, the Steering Committee, the Advisory Council, and the
     Executive Director.
@@ -10,7 +10,7 @@ Governance
     The Membership is made up of:
 
     a.  Every qualified instructor who has taught at least twice in the
-        past two calendar years.
+        past two calendar years (730 days prior to the announced election date).
 
     b.  Anyone who has done 30 days or more work for the SCF in the past
         calendar year.
@@ -26,7 +26,7 @@ Governance
     financial decisions for the Foundation.  Its members are also
     expected to take on other responsibilities as needed.
 
-    a.  The Steering Committee must meet monthly, either in person or
+    a.  The Steering Committee must meet at least monthly, either in person or
         online.
 
     b.  Minutes of the Steering Committee's meetings must be published
@@ -35,7 +35,7 @@ Governance
 4.  <a name="steering-committee-elections"></a>
     The Steering Committee is re-elected annually.
 
-    a.  Every SCF member, and every organization that qualifies as a
+    a.  Every SCF member, and every organization (through a single designated representative voter) that qualifies as a
         Partner or Affiliate under the organizational membership
         rules, gets one vote in the annual election, the date of which
         is announced at least 90 days in advance.
@@ -64,14 +64,12 @@ Governance
     Steering Committee must consult with it when making significant
     strategic, contractual, or financial decisions.
 
-    a.  The Advisory Council meets quarterly, either in person or online.
+    a.  The Advisory Council meets as determined by the chair, either in person or online.
 
     b.  Minutes of the Advisory Council's meetings must be published
         within one week of each meeting.
 
-    c.  Any organization that qualifies as a Partner or Affiliate
-        under the organizational membership rules may appoint a
-        representative to the Advisory Council.
+    c.  Any organization that qualifies as a Partner at the 'Silver' level may appoint a representative to the Advisory Council.
 
     d.  The Steering Committee may decide to co-opt additional
         persons to the Advisory Council from the wider community at

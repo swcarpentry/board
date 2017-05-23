@@ -26,6 +26,7 @@ Press Releases
 
 Minutes of Interim Steering Committee Meetings
 ----------------------------------------------
+**2014**
 *   [2014-09-16](minutes/minutes-2014-09-16.md)
 *   [2014-09-30](minutes/minutes-2014-09-30.md)
 *   [2014-10-14](minutes/minutes-2014-10-14.md)
@@ -38,6 +39,7 @@ Minutes of Interim Steering Committee Meetings
 Minutes of Steering Committee Meetings
 --------------------------------------
 
+**2015**
 *   [2015-01-20](minutes/minutes-2015-01-20.md)
 *   [2015-02-03](minutes/minutes-2015-02-03.md)
 *   [2015-02-12](minutes/minutes-2015-02-12.md)
@@ -55,6 +57,8 @@ Minutes of Steering Committee Meetings
 *   [2015-08-26](minutes/minutes-2015-08-26.md)
 *   [2015-09-24](minutes/minutes-2015-09-24.md)
 *   [2015-10-08](minutes/minutes-2015-10-08.md)
+
+**2016**
 *   [2016-02-29](minutes/minutes-2016-02-29.md)
 *   [2016-03-09](minutes/minutes-2016-03-09.md)
 *   [2016-03-23](minutes/minutes-2016-03-23.md)
@@ -67,3 +71,10 @@ Minutes of Steering Committee Meetings
 *   [2016-09-08](minutes/minutes-2016-09-08.md)
 *   [2016-10-06](minutes/minutes-2016-10-06.md)
 *   [2016-11-02](minutes/minutes-2016-11-02.md)
+
+**2017**
+*   [2017-01-04](minutes/minutes-2017-01-04.md)
+*   [2017-02-22](minutes/minutes-2017-02-22.md)
+*   [2017-03-08](minutes/minutes-2017-03-08.md)
+*   [2017-04-03](minutes/minutes-2017-04-03.md)
+
