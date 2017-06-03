@@ -30,7 +30,7 @@ Governance
         online.
 
     b.  Minutes of the Steering Committee's meetings must be published
-        within one week of each meeting.
+        within one month of each meeting.
 
 4.  <a name="steering-committee-elections"></a>
     The Steering Committee is re-elected annually.
