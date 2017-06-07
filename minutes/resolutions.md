@@ -1,3 +1,31 @@
+## 2017
+Resolved: The Steering Committee has created a board-designated operating reserve ($80,000, equivalent to one quarter’s worth of budget) to provide an assurance of financial solvency
+(2017-05-10)
+
+Resolved: The Steering Committee empowers the trainer group to move forward with open instructor training events to non-member affiliated individuals
+(2017-05-10)
+
+Resolved: The Steering Committee empowers staff to perform tasks in their areas of focus while the Steering Committee retains oversight in the key areas of community, instructor training, curriculum, finances, and hiring staff
+(2017-05-10)
+
+Resolved: The Software Carpentry Steering Committee approves the following structure: A Carpentry umbrella organization and a set of Lesson Carpentries. The umbrella organization is primarily responsible for finances, administration, and facilitating policy. Each Lesson Carpentry is primarily responsible for lesson development and maintenance. 
+(2017-05-01)
+
+Resolved: Approve Maneesha’s job reclassification.
+(2017-05-01)
+
+Resolved: The Steering Committee chair will write a letter of support to Raniere Silva's proposal to NumFocus to promote Software Carpentry in Brazil, which will include pro bono instructor training if the proposal is accepted.
+(2017-04-03)
+
+Resolved: The Steering Committee will formally transition the 2017 Carpentry Con Task Force to the 2018 Carpentry Con Task Force.
+(2017-04-03)
+
+Resolved: The Steering Committee appoints Kate Herteck as Chair, Christina Koch as Vice-Chair, Sue McClatchy as Treasure and Rayna Harris as Secretary.
+(2017-03-08)
+
+
+## 2015
+
 Resolved: that the criteria for group participation in the December 2015 instructor training pilot not treat people affiliated with partners or other institutional members differentially.
 (2015-10-08)
 
@@ -188,6 +216,8 @@ Resolved: that the following people be invited to join the Advisory Council:
 *   Marian Petre
 *   Mark Plumbley.
 (2015-01-20)
+
+## 2014
 
 Resolved: that an interim budget committee be established consisting of Josh Greenberg, Tracy Teal, and Katy Huff with Greg Wilson attending as Executive Director.
 (2014-12-16)
