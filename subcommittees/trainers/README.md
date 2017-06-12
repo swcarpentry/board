@@ -9,10 +9,8 @@ What we do is described in detail in the instructor trainer agreement policy doc
 
 Befiefly, we carry out tasks including:
 - develop and teach the Instructor Training Curriculum: http://swcarpentry.github.io/instructor-training/
-- host/attend two group meetings a month: http://pad.software-carpentry.org/trainers
-  - Disscussion meetings - 1st Wednesday of the month
-  - Business meetings - 3rd Wednesday of the month
-- host demo sessionsfor instructor checkout: http://pad.software-carpentry.org/teaching-demos
+- host/attend monthly discussion and business meetings: http://pad.software-carpentry.org/trainers
+- host demo sessions for instructor checkout: http://pad.software-carpentry.org/teaching-demos
 
 ## Steering Committee Liaison
 - Christina Koch
