@@ -1,4 +1,6 @@
-# The Lesson Organization and Develpment Subcommittee
+# INACTIVE: The Lesson Organization and Develpment Subcommittee
+
+This subcommittee has been replaced by the [Lesson Infrastructure](../lesson-infrastructure/README.md) and [Lesson Maintainers](../maintainers/README.md) subcommittees.
 
 ## Purpose and Scope
 
