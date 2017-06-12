@@ -1,11 +1,11 @@
 ## 2017
-Resolved: The Steering Committee has created a board-designated operating reserve ($80,000, equivalent to one quarter’s worth of budget) to provide an assurance of financial solvency
+Resolved: The Steering Committee has created a board-designated operating reserve ($80,000, equivalent to one quarter’s worth of budget) to provide an assurance of financial solvency.
 (2017-05-10)
 
-Resolved: The Steering Committee empowers the trainer group to move forward with open instructor training events to non-member affiliated individuals
+Resolved: The Steering Committee empowers the trainer group to move forward with open instructor training events to non-member affiliated individuals.
 (2017-05-10)
 
-Resolved: The Steering Committee empowers staff to perform tasks in their areas of focus while the Steering Committee retains oversight in the key areas of community, instructor training, curriculum, finances, and hiring staff
+Resolved: The Steering Committee empowers staff to perform tasks in their areas of focus while the Steering Committee retains oversight in the key areas of community, instructor training, curriculum, finances, and hiring staff.
 (2017-05-10)
 
 Resolved: The Software Carpentry Steering Committee approves the following structure: A Carpentry umbrella organization and a set of Lesson Carpentries. The umbrella organization is primarily responsible for finances, administration, and facilitating policy. Each Lesson Carpentry is primarily responsible for lesson development and maintenance. 
@@ -20,11 +20,176 @@ Resolved: The Steering Committee chair will write a letter of support to Raniere
 Resolved: The Steering Committee will formally transition the 2017 Carpentry Con Task Force to the 2018 Carpentry Con Task Force.
 (2017-04-03)
 
-Resolved: The Steering Committee appoints Kate Herteck as Chair, Christina Koch as Vice-Chair, Sue McClatchy as Treasure and Rayna Harris as Secretary.
+Resolved: The Steering Committee appoints:
+* Kate Herteck as Chair.
+* Christina Koch as Vice-Chair.
+* Sue McClatchy as Treasure. 
+* Rayna Harris as Secretary.
 (2017-03-08)
+
+Resolved: The Steering Committee will begin a discussion with the Data Carpentry board about a merger into a joint organization.
+(2017-02-08)
+
+Resolved: The Steering Committee approves the job posting for Community Manager. Staff will being taking applications.  
+(2017-02-08)
+
+Resolved: The Steering Committee approves revisions to lesson maintainers and creation of lesson infrastructure subcommittees.
+(2017-01-04)
+
+Resolved: The Steering Committee approves reimbursing Jason Williams up to $500 in travel expenses for his attendance at the Survey Design workshop run by Tracy Teal and Kari Jordan.
+(2017-01-04)
+
+Resolved: The Steering Committee approves the formation of a subcommittee to support local/regional instructor communities.
+(2017-01-04)
+
+## 2016
+Resolved: The Steering Committee approves offering four open online instructor training sessions a year.
+(2016-11-30)
+
+Resolved: The Steering Committee approves to change what we currently call “Partnerships” to “Organizational Memberships” in all places.
+(2016-11-30)
+
+Resolved: The Steering Committee will conduct an online vote for community service awards, in which each Steering Committee member casts 2 votes, and the awards go to the persons receiving the most votes. In event of a tie, an extra award will be given.
+(2016-11-30)
+
+Resolved: The Steering Committee approves and adopts an instructor no-show policy.
+(2016-11-30)
+
+Resolved: The Steering Committee empowers a Code of Conduct (CoC) Subcommittee to roll out CoC enforcement.
+(2016-11-30)
+
+Resolved: The Steering Committee approves a Task Force proposal for CarpentryCon.
+(2016-11-02)
+
+Resolved: The Steering Committee approves the writing of proposal in response to the National Institute for Health (NIH) Big Data to Knowledge (BD2K) Call for Meetings Funding Opportunity Announcement (FOA).
+(2016-11-02)
+
+Resolved: The Steering Committee approves announcing deadline for nomination for Community Service awards.
+(2016-11-02)
+
+Resolved: The Steering Committee approves non-standard agreement with UC Boulder.
+(2016-10-06)
+
+Resolved: The Steering Committee approves jointly (with Data Carpentry) presenting two Community Service awards annually to volunteer members identified by the Steering Committees as having made outstanding contributions.
+(2016-09-08)
+
+Resolved: The Steering Committee approves invite five people (Karen Cranston, Sue McClatchy, Cam Macdonell, Mateusz Kuzakm, Allegra Via, Celia van Gelder) to begin training to become instructor trainers.
+(2016-09-08)
+
+Resolved: The Steering Committee approves motions for five non-standard Partnerships agreements. 
+(2016-08-11)
+
+Resolved: The Steering Committee accepts an in-kind donation of the time of a part-time system administrator.
+(2016-08-11)
+
+Resolved: The Steering Committee approves a three year term limit for steering commitee terms.
+(2016-08-11)
+
+Resolved: The Steering Committee approves the use ~US$600 of the R Consortium grant to cover travel and accommodation costs for Karin Lagesen to co-teach instructor training in Cambridge in September 2016.
+(2016-08-11)
+
+Resolved: The Steering Committee approves Specifying a procedure for handling violations of the Code of Conduct (CoC).
+(2016-07-07)
+
+Resolved: The Steering Committee approves becoming a participating project in the Python 3 Statement. 
+(2016-07-07)
+
+Resolved: The Steering Committee communications ideas for next three months outlined in https://github.com/swcarpentry/board_pvt/issues/307. 
+(2016-07-07)
+
+Resolved: The Steering Committee approves that changes to the terms for Steering Committee members election must be announced at least one month in advance of the election to which the revised rules apply.
+(2016-07-07)
+
+Resolved: The Steering Committee approves appointing Kate Hertweck, Rayna Harris, and Jonah Duckles to serve on a joint “Carpentries Bridge Committee”  with Data Carpentry.
+(2016-07-07)
+
+Resolved: The Steering Committee approves the job description for Director of Instructor Training
+(2016-06-16)
+
+Resolved: The Steering Committee approves offering a letter to Greg V. Wilson for the position Director of Instructor Training, for a 12- month term.
+(2016-06-16)
+
+Resolved: The Steering Committee approves the adoption of a lesson incubation proposal for the development of new lessons.
+(2016-06-16)
+
+Resolved: The Steering Committee approves African Guides Task Force.
+(2016-06-16)
+
+Resolved: The Steering Committee approves the process for community driven Subcommittees and Task Forces and will start the process of accepting applications. 
+(2016-04-06)
+
+Resolved: The Steering Committee approves the clarification of fee schedule text on the public-facing website.
+(2016-04-06)
+
+Resolved: The Steering Committee approves the Exective Director's pursuit of a “Royal Society of New Zealand Catalyst Leaders Fellowship”.
+(2016-04-06)
+
+Resolved: The Steering Committee approves holding an in-person meeting at Cold Spring Harbor Laboratory, NY, May 8-9th, 2016 (Sunday-Monday). The Software Carpentry Foundation shall cover reasonable costs for the transportation, accommodation costs, and group meals, for each member attending as well for the Software Carpentry Foundation’s Executive Director, Director of Instructor Training, and Administrator.
+(2016-03-23)
+
+Resolved: The Steering Committee authorizes its Executive Director to submit a pre-proposal to NSF 16-544 ($300,000). 
+(2016-03-23)
+
+Resolved: The Steering Committee grants the access to AMY to all board members. 
+(2016-03-23)
+
+Resolved: The Steering Committee appoints:
+* Jason Williams as Chair.
+* Karin Lagesen as Vice-Chair.
+* Bill Mills as Treasure. 
+* Raniere Silva as Secretary.
+(2016-03-09)
+
+Resolved: The Steering Committee approves a standard affiliate agreement with Oslo.
+(2016-02)
+
+Resolved: The Steering Committee approves a standard affiliate agreement with the Berkeley Institute for Data Science (BIDS), UCL, and Monsanto.
+(2016-02)
+
+Resolved: The Steering Committee approves the invitation of 6 people (Neal Davis, Rayna Harris, Lex Nederbragt, Anelda van der Walt, Jason Williams, and Belinda Weaver) to become instructor trainers.
+(2016-02)
+
+Resolved: The Steering Committee approves a six-month pilot of a paid license for BlueJeans to be split by DC and SWC.
+(2016-02)
+
+Resolved: The Steering Committee approves a South Africa Instructor Training iniative lead by Anelda van der Walt.
+(2016-02)
+
+Resolved: The Steering Committee approves a policy for instructors who fail to show up on short notice.
+(2016-02)
+
+Resolved: The Steering Committee approves an In-Person Instructor Training at UC Davis in February.
+(2016-01-04)
+
+Resolved: The Steering Committee approves the circulation of a 2016 Plan for Instructor Training to the Advisory Board.
+(2016-01-04)
 
 
 ## 2015
+
+Resolved: The Steering Committee approves clarification of membership qualifications.
+(2015-12-17)
+
+Resolved: The Steering Committee approves reimbursing New Zealand visa expenses for Aleksandra Pawlik.
+(2015-12-17)
+
+Resolved: The Steering Committee approves revising the instructor certification steps.
+(2015-12-17)
+
+Resolved: The Steering Committee approves paying Greg's salary from Lawrence Berekely Lab income.
+(2015-12-17)
+
+Resolved: The Steering Committee approves a requirement from self-organised workshops to send in a notification that they are happening at least one-month in advance
+(2015-11-19)
+
+Resolved: The Steering Committee approves funding Greg as Lead Instructor Trainer for two months in 2016.
+(2015-11-19)
+
+Resolved: The Steering Committee approves a revised protocol for seeking new instructors.
+(2015-11-19)
+
+Resolved: The Steering Committee approves inviting Bill Mills to be instructor trainer.
+(2015-11-19)
 
 Resolved: that the criteria for group participation in the December 2015 instructor training pilot not treat people affiliated with partners or other institutional members differentially.
 (2015-10-08)
