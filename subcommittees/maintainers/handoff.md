@@ -1,23 +1,3 @@
-# Maintainers
-
-## Role and Responsibilities
-
-The main duties of lesson maintenance include 
-
-* reviewing and merging new pull requests
-* opening and tracking issues
-* guiding the direction of the lesson
-* keeping the lesson up to date with the standard template
-* participating in discussions of lesson content/formatting on the [maintainers mailing list][maintainers]
-* maintain a welcoming and positive atmosphere for contribution by 
-	* responding promptly to new pull requests or issues
-	* following Software Carpentry's [Code of Conduct][CoC]
-
-The lesson maintainer is not required 
-to submit their own changes to the lesson in response to particular issues, 
-but they are welcome to submit PRs as they choose, like any other community 
-member.  
-
 ## New Maintainer Selection Process
 
 * Outgoing maintainer emails [discuss][] with announcement of opportunity: 
@@ -68,6 +48,5 @@ by myself, [co-maintainer], and other members of the SWC community
 * Announce new maintainer on discuss list.
 * Handover web call.
 
-[maintainers]: http://lists.software-carpentry.org/mailman/listinfo/maintainers_lists.software-carpentry.org
-[CoC]: http://software-carpentry.org/conduct/
 [discuss]: http://lists.software-carpentry.org/mailman/listinfo/discuss_lists.software-carpentry.org
+[maintainers]: http://lists.software-carpentry.org/mailman/listinfo/maintainers_lists.software-carpentry.org

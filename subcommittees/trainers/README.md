@@ -5,22 +5,12 @@
 This is the group of certified instructor trainers. We certify new instructors and collaborative develop the instructor training cirriculum.
 
 ## What We Do
+What we do is described in detail in the instructor trainer agreement policy document: https://github.com/carpentries/policies/blob/master/trainer-agreement.md
 
-### Teach and Develop the Instructor Training Curriculum
-
-See the lesson here: http://swcarpentry.github.io/instructor-training/
-
-### Hold two group meetings a month 
-
-We hold two meetings a month:
-- Disscussion meetings - 1st Wednesday of the month
-- Business meetings - 3rd Wednesday of the month
-
-The etherpad is here: http://pad.software-carpentry.org/trainers
-
-## Host demo sessions for instructor checkout
-
-The etherpad is here: http://pad.software-carpentry.org/teaching-demos
+Befiefly, we carry out tasks including:
+- develop and teach the Instructor Training Curriculum: http://swcarpentry.github.io/instructor-training/
+- host/attend monthly discussion and business meetings: http://pad.software-carpentry.org/trainers
+- host demo sessions for instructor checkout: http://pad.software-carpentry.org/teaching-demos
 
 ## Steering Committee Liaison
 - Christina Koch

@@ -18,20 +18,18 @@ View the working [Google Document][google-doc] which includes our progress on ab
 ## Meetings
 We have occasional [meetings][].  Minutes of past meetings areavailable [here](minutes).
 
-## Steering Committee Liaison
-* Mateusz Kuzak 
-
 ## Current Task Force Members
+* Fotis Psomopoulos (Chair)
+* Malvika Sharan (Secretary)
+* Mark Laufersweiler
+* Mateusz Kuzak (Steering Committee Liason)
 * Alix Keener 
 * Greg Wilson 
 * Rayna Harris 
-* Malvika Sharan 
 * Jason Williams
 * Tracy Teal
-* Mark Laufersweiler 
 * Jamie Hadwin 
 * Ivo Arrey 
-* Fotis Psomopoulos
 * Jonah Duckles
 
 [google-doc]: https://drive.google.com/drive/folders/0B2Mb22lbj2tjMFBiVE5oQ3ctZHc

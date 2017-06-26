@@ -8,7 +8,8 @@ Overall Operation
 *   [Governance](governance.md)
 *   [Organizational Membership](membership.md)
 *   [Workshop Revenue and Operations](workshops.md)
-*   [Maintainer Guidelines](maintainers.md)
+*   [Subcommittees](subcommittees/README.md)
+*   [Task Forces](TaskForces/README.md)
 
 Management
 ----------
@@ -77,4 +78,5 @@ Minutes of Steering Committee Meetings
 *   [2017-02-22](minutes/minutes-2017-02-22.md)
 *   [2017-03-08](minutes/minutes-2017-03-08.md)
 *   [2017-04-03](minutes/minutes-2017-04-03.md)
-
+*   [2017-05-01](minutes/minutes-2017-05-01.md)
+*   [2017-05-10](minutes/minutes-2017-04-10.md)
