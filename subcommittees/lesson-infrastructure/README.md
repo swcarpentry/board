@@ -65,7 +65,7 @@ list](#mailing-list).
 
 ## Steering Comittee Liaison
 
-* LIAISON_NAME (@LIAISON_GITHUB_USER, OTHER_LIAISON_CONTACT)
+* Kate Hertweck (@k8hertweck)
 
 ## Current Members
 
