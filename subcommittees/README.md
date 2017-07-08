@@ -28,6 +28,7 @@ task).
 
 * [Lesson Organization and Develpment](lessons/README.md).
   This subcommittee has been replaced by the [Lesson Infrastructure](lesson-infrastructure/README.md) and [Lesson Maintainers](maintainers/README.md) subcommittees.
+* [Trainers](https://github.com/carpentries/trainers). All documentation related to the former Trainers subcommittee (made up of all instructor trainers) has been migrated to the [carpentries/trainers](https://github.com/carpentries/trainers) GitHub repo.  
 
 ## How to Propose a New Subcommittee
 
