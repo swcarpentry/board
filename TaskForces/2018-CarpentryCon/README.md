@@ -16,13 +16,13 @@ Right now, we are working on
 View the working [Google Document][google-doc] which includes our progress on above items.
 
 ## Meetings
-We have occasional [meetings][].  Minutes of past meetings areavailable [here](minutes).
+We have occasional [meetings][].  Minutes of past meetings are available [here](minutes).
 
 ## Current Task Force Members
 * Fotis Psomopoulos (Chair)
 * Malvika Sharan (Secretary)
 * Mark Laufersweiler
-* Mateusz Kuzak (Steering Committee Liason)
+* Mateusz Kuzak (Steering Committee Liaison)
 * Alix Keener 
 * Greg Wilson 
 * Rayna Harris 
@@ -31,6 +31,7 @@ We have occasional [meetings][].  Minutes of past meetings areavailable [here](m
 * Jamie Hadwin 
 * Ivo Arrey 
 * Jonah Duckles
+* Belinda Weaver
 
 [google-doc]: https://drive.google.com/drive/folders/0B2Mb22lbj2tjMFBiVE5oQ3ctZHc
 [meetings]: http://pad.software-carpentry.org/2018carpentrycontaskforce
