@@ -1,4 +1,4 @@
-Subject: Data & Software Carpentry Workshop Debriefing
+Subject: Software and Data Carpentry Workshop Debriefing
 
 Dear instructors,
 
@@ -16,4 +16,4 @@ We hope to see you soon!
 
 Cheers,
 [Your name]
-Software/Data Carpentry Mentoring Committee
+Software and Data Carpentry Mentoring Committee
