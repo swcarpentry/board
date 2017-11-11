@@ -1,4 +1,12 @@
 ## 2017
+Resolved: Approved the giving of a book to all of the instructor trainers for professional development and as a thank you
+(2017-10-10)
+
+Resolved: Approved the creation of a Software Carpentry Lesson Organization Task Force
+(2017-09-12)
+
+Resolved: Approved revised Fiscal Sponsorship Agreement (FSA) with NumFOCUS
+(2017-09-12)
 
 Resolved: The Board of Directors for the combined organization will be composed of 9 members, each serving a two year term without limits on the number of terms. Five members will be appointed through a process of nomination to the board followed by voting by board members. The other four members will be elected by the membership of the organization. 
 (2017-07-03)
