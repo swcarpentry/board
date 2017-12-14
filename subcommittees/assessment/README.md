@@ -17,7 +17,7 @@ posts are available [here][blog-archives].
 We have occasional meetings.  Minutes of past meetings are available
 [here](minutes).
 
-## Steering Comittee Liaison
+## Steering Committee Liaison
 
 * Jason Williams (@JasonJWilliamsNY)
 

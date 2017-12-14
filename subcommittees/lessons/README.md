@@ -1,4 +1,6 @@
-# The Lesson Organization and Develpment Subcommittee
+# INACTIVE: The Lesson Organization and Develpment Subcommittee
+
+This subcommittee has been replaced by the [Lesson Infrastructure](../lesson-infrastructure/README.md) and [Lesson Maintainers](../maintainers/README.md) subcommittees.
 
 ## Purpose and Scope
 
@@ -20,7 +22,7 @@ posts are available [here][blog-archives].
 The best way to contact this Subcommittee is via the [mailing
 list][mailing-list], which is archived [here][mailing-list-archives].
 
-## Steering Comittee Liaison
+## Steering Committee Liaison
 
 * Matt Davis (@jiffyclub)
 

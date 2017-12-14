@@ -22,7 +22,7 @@ progress on above items.
 We have occasional [meetings][].  Minutes of past meetings are
 available [here](minutes).
 
-## Steering Comittee Liaison
+## Steering Committee Liaison
 
 * Rayna Harris (@raynamharris)
 
