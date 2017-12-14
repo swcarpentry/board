@@ -43,16 +43,19 @@ Governance
     b.  Every SCF member may stand for election by announcing their
         candidacy at least 30 days in advance of it.
 
-    c.  The seven people who receive the most votes form the new
+    d.  The seven people who receive the most votes form the new
+        Steering Committee.  If there are seven or fewer candidates
+        and none are affiliated with the same organization, no vote
+        needs to be taken and all candidates become members of the new
         Steering Committee.
 
-    d.  No organization may have more than two representatives on the
+    e.  No organization may have more than two representatives on the
         Steering Committee.  If more than two people who are
         affiliated with an organization are elected, they must step
         down one by one to be replaced by other candidates in order of
         the number of votes received.
     
-    e.  Following an election, the new Steering Committee will meet 
+    f.  Following an election, the new Steering Committee will meet 
         jointly with the previous Steering Committee for no less than 
         60 days. For meetings during the first 30 first days, the new 
         SC will not have voting privileges. After 30 days, voting 
