@@ -9,6 +9,11 @@ Committee.
  
 ## General Responsibilities
 
+All of these responsibilities fall under the executive branch and are
+the responsibility of the Executive Director.  The Executive Director
+may appoint proxies to act on their behalf, delegating any or all of
+their powers to the proxy as they see fit.
+
 ### 1) Steering Committee Governance
 
 Works with the Steering Committee in order to fulfill the organization
@@ -73,6 +78,10 @@ operations of the organization are appropriate.
 * Responsible for signing all notes, agreements, and other instruments
   made and entered into and on behalf of the organization. All
   agreements will only be made with Steering Committee approval.
+
+* Responsible for managing and maintaining all Software Carpentry
+  resources, including mailing lists, GitHub repositories, and other
+  venues managed by the Software Carpentry Foundation.
 
 ## Professional Qualifications
 
