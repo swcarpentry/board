@@ -1,4 +1,28 @@
 ## 2017
+Resolved: Approved the giving of a book to all of the instructor trainers for professional development and as a thank you
+(2017-10-10)
+
+Resolved: Approved the creation of a Software Carpentry Lesson Organization Task Force
+(2017-09-12)
+
+Resolved: Approved revised Fiscal Sponsorship Agreement (FSA) with NumFOCUS
+(2017-09-12)
+
+Resolved: The Board of Directors for the combined organization will be composed of 9 members, each serving a two year term without limits on the number of terms. Five members will be appointed through a process of nomination to the board followed by voting by board members. The other four members will be elected by the membership of the organization. 
+(2017-07-03)
+
+Resolved: The combined organization will have an Executive Director who reports to the Board of Directors. Initially, this position will be offered to Dr. Tracy Teal.  
+(2017-07-03)
+
+Resolved: The combined organization will have a Director of Business Development who reports to the Executive Director. Initially, this position will be offered to Jonah Duckles. 
+(2017-07-03)
+
+Resolved: Existing subcommittees and task forces will have a point of contact from among the staff, rather than reporting directly to the Board of Directors. 
+(2017-07-03)
+
+Resolved: Publish the strategic report 
+(2017-06-05)
+
 Resolved: The Steering Committee has created a board-designated operating reserve ($80,000, equivalent to one quarter’s worth of budget) to provide an assurance of financial solvency.
 (2017-05-10)
 

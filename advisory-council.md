@@ -2,7 +2,7 @@
 
 The Software Carpentry Foundation Governance policy outlines an
 Advisory Council. This Advisory Council consists of representatives
-nominated by qualifying partner and affiliate members along with
+nominated by qualifying member organization and affiliate members along with
 co-opted additional members. The overall role of the Advisory Council
 is provide advice and guidance to SCF on strategic, contractual and
 financial matters.
@@ -13,16 +13,16 @@ financial matters.
 The Advisory Council is made up of representatives of organizations
 that support the Software Carpentry Foundation's mission.
 
-Any organization that qualifies as a Partner or Affiliate under the
+Any organization that qualifies as a Member Organization under the
 organizational membership rules may appoint a representative to the
 Advisory Council. They may continue to have a representative on the
 Advisory Council until such time as they no longer qualify as a
-Partner or Affiliate.
+Member Organization.
 
 In addition, the Advisory Council may decide to co-opt additional
 persons to the Advisory Council from the wider community at anytime,
 with a default term of one year. The number of co-opted members should
-not exceed the number of partners and affiliates represented on the
+not exceed the number of Member Organizations represented on the
 Advisory Council.
 
 <a name="chair"></a>
