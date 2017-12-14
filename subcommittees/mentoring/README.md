@@ -18,6 +18,10 @@ This program supports instructors who are new to our community by matching them 
 
 See [this page](https://github.com/datacarpentry/mentoring-program/blob/master/program-outline.md) for a full outline of the program.  
 
+## Related Projects
+
+The [Local/Regional Mentor Subcommittee](../local-group/README.md) facilitates local communities.
+
 ## Mentoring Committee Meetings
 
 The mentoring committee itself meets regularly to evaluate current activities, and propose
@@ -80,7 +84,11 @@ For a complete summary of different mentoring roles, see [this page](roles.md).
 * Mariela Perignon (@mperignon)
 * Michael Sarahan (@msarahan)
 
+
 [discussion]: http://pad.software-carpentry.org/instructor-discussion
 [host-mailing-list]: https://groups.google.com/a/carpentries.org/forum/#!forum/discussion-hosts
 [comm-mailing-list]: http://lists.software-carpentry.org/listinfo/mentoring
 [meetings]: http://pad.software-carpentry.org/scf-mentoring
+[blog]: https://software-carpentry.org/blog/
+[blog-archives]: https://software-carpentry.org/blog/categories/#mentoring
+[mailing-list-archives]: http://lists.software-carpentry.org/pipermail/mentoring/
